@@ -4,8 +4,8 @@
             "name":"Bulbasaur",
             "number":"#001",
             "types":[
-                {"type1": "Grama" },
-                {"type2": "Veneno" }
+                {"type": "Grama" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/001.png"},
@@ -18,8 +18,8 @@
             "name":"Ivysaur",
             "number":"#002",
             "types":[
-                {"type1": "Grama" },
-                {"type2": "Veneno" }
+                {"type": "Grama" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/002.png"},
@@ -32,8 +32,8 @@
             "name": "Venusaur",
             "number": "#003",
             "types":[
-                {"type1": "Grama" },
-                {"type2": "Veneno" }
+                {"type": "Grama" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/003.png"},
@@ -46,7 +46,7 @@
             "name": "Charmander",
             "number": "#004",
             "types":[
-                {"type1": "Fogo" }
+                {"type": "Fogo" }
             ],
             "images":[
                 {"png": "./poke-png/004.png"},
@@ -59,7 +59,7 @@
             "name": "Charmeleon",
             "number": "#005",
             "types":[
-                {"type1": "Fogo" }
+                {"type": "Fogo" }
             ],
             "images":[
                 {"png": "./poke-png/005.png"},
@@ -72,8 +72,8 @@
             "name": "Charizard",
             "number": "#006",
             "types":[
-                {"type1": "Fogo" },
-                {"type2": "Voador"}
+                {"type": "Fogo" },
+                {"type": "Voador"}
             ],
             "images":[
                 {"png": "./poke-png/006.png"},
@@ -86,7 +86,7 @@
             "name": "Squirtle",
             "number": "#007",
             "types":[
-                {"type1": "Agua" }
+                {"type": "Agua" }
             ],
             "images":[
                 {"png": "./poke-png/007.png"},
@@ -99,7 +99,7 @@
             "name": "Wartortle",
             "number": "#008",
             "types":[
-                {"type1": "Agua" }
+                {"type": "Agua" }
             ],
             "images":[
                 {"png": "./poke-png/008.png"},
@@ -112,7 +112,7 @@
             "name": "Blastoise",
             "number": "#009",
             "types":[
-                {"type1": "Agua" }
+                {"type": "Agua" }
             ],
             "images":[
                 {"png": "./poke-png/009.png"},
@@ -125,7 +125,7 @@
             "name": "Caterpie",
             "number": "#010",
             "types":[
-                {"type1": "Inseto" }
+                {"type": "Inseto" }
             ],
             "images":[
                 {"png": "./poke-png/010.png"},
@@ -138,7 +138,7 @@
             "name": "Metapod",
             "number": "#011",
             "types":[
-                {"type1": "Inseto" }
+                {"type": "Inseto" }
             ],
             "images":[
                 {"png": "./poke-png/011.png"},
@@ -151,8 +151,8 @@
             "name": "Butterfree",
             "number": "#012",
             "types":[
-                {"type1": "Inseto" },
-                {"type1": "Voador" }
+                {"type": "Inseto" },
+                {"type": "Voador" }
             ],
             "images":[
                 {"png": "./poke-png/012.png"},
@@ -165,8 +165,8 @@
             "name": "Weedle",
             "number": "#013",
             "types":[
-                {"type1": "Inseto" },
-                {"type1": "Veneno" }
+                {"type": "Inseto" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/013.png"},
@@ -179,8 +179,8 @@
             "name": "Kakuna",
             "number": "#014",
             "types":[
-                {"type1": "Inseto" },
-                {"type1": "Veneno" }
+                {"type": "Inseto" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/014.png"},
@@ -193,8 +193,8 @@
             "name": "Beedrill",
             "number": "#015",
             "types":[
-                {"type1": "Inseto" },
-                {"type1": "Veneno" }
+                {"type": "Inseto" },
+                {"type": "Veneno" }
             ],
             "images":[
                 {"png": "./poke-png/015.png"},
