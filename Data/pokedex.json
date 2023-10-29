@@ -292,6 +292,308 @@
             ],
             "baseStats":{"HP": 65, "Atack": 90, "Defense": 40, "Sp.atack": 45, "Sp.Def": 80, "Speed": 75 },
             "description": "Beedrill em dois pares de asas arredondadas e um ferrão em seu abdome listrado. Beedrill é altamente territorial e normalmente vive em colônias. Como visto no anime, Beedrill parece estar especialmente preocupados com o bem estar de Weedle e Kakuna, e vai responder de forma agressiva para aqueles que os perturbam. "
+        },
+        {
+            "name": "Pidgey",
+            "number": "#016",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images":[
+                {"png": "./poke-png/016.png"},
+                {"gif": "./poke-gif/016.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Pidgey"},
+                {"name": "Pidgeotto"},
+                {"name": "Pidgeot"}
+            ],
+            "baseStats":{"HP": 40, "Atack": 45, "Defense": 40, "Sp.atack": 35, "Sp.Def": 35, "Speed": 56 },
+            "description": "Não gosta de lutar. Ele se esconde na grama alta e assim por diante, procurando alimentos, como pequenos insetos.Uma visão comum em florestas e bosques. Bate as asas ao nível do solo para chutar areia ofuscante."
+        },
+        {
+            "name": "Pidgeotto",
+            "number": "#017",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images":[
+                {"png": "./poke-png/017.png"},
+                {"gif": "./poke-gif/017.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Pidgey"},
+                {"name": "Pidgeotto"},
+                {"name": "Pidgeot"}
+            ],
+            "baseStats":{"HP": 63, "Atack": 60, "Defense": 55, "Sp.atack": 50, "Sp.Def": 50, "Speed": 71 },
+            "description": "As garras em seus pés são bem desenvolvidas. Pode transportar presas como um EXEGGCUTE para o seu ninho a mais de 60 milhas de distância.Muito protetor de sua extensa área territorial, este POKéMON vai bicar ferozmente qualquer intruso."
+        },
+        {
+            "name": "Pidgeot",
+            "number": "#018",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images":[
+                {"png": "./poke-png/018.png"},
+                {"gif": "./poke-gif/018.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Pidgey"},
+                {"name": "Pidgeotto"},
+                {"name": "Pidgeot"}
+            ],
+            "baseStats":{"HP": 83, "Atack": 80, "Defense": 75, "Sp.atack": 70, "Sp.Def": 70, "Speed": 101 },
+            "description": "Ele abre suas lindas asas amplamente para intimidar os inimigos. Ele corre pelos céus na velocidade Mach-2. Ao caçar, ele roça a superfície da água em alta velocidade para pegar presas incautas como MAGIKARP."
+        },
+        {
+            "name": "Rattata",
+            "number": "#019",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images":[
+                {"png": "./poke-png/019.png"},
+                {"gif": "./poke-gif/019.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Rattata"},
+                {"name": "Raticate"}
+            ],
+            "baseStats":{"HP": 30, "Atack": 56, "Defense": 35, "Sp.atack": 25, "Sp.Def": 35, "Speed": 72 },
+            "description": "Suas presas são longas e muito afiadas. Eles crescem continuamente, então roe coisas difíceis para reduzi-los. Morde qualquer coisa quando ataca. Pequeno e muito rápido, é uma visão comum em muitos lugares."
+        },
+        {
+            "name": "Raticate",
+            "number": "#020",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images":[
+                {"png": "./poke-png/020.png"},
+                {"gif": "./poke-gif/020.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Rattata"},
+                {"name": "Raticate"}
+            ],
+            "baseStats":{"HP": 55, "Atack": 81, "Defense": 60, "Sp.atack": 50, "Sp.Def": 70, "Speed": 97 },
+            "description": "Seus pés traseiros têm três dedos cada. Eles são cobertos por teias, permitindo que ele nade através dos rios. Utiliza os seus bigodes para manter o equilíbrio. Aparentemente, abranda se forem cortados."
+        },
+        {
+            "name": "Spearow",
+            "number": "#021",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images":[
+                {"png": "./poke-png/021.png"},
+                {"gif": "./poke-gif/021.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Spearow"},
+                {"name": "Fearow"}
+            ],
+            "baseStats":{"HP": 40, "Atack": 60, "Defense": 30, "Sp.atack": 31, "Sp.Def": 31, "Speed": 70 },
+            "description": "Ele voa agitadamente por aqui e ali. Mesmo que seja frágil, pode ser um inimigo difícil que usa MIRROR MOVE. Come insetos em áreas gramadas. Tem de bater as asas curtas a alta velocidade para se manter no ar."
+        },
+        {
+            "name": "Fearow",
+            "number": "#022",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images":[
+                {"png": "./poke-png/022.png"},
+                {"gif": "./poke-gif/022.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Spearow"},
+                {"name": "Fearow"}
+            ],
+            "baseStats":{"HP": 65, "Atack": 90, "Defense": 65, "Sp.atack": 61, "Sp.Def": 61, "Speed": 100 },
+            "description": "Suas enormes e magníficas asas podem mantê-lo no céu. Ele pode permanecer voando um dia inteiro sem pousar. Com as suas enormes e magníficas asas, pode manter-se no alto sem nunca ter de aterrar para descansar."
+        },
+        {
+            "name": "Ekans",
+            "number": "#023",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images":[
+                {"png": "./poke-png/023.png"},
+                {"gif": "./poke-gif/023.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Ekans"},
+                {"name": "Arbok"}
+            ],
+            "baseStats":{"HP": 35, "Atack": 60, "Defense": 44, "Sp.atack": 40, "Sp.Def": 54, "Speed": 55 },
+            "description": "Uma visão muito comum em pastagens, etc. Ele passa a língua para dentro e para fora para sentir o perigo em seu entorno. Movendo-se silenciosa e furtivamente, come os ovos de aves, como PIDGEY e SPEAROW, inteiros."
+        },
+        {
+            "name": "Arbok",
+            "number": "#024",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images":[
+                {"png": "./poke-png/024.png"},
+                {"gif": "./poke-gif/024.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Ekans"},
+                {"name": "Arbok"}
+            ],
+            "baseStats":{"HP": 60, "Atack": 95, "Defense": 69, "Sp.atack": 65, "Sp.Def": 79, "Speed": 80 },
+            "description": "O padrão em sua barriga parece ser um rosto assustador. Inimigos fracos fugirão apenas ao ver o padrão. Há rumores de que as ferozes marcas de advertência em sua barriga diferem de área para área."
+        },
+        {
+            "name": "Pikachu",
+            "number": "#025",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images":[
+                {"png": "./poke-png/025.png"},
+                {"gif": "./poke-gif/025.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Pichu"},
+                {"name": "Pikachu"},
+                {"name": "Raichu"}
+            ],
+            "baseStats":{"HP": 35, "Atack": 55, "Defense": 40, "Sp.atack": 50, "Sp.Def": 50, "Speed": 90 },
+            "description": "Tem pequenos sacos elétricos em ambas as bochechas. Se ameaçado, perde cargas elétricas dos sacos. Quando vários destes POKéMON se reúnem, a sua eletricidade pode acumular-se e causar tempestades de raios."
+        },
+        {
+            "name": "Raichu",
+            "number": "#026",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images":[
+                {"png": "./poke-png/026.png"},
+                {"gif": "./poke-gif/026.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Pichu"},
+                {"name": "Pikachu"},
+                {"name": "Raichu"}
+            ],
+            "baseStats":{"HP": 60, "Atack": 90, "Defense": 55, "Sp.atack": 90, "Sp.Def": 80, "Speed": 110 },
+            "description": "Suas cargas elétricas podem chegar a até 100.000 volts. O contato descuidado pode fazer com que até mesmo um elefante indiano desmaie. Sua cauda longa serve como um terreno para se proteger de sua própria energia de alta tensão."
+        },
+        {
+            "name": "Sandshrew",
+            "number": "#027",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images":[
+                {"png": "./poke-png/027.png"},
+                {"gif": "./poke-gif/027.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Sandshrew"},
+                {"name": "Sandslash"}
+            ],
+            "baseStats":{"HP": 50, "Atack": 75, "Defense": 85, "Sp.atack": 20, "Sp.Def": 30, "Speed": 40 },
+            "description": "Escava e vive no subsolo. Se ameaçado, enrola-se numa bola para proteção. Toca no subsolo em locais áridos longe da água. Só surge para caçar presas."
+        },
+        {
+            "name": "Sandslash",
+            "number": "#028",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images":[
+                {"png": "./poke-png/028.png"},
+                {"gif": "./poke-gif/028.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Sandshrew"},
+                {"name": "Sandslash"}
+            ],
+            "baseStats":{"HP": 75, "Atack": 100, "Defense": 110, "Sp.atack": 45, "Sp.Def": 55, "Speed": 65 },
+            "description": "É hábil em atacar com os espinhos nas costas e suas garras afiadas enquanto corre rapidamente. Enrola-se em uma bola espinhosa quando ameaçado. Pode rolar enquanto enrolado para atacar ou escapar."
+        },
+        {
+            "name": "Nidoran♀",
+            "number": "#029",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images":[
+                {"png": "./poke-png/029.png"},
+                {"gif": "./poke-gif/029.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Nidoran♀"},
+                {"name": "Nidorina"},
+                {"name": "Nidoqueen"}
+            ],
+            "baseStats":{"HP": 55, "Atack": 47, "Defense": 52, "Sp.atack": 40, "Sp.Def": 40, "Speed": 41 },
+            "description": "Embora pequeno, deve ser tratado com cautela por causa de suas farpas poderosamente tóxicas. A fêmea tem chifres menores. Apesar de pequenas, as suas farpas venenosas tornam este POKéMON perigoso. A fêmea tem chifres menores."
+        },
+        {
+            "name": "Nidorina",
+            "number": "#030",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images":[
+                {"png": "./poke-png/030.png"},
+                {"gif": "./poke-gif/030.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Nidoran♀"},
+                {"name": "Nidorina"},
+                {"name": "Nidoqueen"}
+            ],
+            "baseStats":{"HP": 70, "Atack": 62, "Defense": 67, "Sp.atack": 55, "Sp.Def": 55, "Speed": 56 },
+            "description": "A fêmea tem um temperamento gentil. Ele emite gritos ultrassônicos que têm o poder de confundir os inimigos. Os chifres da fêmea desenvolvem-se lentamente. Prefere ataques físicos, como bater palmas e morder."
+        },
+        {
+            "name": "Nidoqueen",
+            "number": "#031",
+            "types":[
+                {"type": "Veneno" },
+                {"type": "Terra" }
+            ],
+            "images":[
+                {"png": "./poke-png/031.png"},
+                {"gif": "./poke-gif/031.gif"}
+
+            ],
+            "evolution":[
+                {"name": "Nidoran♀"},
+                {"name": "Nidorina"},
+                {"name": "Nidoqueen"}
+            ],
+            "baseStats":{"HP": 90, "Atack": 92, "Defense": 87, "Sp.atack": 75, "Sp.Def": 85, "Speed": 76 },
+            "description": "O corpo é coberto por escamas rígidas semelhantes a agulhas. Se ficar excitado, as agulhas eriçam-se para fora. As suas escamas duras proporcionam uma forte proteção. Ele usa seu volume pesado para executar movimentos poderosos."
         }
     ]
 }
