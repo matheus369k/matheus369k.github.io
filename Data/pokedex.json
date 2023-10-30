@@ -61,7 +61,7 @@
                 {"name": "Charizard",  "Lv": 32, "img": "./poke-png-G1/006.png"}
             ],
             "baseStats":{"HP": 39, "Atack": 52, "Defense": 43, "Sp.atack": 60, "Sp.Def": 50, "Speed": 65 },
-            "description": "Charmander e um Pokémon Lagarto que desde de seu nascimento, Charmander possui uma chama que queima na ponta de sua cauda, essa chama simboliza sua alegria e saúde e se ela se apagar, Charmander morrerá. Tem preferéncia por coisas quentes.Quando chove, diz-se que o vapor jorra da ponta da sua cauda."
+            "description": "Charmander e um Pokémon Lagarto que desde de seu nascimento possui uma chama que queima na ponta de sua cauda, ela simboliza sua alegria e saúde contudo se ela apagar Charmander morrerá.Quando chove, diz-se que o vapor jorra da ponta da sua cauda."
         },
         {
             "name": "Charmeleon",
