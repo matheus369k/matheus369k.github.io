@@ -13,6 +13,12 @@
                 {"name": "Ivysaur", "Lv": 16, "img": "./poke-png-G1/002.png"},
                 {"name": "Venusaur",  "Lv": 32, "img": "./poke-png-G1/003.png"}
             ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Pisquico" },
+                {"type": "Voador" }
+            ],
             "baseStats":{"HP": 45, "Atack": 49, "Defense": 49, "Sp.atack": 65, "Sp.Def": 65, "Speed": 45 },
             "description": "Uma estranha semente foi plantada em suas costas em seu nascimento. A planta brota e cresce com este Pokémon. Por algum tempo depois de seu nascimento, cresce ganhando nutrição da semente em suas costas."
         },
@@ -28,6 +34,12 @@
                 {"name": "Bulbasaur", "Lv": 1, "img": "./poke-png-G1/001.png"},
                 {"name": "Ivysaur", "Lv": 16, "img": "./poke-png-G1/002.png"},
                 {"name": "Venusaur",  "Lv": 32, "img": "./poke-png-G1/003.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Pisquico" },
+                {"type": "Voador" }
             ],
             "baseStats":{"HP": 60, "Atack": 62, "Defense": 63, "Sp.atack": 80, "Sp.Def": 80, "Speed": 60 },
             "description": "Ha um broto nas costas desse  pokemon. Para suportar seu peso, as pernas e o tronco do ivysaur fica grossos e fortes se começar a passar mais tempo sob a luz do sol é um sinal que o broto florecerá em uma flor grande em breve."
@@ -45,6 +57,12 @@
                 {"name": "Ivysaur", "Lv": 16, "img": "./poke-png-G1/002.png"},
                 {"name": "Venusaur",  "Lv": 32, "img": "./poke-png-G1/003.png"}
             ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Pisquico" },
+                {"type": "Voador" }
+            ],
             "baseStats":{"HP": 80, "Atack": 82, "Defense": 83, "Sp.atack": 100, "Sp.Def": 100, "Speed": 80 },
             "description": "Há uma grande flor nas costas de Venusaur. Diz-se que a flor assume cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas. Sua planta floresce quando está absorvendo energia solar. Ele permanece em movimento para buscar a luz solar."
         },
@@ -60,6 +78,11 @@
                 {"name": "Charmeleon", "Lv": 16, "img": "./poke-png-G1/005.png"},
                 {"name": "Charizard",  "Lv": 32, "img": "./poke-png-G1/006.png"}
             ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 39, "Atack": 52, "Defense": 43, "Sp.atack": 60, "Sp.Def": 50, "Speed": 65 },
             "description": "Charmander e um Pokémon Lagarto que desde de seu nascimento possui uma chama que queima na ponta de sua cauda, ela simboliza sua alegria e saúde contudo se ela apagar Charmander morrerá.Quando chove, diz-se que o vapor jorra da ponta da sua cauda."
         },
@@ -74,6 +97,11 @@
                 {"name": "Charmander", "Lv": 1, "img": "./poke-png-G1/004.png"},
                 {"name": "Charmeleon", "Lv": 16, "img": "./poke-png-G1/005.png"},
                 {"name": "Charizard",  "Lv": 32, "img": "./poke-png-G1/006.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
             ],
             "baseStats":{"HP": 58, "Atack": 64, "Defense": 58, "Sp.atack": 80, "Sp.Def": 65, "Speed": 80 },
             "description": "Gosta muito de brigas, por isso busca constantemente por adversários. Ele ataca com suas garras afiadas e usando sua cauda como chicote de fogo. Pode soltar chamas azuis quando muito animado."
@@ -91,6 +119,11 @@
                 {"name": "Charmeleon", "Lv": 16, "img": "./poke-png-G1/005.png"},
                 {"name": "Charizard",  "Lv": 32, "img": "./poke-png-G1/006.png"}
             ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Eletrico" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 78, "Atack": 84, "Defense": 78, "Sp.atack": 109, "Sp.Def": 85, "Speed": 100 },
             "description": "Seu fogo é quente o suficiente para derreter rochas. Quando nervoso, a chama em sua cauda queimará intensamente. É orgulhoso e voa pelos céus em busca de adversários poderosos."
         },
@@ -105,6 +138,10 @@
                 {"name": "Squirtle", "Lv": 1, "img": "./poke-png-G1/007.png"},
                 {"name": "Wartortle", "Lv": 16, "img": "./poke-png-G1/008.png"},
                 {"name": "Blastoise",  "Lv": 32, "img": "./poke-png-G1/009.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
             ],
             "baseStats":{"HP": 44, "Atack": 48, "Defense": 65, "Sp.atack": 50, "Sp.Def": 64, "Speed": 43 },
             "description": "Quando nasce, seu casco é mole, mas logo endurece. Cutucando com o dedo fará os pedaços de seu casco saltar. Ele entra dentro do casco quando se sente ameaçado."
@@ -121,6 +158,10 @@
                 {"name": "Wartortle", "Lv": 16, "img": "./poke-png-G1/008.png"},
                 {"name": "Blastoise",  "Lv": 32, "img": "./poke-png-G1/009.png"}
             ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
             "baseStats":{"HP": 59, "Atack": 63, "Defense": 80, "Sp.atack": 65, "Sp.Def": 80, "Speed": 58 },
             "description": "É muito inteligente, sabe controlar as orelhas e o rabo para manter o equilíbrio na água e nadar em altas velocidades. Seu rabo felpudo é símbolo de longevidade."
         },
@@ -135,6 +176,10 @@
                 {"name": "Squirtle", "Lv": 1, "img": "./poke-png-G1/007.png"},
                 {"name": "Wartortle", "Lv": 16, "img": "./poke-png-G1/008.png"},
                 {"name": "Blastoise",  "Lv": 32, "img": "./poke-png-G1/009.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
             ],
             "baseStats":{"HP": 79, "Atack": 83, "Defense": 100, "Sp.atack": 85, "Sp.Def": 105, "Speed": 78 },
             "description": "Um Pokémon brutal com jatos de água pressurizada em sua concha. Eles são usadas ​​para ataques em alta velocidade. Os bicos de água são muito precisos."
@@ -151,6 +196,11 @@
                 {"name": "Metapod", "Lv": 7, "img": "./poke-png-G1/011.png"},
                 {"name": "Butterfree",  "Lv": 10, "img": "./poke-png-G1/012.png"}
             ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 45, "Atack": 30, "Defense": 35, "Sp.atack": 20, "Sp.Def": 20, "Speed": 45 },
             "description": "Caterpie Como forma de  proteção, Caterpie libera um cheiro horrível através de suas antenas. Suas patas pegajosas são capazes de andar em qualquer tipo de superfície."
         },
@@ -165,6 +215,11 @@
                 {"name": "Caterpie", "Lv": 1, "img": "./poke-png-G1/010.png"},
                 {"name": "Metapod", "Lv": 7, "img": "./poke-png-G1/011.png"},
                 {"name": "Butterfree",  "Lv": 10, "img": "./poke-png-G1/012.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Rocha" }
             ],
             "baseStats":{"HP": 50, "Atack": 20, "Defense": 55, "Sp.atack": 25, "Sp.Def": 25, "Speed": 30 },
             "description": "Metapod tem a concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque está preparando suas entranhas suaves para a evolução dentro da casca dura."
@@ -182,6 +237,13 @@
                 {"name": "Metapod", "Lv": 7, "img": "./poke-png-G1/011.png"},
                 {"name": "Butterfree",  "Lv": 10, "img": "./poke-png-G1/012.png"}
             ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 60, "Atack": 45, "Defense": 50, "Sp.atack": 90, "Sp.Def": 80, "Speed": 70 },
             "description": "Butterfree tem o corpo da cor azul-púrpura escuro. Ele tem grandes asas veias, que são brancas com manchas pretas. Ele também possue olhos compostos grandes que tendem a ser uma cor avermelhada, suas pernas são cobertas de pêlos finos, o que ajuda na coleta de mel."
         },
@@ -197,6 +259,12 @@
                 {"name": "Weedle", "Lv": 1, "img": "./poke-png-G1/013.png"},
                 {"name": "Kakuna", "Lv": 7, "img": "./poke-png-G1/014.png"},
                 {"name": "Beedrill",  "Lv": 10, "img": "./poke-png-G1/015.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
             ],
             "baseStats":{"HP": 40, "Atack": 35, "Defense": 30, "Sp.atack": 20, "Sp.Def": 20, "Speed": 50 },
             "description": "Weedle é um pokemon larva pequeno amarelo, laranja ou marrom com um corpo segmentado. A coloração do Weedle serve como aviso contra seus. Weedle tem um ferrão cônico de duas polegadas venenoso em sua cabeça e um farpado em sua cauda, mas todas as outras partes do corpo é esférica."
@@ -214,6 +282,12 @@
                 {"name": "Kakuna", "Lv": 7, "img": "./poke-png-G1/014.png"},
                 {"name": "Beedrill",  "Lv": 10, "img": "./poke-png-G1/015.png"}
             ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 45, "Atack": 25, "Defense": 50, "Sp.atack": 25, "Sp.Def": 25, "Speed": 35 },
             "description": "Kakuna é um casulo de cor amarela. Tem olhos brancos enquanto seu globo ocular é preto, Kakuna praticamente não se move e fica em árvores naturalmente."
         },
@@ -229,6 +303,12 @@
                 {"name": "Weedle", "Lv": 1, "img": "./poke-png-G1/013.png"},
                 {"name": "Kakuna", "Lv": 7, "img": "./poke-png-G1/014.png"},
                 {"name": "Beedrill",  "Lv": 10, "img": "./poke-png-G1/015.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
             ],
             "baseStats":{"HP": 65, "Atack": 90, "Defense": 40, "Sp.atack": 45, "Sp.Def": 80, "Speed": 75 },
             "description": "Beedrill em dois pares de asas arredondadas e um ferrão em seu abdome listrado. Beedrill é altamente territorial e normalmente vive em colônias. Como visto no anime, Beedrill parece estar especialmente preocupados com o bem estar de Weedle e Kakuna, e vai responder de forma agressiva para aqueles que os perturbam. "
@@ -246,6 +326,11 @@
                 {"name": "Pidgeotto", "Lv": 18, "img": "./poke-png-G1/017.png"},
                 {"name": "Pidgeot",  "Lv": 36, "img": "./poke-png-G1/018.png"}
             ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 40, "Atack": 45, "Defense": 40, "Sp.atack": 35, "Sp.Def": 35, "Speed": 56 },
             "description": "Não gosta de lutar. Ele se esconde na grama alta e assim por diante, procurando alimentos, como pequenos insetos.Uma visão comum em florestas e bosques. Bate as asas ao nível do solo para chutar areia ofuscante."
         },
@@ -261,6 +346,11 @@
                 {"name": "Pidgey", "Lv": 1, "img": "./poke-png-G1/016.png"},
                 {"name": "Pidgeotto", "Lv": 18, "img": "./poke-png-G1/017.png"},
                 {"name": "Pidgeot",  "Lv": 36, "img": "./poke-png-G1/018.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
             ],
             "baseStats":{"HP": 63, "Atack": 60, "Defense": 55, "Sp.atack": 50, "Sp.Def": 50, "Speed": 71 },
             "description": "As garras em seus pés são bem desenvolvidas. Pode transportar presas como um EXEGGCUTE para o seu ninho a mais de 60 milhas de distância.Muito protetor de sua extensa área territorial, este POKéMON vai bicar ferozmente qualquer intruso."
@@ -278,6 +368,11 @@
                 {"name": "Pidgeotto", "Lv": 18, "img": "./poke-png-G1/017.png"},
                 {"name": "Pidgeot",  "Lv": 36, "img": "./poke-png-G1/018.png"}
             ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 83, "Atack": 80, "Defense": 75, "Sp.atack": 70, "Sp.Def": 70, "Speed": 101 },
             "description": "Ele abre suas lindas asas amplamente para intimidar os inimigos. Ele corre pelos céus na velocidade Mach-2. Ao caçar, ele roça a superfície da água em alta velocidade para pegar presas incautas como MAGIKARP."
         },
@@ -292,6 +387,9 @@
                 {"name": "Rattata", "Lv": 1, "img": "./poke-png-G1/019.png"},
                 {"name": "Raticate", "Lv": 20, "img": "./poke-png-G1/020.png"}
             ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
             "baseStats":{"HP": 30, "Atack": 56, "Defense": 35, "Sp.atack": 25, "Sp.Def": 35, "Speed": 72 },
             "description": "Suas presas são longas e muito afiadas. Eles crescem continuamente, então roe coisas difíceis para reduzi-los. Morde qualquer coisa quando ataca. Pequeno e muito rápido, é uma visão comum em muitos lugares."
         },
@@ -305,6 +403,9 @@
             "evolution":[
                 {"name": "Rattata", "Lv": 1, "img": "./poke-png-G1/019.png"},
                 {"name": "Raticate", "Lv": 20, "img": "./poke-png-G1/020.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
             ],
             "baseStats":{"HP": 55, "Atack": 81, "Defense": 60, "Sp.atack": 50, "Sp.Def": 70, "Speed": 97 },
             "description": "Seus pés traseiros têm três dedos cada. Eles são cobertos por teias, permitindo que ele nade através dos rios. Utiliza os seus bigodes para manter o equilíbrio. Aparentemente, abranda se forem cortados."
@@ -321,6 +422,11 @@
                 {"name": "Spearow", "Lv": 1, "img": "./poke-png-G1/021.png"},
                 {"name": "Fearow", "Lv": 20, "img": "./poke-png-G1/022.png"}
             ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 40, "Atack": 60, "Defense": 30, "Sp.atack": 31, "Sp.Def": 31, "Speed": 70 },
             "description": "Ele voa agitadamente por aqui e ali. Mesmo que seja frágil, pode ser um inimigo difícil que usa MIRROR MOVE. Come insetos em áreas gramadas. Tem de bater as asas curtas a alta velocidade para se manter no ar."
         },
@@ -336,6 +442,11 @@
                 {"name": "Spearow", "Lv": 1, "img": "./poke-png-G1/021.png"},
                 {"name": "Fearow", "Lv": 20, "img": "./poke-png-G1/022.png"}
             ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
             "baseStats":{"HP": 65, "Atack": 90, "Defense": 65, "Sp.atack": 61, "Sp.Def": 61, "Speed": 100 },
             "description": "Suas enormes e magníficas asas podem mantê-lo no céu. Ele pode permanecer voando um dia inteiro sem pousar. Com as suas enormes e magníficas asas, pode manter-se no alto sem nunca ter de aterrar para descansar."
         },
@@ -350,6 +461,10 @@
                 {"name": "Ekans", "Lv": 1, "img": "./poke-png-G1/023.png"},
                 {"name": "Arbok", "Lv": 22, "img": "./poke-png-G1/024.png"}
             ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
             "baseStats":{"HP": 35, "Atack": 60, "Defense": 44, "Sp.atack": 40, "Sp.Def": 54, "Speed": 55 },
             "description": "Uma visão muito comum em pastagens, etc. Ele passa a língua para dentro e para fora para sentir o perigo em seu entorno. Movendo-se silenciosa e furtivamente, come os ovos de aves, como PIDGEY e SPEAROW, inteiros."
         },
@@ -363,6 +478,10 @@
             "evolution":[
                 {"name": "Ekans", "Lv": 1, "img": "./poke-png-G1/023.png"},
                 {"name": "Arbok", "Lv": 22, "img": "./poke-png-G1/024.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
             ],
             "baseStats":{"HP": 60, "Atack": 95, "Defense": 69, "Sp.atack": 65, "Sp.Def": 79, "Speed": 80 },
             "description": "O padrão em sua barriga parece ser um rosto assustador. Inimigos fracos fugirão apenas ao ver o padrão. Há rumores de que as ferozes marcas de advertência em sua barriga diferem de área para área."
@@ -379,6 +498,9 @@
                 {"name": "Pikachu", "Lv": "high Friendship", "img": "./poke-png-G1/025.png"},
                 {"name": "Raichu", "Lv": "Thunder Stone", "img": "./poke-png-G1/026.png"}
             ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
             "baseStats":{"HP": 35, "Atack": 55, "Defense": 40, "Sp.atack": 50, "Sp.Def": 50, "Speed": 90 },
             "description": "Tem pequenos sacos elétricos em ambas as bochechas. Se ameaçado, perde cargas elétricas dos sacos. Quando vários destes POKéMON se reúnem, a sua eletricidade pode acumular-se e causar tempestades de raios."
         },
@@ -394,6 +516,9 @@
                 {"name": "Pikachu", "Lv": "high Friendship", "img": "./poke-png-G1/025.png"},
                 {"name": "Raichu", "Lv": "Thunder Stone", "img": "./poke-png-G1/026.png"}
             ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
             "baseStats":{"HP": 60, "Atack": 90, "Defense": 55, "Sp.atack": 90, "Sp.Def": 80, "Speed": 110 },
             "description": "Suas cargas elétricas podem chegar a até 100.000 volts. O contato descuidado pode fazer com que até mesmo um elefante indiano desmaie. Sua cauda longa serve como um terreno para se proteger de sua própria energia de alta tensão."
         },
@@ -408,6 +533,11 @@
                 {"name": "Sandshrew", "Lv": 1, "img": "./poke-png-G1/027.png"},
                 {"name": "Sandslash", "Lv": 22, "img": "./poke-png-G1/028.png"}
             ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" }
+            ],
             "baseStats":{"HP": 50, "Atack": 75, "Defense": 85, "Sp.atack": 20, "Sp.Def": 30, "Speed": 40 },
             "description": "Escava e vive no subsolo. Se ameaçado, enrola-se numa bola para proteção. Toca no subsolo em locais áridos longe da água. Só surge para caçar presas."
         },
@@ -421,6 +551,11 @@
             "evolution":[
                 {"name": "Sandshrew", "Lv": 1, "img": "./poke-png-G1/027.png"},
                 {"name": "Sandslash", "Lv": 22, "img": "./poke-png-G1/028.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" }
             ],
             "baseStats":{"HP": 75, "Atack": 100, "Defense": 110, "Sp.atack": 45, "Sp.Def": 55, "Speed": 65 },
             "description": "É hábil em atacar com os espinhos nas costas e suas garras afiadas enquanto corre rapidamente. Enrola-se em uma bola espinhosa quando ameaçado. Pode rolar enquanto enrolado para atacar ou escapar."
@@ -437,6 +572,10 @@
                 {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/030.png"},
                 {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/031.png"}
             ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
             "baseStats":{"HP": 55, "Atack": 47, "Defense": 52, "Sp.atack": 40, "Sp.Def": 40, "Speed": 41 },
             "description": "Embora pequeno, deve ser tratado com cautela por causa de suas farpas poderosamente tóxicas. A fêmea tem chifres menores. Apesar de pequenas, as suas farpas venenosas tornam este POKéMON perigoso. A fêmea tem chifres menores."
         },
@@ -451,6 +590,10 @@
                 {"name": "Nidoran♀", "Lv": 1, "img": "./poke-png-G1/029.png"},
                 {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/030.png"},
                 {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/031.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
             ],
             "baseStats":{"HP": 70, "Atack": 62, "Defense": 67, "Sp.atack": 55, "Sp.Def": 55, "Speed": 56 },
             "description": "A fêmea tem um temperamento gentil. Ele emite gritos ultrassônicos que têm o poder de confundir os inimigos. Os chifres da fêmea desenvolvem-se lentamente. Prefere ataques físicos, como bater palmas e morder."
@@ -467,6 +610,12 @@
                 {"name": "Nidoran♀", "Lv": 1, "img": "./poke-png-G1/029.png"},
                 {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/030.png"},
                 {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/031.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Gelo" },
+                {"type": "Terra" },
+                {"type": "Pisquico" }
             ],
             "baseStats":{"HP": 90, "Atack": 92, "Defense": 87, "Sp.atack": 75, "Sp.Def": 85, "Speed": 76 },
             "description": "O corpo é coberto por escamas rígidas semelhantes a agulhas. Se ficar excitado, as agulhas eriçam-se para fora. As suas escamas duras proporcionam uma forte proteção. Ele usa seu volume pesado para executar movimentos poderosos."
