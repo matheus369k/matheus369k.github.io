@@ -690,7 +690,7 @@
             "evolution":[
                 {"name": "Cleffa", "Lv": 1, "img": "./poke-png-G2/022.png"},
                 {"name": "Clefairy", "Lv": "high Friendship", "img": "./poke-png-G1/035.png"},
-                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/036.png"}
             ],
             "superdamange": [
                 {"type": "Veneno" },
@@ -709,7 +709,7 @@
             "evolution":[
                 {"name": "Cleffa", "Lv": 1, "img": "./poke-png-G2/022.png"},
                 {"name": "Clefairy", "Lv": "high Friendship", "img": "./poke-png-G1/035.png"},
-                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/036.png"}
             ],
             "superdamange": [
                 {"type": "Veneno" },
