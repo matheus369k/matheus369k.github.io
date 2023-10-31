@@ -619,6 +619,625 @@
             ],
             "baseStats":{"HP": 90, "Atack": 92, "Defense": 87, "Sp.atack": 75, "Sp.Def": 85, "Speed": 76 },
             "description": "O corpo é coberto por escamas rígidas semelhantes a agulhas. Se ficar excitado, as agulhas eriçam-se para fora. As suas escamas duras proporcionam uma forte proteção. Ele usa seu volume pesado para executar movimentos poderosos."
+        },
+        {
+            "name": "Nidoran♂",
+            "number": "#032",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/032.png",
+            "evolution":[
+                {"name": "Nidoran♀", "Lv": 1, "img": "./poke-png-G1/032.png"},
+                {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/033.png"},
+                {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 46, "Atack": 57, "Defense": 40, "Sp.atack": 40, "Sp.Def": 40, "Speed": 50 },
+            "description": "Suas grandes orelhas são batidas como asas quando está ouvindo sons distantes. Estende farpas tóxicas quando irritado. Enrijece os ouvidos para sentir o perigo. Quanto maiores seus chifres, mais poderoso seu veneno secretado."
+        },
+        {
+            "name": "Nidorino",
+            "number": "#033",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/033.png",
+            "evolution":[
+                {"name": "Nidoran♀", "Lv": 1, "img": "./poke-png-G1/032.png"},
+                {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/033.png"},
+                {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 61, "Atack": 72, "Defense": 57, "Sp.atack": 55, "Sp.Def": 55, "Speed": 65 },
+            "description": "Irrita-se facilmente. Ao balançar seu chifre bem desenvolvido descontroladamente, ele pode até perfurar o diamante. Um POKéMON agressivo que é rápido a atacar. O chifre na cabeça secreta um veneno poderoso."
+        },
+        {
+            "name": "Nidoking",
+            "number": "#034",
+            "types":[
+                {"type": "Veneno" },
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/034.png",
+            "evolution":[
+                {"name": "Nidoran♀", "Lv": 1, "img": "./poke-png-G1/032.png"},
+                {"name": "Nidorina", "Lv": 16, "img": "./poke-png-G1/033.png"},
+                {"name": "Nidoqueen", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Gelo" },
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 81, "Atack": 102, "Defense": 77, "Sp.atack": 85, "Sp.Def": 75, "Speed": 85 },
+            "description": "É reconhecida pela sua pele dura de rocha e pelo seu chifre estendido. Tenha cuidado com o chifre, pois contém veneno. Ele usa sua cauda poderosa em batalha para esmagar, contrair e, em seguida, quebrar os ossos da presa."
+        },
+        {
+            "name": "Clefairy",
+            "number": "#035",
+            "types":[
+                {"type": "Fada" }
+            ],
+            "images": "./poke-png-G1/035.png",
+            "evolution":[
+                {"name": "Cleffa", "Lv": 1, "img": "./poke-png-G2/022.png"},
+                {"name": "Clefairy", "Lv": "high Friendship", "img": "./poke-png-G1/035.png"},
+                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+            ],
+            "superdamange": [
+                {"type": "Veneno" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 70, "Atack": 45, "Defense": 48, "Sp.atack": 60, "Sp.Def": 65, "Speed": 35 },
+            "description": "Sua aparência adorável o torna popular como um animal de estimação. No entanto, é raro e difícil de encontrar. Com seu apelo mágico e fofo, tem muitos admiradores. É raro e encontrado apenas em certas áreas."
+        },
+        {
+            "name": "Clefable",
+            "number": "#036",
+            "types":[
+                {"type": "Fada" }
+            ],
+            "images": "./poke-png-G1/036.png",
+            "evolution":[
+                {"name": "Cleffa", "Lv": 1, "img": "./poke-png-G2/022.png"},
+                {"name": "Clefairy", "Lv": "high Friendship", "img": "./poke-png-G1/035.png"},
+                {"name": "Clefable", "Lv": "Moon Stone", "img": "./poke-png-G1/034.png"}
+            ],
+            "superdamange": [
+                {"type": "Veneno" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 95, "Atack": 70, "Defense": 73, "Sp.atack": 95, "Sp.Def": 90, "Speed": 60 },
+            "description": "Tem um sentido agudo de audição. Ele pode facilmente ouvir um pino sendo derrubado a quase 1.100 metros de distância. Uma fada tímida POKéMON que raramente é vista, corre e esconde-se no momento em que sente as pessoas."
+        },
+        {
+            "name": "Vulpix",
+            "number": "#037",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/037.png",
+            "evolution":[
+                {"name": "Vulpix", "Lv": 1, "img": "./poke-png-G1/037.png"},
+                {"name": "Ninetales", "Lv": "Fire Stone", "img": "./poke-png-G1/038.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 38, "Atack": 41, "Defense": 40, "Sp.atack": 50, "Sp.Def": 65, "Speed": 65 },
+            "description": "Embora jovem, tem seis caudas lindas. Quando cresce, várias novas caudas são germinadas. Quando nasce, tem apenas uma cauda branca de neve. A cauda separa-se da ponta à medida que envelhece."
+        },
+        {
+            "name": "Ninetales",
+            "number": "#038",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/038.png",
+            "evolution":[
+                {"name": "Vulpix", "Lv": 1, "img": "./poke-png-G1/037.png"},
+                {"name": "Ninetales", "Lv": "Fire Stone", "img": "./poke-png-G1/038.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 73, "Atack": 76, "Defense": 75, "Sp.atack": 81, "Sp.Def": 100, "Speed": 100 },
+            "description": "Tem nove caudas longas e pelos que brilham ouro. Diz-se que vive 1.000 anos. Muito inteligente e muito vingativo. Agarrar uma de suas muitas caudas pode resultar em uma maldição de 1.000 anos."
+        },
+        {
+            "name": "Jigglypuff",
+            "number": "#039",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Fada" }
+            ],
+            "images": "./poke-png-G1/039.png",
+            "evolution":[
+                {"name": "Igglybuff", "Lv": 1, "img": "./poke-png-G2/023.png"},
+                {"name": "Jigglypuff", "Lv": "high Friendship", "img": "./poke-png-G1/039.png"},
+                {"name": "Wigglytuff", "Lv": "Moon Stone", "img": "./poke-png-G1/040.png"}
+            ],
+            "superdamange": [
+                {"type": "Veneno" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 115, "Atack": 45, "Defense": 20, "Sp.atack": 45, "Sp.Def": 25, "Speed": 20 },
+            "description": "Cativa os inimigos com os seus olhos enormes e redondos, depois embala-os a dormir cantando uma melodia suave. Quando seus enormes olhos vacilam, ele canta uma melodia misteriosamente suave que embala seus inimigos para dormir."
+        },
+        {
+            "name": "Wigglytuff",
+            "number": "#040",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Fada" }
+            ],
+            "images": "./poke-png-G1/040.png",
+            "evolution":[
+                {"name": "Igglybuff", "Lv": 1, "img": "./poke-png-G2/023.png"},
+                {"name": "Jigglypuff", "Lv": "high Friendship", "img": "./poke-png-G1/039.png"},
+                {"name": "Wigglytuff", "Lv": "Moon Stone", "img": "./poke-png-G1/040.png"}
+            ],
+            "superdamange": [
+                {"type": "Veneno" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 140, "Atack": 70, "Defense": 45, "Sp.atack": 85, "Sp.Def": 50, "Speed": 45 },
+            "description": "Sua pele é extremamente fina, densa e flexível. A pele requintadamente agradável transmite uma imagem de luxo. O corpo é macio e emborrachado. Quando irritado, ele vai sugar o ar e inflar-se a um tamanho enorme."
+        },
+        {
+            "name": "Zubat",
+            "number": "#041",
+            "types":[
+                {"type": "Veneno" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/041.png",
+            "evolution":[
+                {"name": "Zubat", "Lv": 1, "img": "./poke-png-G1/041.png"},
+                {"name": "Golbat", "Lv": 22, "img": "./poke-png-G1/042.png"},
+                {"name": "Crobat", "Lv": "high Friendship", "img": "./poke-png-G2/018.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 45, "Defense": 35, "Sp.atack": 30, "Sp.Def": 40, "Speed": 55 },
+            "description": "Não tem olhos. Em vez disso, ele depende de seus gritos ultrassônicos para a localização do eco para voar na escuridão. Forma colónias em locais perpetuamente escuros e utiliza ondas ultrassónicas para identificar e aproximar-se de alvos."
+        },
+        {
+            "name": "Golbat",
+            "number": "#042",
+            "types":[
+                {"type": "Veneno" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/042.png",
+            "evolution":[
+                {"name": "Zubat", "Lv": 1, "img": "./poke-png-G1/041.png"},
+                {"name": "Golbat", "Lv": 22, "img": "./poke-png-G1/042.png"},
+                {"name": "Crobat", "Lv": "high Friendship", "img": "./poke-png-G2/018.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 75, "Atack": 80, "Defense": 70, "Sp.atack": 65, "Sp.Def": 75, "Speed": 90 },
+            "description": "Ele reprime sua presa com presas afiadas por agulha e drena mais de 10 onças de sangue em um gole. Uma vez que morde, ele não vai parar de drenar energia da vítima, mesmo que fique muito pesado para voar."
+        },
+        {
+            "name": "Oddish",
+            "number": "#043",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/043.png",
+            "evolution":[
+                {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
+                {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
+                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 45, "Atack": 50, "Defense": 55, "Sp.atack": 75, "Sp.Def": 65, "Speed": 30 },
+            "description": "Seu nome científico é Oddium Wanderus. À noite, diz-se que anda quase 1.000 pés em suas duas raízes. Durante o dia, mantém o rosto enterrado no chão. À noite, vagueia por aí a semear as suas sementes."
+        },
+        {
+            "name": "Gloom",
+            "number": "#044",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/044.png",
+            "evolution":[
+                {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
+                {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
+                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 65, "Defense": 70, "Sp.atack": 85, "Sp.Def": 75, "Speed": 40 },
+            "description": "Seus pistilos exalam um odor incrivelmente fétido. O mau cheiro horrível pode causar desmaios a uma distância de 1,25 milhas. O líquido que escorre da boca não é baba. É um néctar que é usado para atrair presas."
+        },
+        {
+            "name": "Vileplume",
+            "number": "#045",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/045.png",
+            "evolution":[
+                {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
+                {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
+                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 75, "Atack": 80, "Defense": 85, "Sp.atack": 110, "Sp.Def": 90, "Speed": 50 },
+            "description": "Quanto maiores as pétalas, mais tóxico é o pólen que contém. Sua cabeça grande é pesada e difícil de segurar. Suas pétalas são as maiores do mundo. Dispersa diabolicamente o pólen causador de alergias das suas pétalas."
+        },
+        {
+            "name": "Paras",
+            "number": "#046",
+            "types":[
+                {"type": "Inseto" },
+                {"type": "Grama" }
+            ],
+            "images": "./poke-png-G1/046.png",
+            "evolution":[
+                {"name": "Paras", "Lv": 1, "img": "./poke-png-G1/046.png"},
+                {"name": "Parasect", "Lv": 24, "img": "./poke-png-G1/047.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Veneno" },
+                {"type": "Voador" },
+                {"type": "Inseto" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 35, "Atack": 70, "Defense": 55, "Sp.atack": 45, "Sp.Def": 55, "Speed": 25 },
+            "description": "Tocas para sugar raízes de árvores. Os cogumelos em suas costas crescem extraindo nutrientes do hospedeiro do inseto. Crescendo fora das costas do inseto são cogumelos chamados tochukaso. Os cogumelos crescem com o hospedeiro do inseto."
+        },
+        {
+            "name": "Parasect",
+            "number": "#047",
+            "types":[
+                {"type": "Inseto" },
+                {"type": "Grama" }
+            ],
+            "images": "./poke-png-G1/047.png",
+            "evolution":[
+                {"name": "Paras", "Lv": 1, "img": "./poke-png-G1/046.png"},
+                {"name": "Parasect", "Lv": 24, "img": "./poke-png-G1/047.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Veneno" },
+                {"type": "Voador" },
+                {"type": "Inseto" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 95, "Defense": 80, "Sp.atack": 60, "Sp.Def": 80, "Speed": 30 },
+            "description": "Um par hospedeiro-parasita em que o cogumelo parasita assumiu o controlo do inseto hospedeiro. Prefere locais húmidos. Dispersa esporos tóxicos da tampa do cogumelo. Na China, os esporos são usados como fitoterapia."
+        },
+        {
+            "name": "Venonat",
+            "number": "#048",
+            "types":[
+                {"type": "Inseto" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/048.png",
+            "evolution":[
+                {"name": "Venonat", "Lv": 1, "img": "./poke-png-G1/048.png"},
+                {"name": "Venomoth", "Lv": 31, "img": "./poke-png-G1/049.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 55, "Defense": 50, "Sp.atack": 40, "Sp.Def": 55, "Speed": 45 },
+            "description": "Vive nas sombras de árvores altas onde come insetos. É atraído pela luz à noite. Seus olhos atuam como radar, permitindo que ele esteja ativo na escuridão. Os olhos também podem disparar feixes poderosos."
+        },
+        {
+            "name": "Venomoth",
+            "number": "#049",
+            "types":[
+                {"type": "Inseto" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/049.png",
+            "evolution":[
+                {"name": "Venonat", "Lv": 1, "img": "./poke-png-G1/048.png"},
+                {"name": "Venomoth", "Lv": 31, "img": "./poke-png-G1/049.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 70, "Atack": 65, "Defense": 60, "Sp.atack": 90, "Sp.Def": 75, "Speed": 90 },
+            "description": "As escamas semelhantes a poeira que cobrem suas asas são codificadas por cores para indicar os tipos de veneno que tem. As asas estão cobertas com escamas semelhantes a poeira. Cada vez que bate as asas, perde poeira altamente tóxica."
+        },
+        {
+            "name": "Diglett",
+            "number": "#050",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/050.png",
+            "evolution":[
+                {"name": "Diglett", "Lv": 1, "img": "./poke-png-G1/050.png"},
+                {"name": "Dugtrio", "Lv": 26, "img": "./poke-png-G1/051.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" }
+            ],
+            "baseStats":{"HP": 10, "Atack": 55, "Defense": 25, "Sp.atack": 35, "Sp.Def": 45, "Speed": 95 },
+            "description": "Vive a cerca de um quintal subterrâneo onde se alimenta de raízes de plantas. Às vezes aparece acima do solo. Ele escava através do solo a uma profundidade rasa. Ele deixa terra elevada em seu rastro, tornando-o fácil de detetar."
+        },
+        {
+            "name": "Dugtrio",
+            "number": "#051",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/051.png",
+            "evolution":[
+                {"name": "Diglett", "Lv": 1, "img": "./poke-png-G1/050.png"},
+                {"name": "Dugtrio", "Lv": 26, "img": "./poke-png-G1/051.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" }
+            ],
+            "baseStats":{"HP": 35, "Atack": 100, "Defense": 50, "Sp.atack": 50, "Sp.Def": 70, "Speed": 120 },
+            "description": "Uma equipa de trigêmeos DIGLETT. Ele desencadeia grandes terremotos escavando 60 milhas no subsolo. Em batalha, ele cava o chão e atinge o inimigo desavisado de uma direção inesperada."
+        },
+        {
+            "name": "Meowth",
+            "number": "#052",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/052.png",
+            "evolution":[
+                {"name": "Meowth", "Lv": 1, "img": "./poke-png-G1/052.png"},
+                {"name": "Persian", "Lv": 28, "img": "./poke-png-G1/053.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 45, "Defense": 35, "Sp.atack": 40, "Sp.Def": 40, "Speed": 90 },
+            "description": "Adora objetos redondos. Perambula pelas ruas todas as noites à procura de trocos soltos. Tudo o que faz é dormir durante o dia. À noite, patrulha o seu território com os olhos arregalados."
+        },
+        {
+            "name": "Persian",
+            "number": "#053",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/053.png",
+            "evolution":[
+                {"name": "Meowth", "Lv": 1, "img": "./poke-png-G1/052.png"},
+                {"name": "Persian", "Lv": 28, "img": "./poke-png-G1/053.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 70, "Defense": 60, "Sp.atack": 65, "Sp.Def": 65, "Speed": 115 },
+            "description": "Embora sua pele tenha muitos admiradores, é difícil de criar como um animal de estimação por causa de sua maldade volúvel. Tem um temperamento vicioso. Cuidado se ele levantar a cauda para cima. É um sinal de que está prestes a atacar e morder."
+        },
+        {
+            "name": "Psyduck",
+            "number": "#054",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/054.png",
+            "evolution":[
+                {"name": "Psyduck", "Lv": 1, "img": "./poke-png-G1/054.png"},
+                {"name": "Golduck", "Lv": 33, "img": "./poke-png-G1/055.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 50, "Atack": 52, "Defense": 48, "Sp.atack": 65, "Sp.Def": 50, "Speed": 55 },
+            "description": "Enquanto embala seus inimigos com seu visual vago, este esperto POKéMON usará poderes psicocinéticos. É constantemente assolado por uma dor de cabeça. Quando a dor de cabeça se torna intensa, ela começa a usar poderes misteriosos."
+        },
+        {
+            "name": "Golduck",
+            "number": "#055",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/055.png",
+            "evolution":[
+                {"name": "Psyduck", "Lv": 1, "img": "./poke-png-G1/054.png"},
+                {"name": "Golduck", "Lv": 33, "img": "./poke-png-G1/055.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 82, "Defense": 78, "Sp.atack": 95, "Sp.Def": 80, "Speed": 85 },
+            "description": "Muitas vezes visto nadando elegantemente pelas margens do lago. É muitas vezes confundido com o monstro japonês Kappa. As patas dianteiras são amarradas, ajudando a torná-lo um nadador experiente. Pode ser visto nadando elegantemente em lagos, etc."
+        },
+        {
+            "name": "Mankey",
+            "number": "#056",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/056.png",
+            "evolution":[
+                {"name": "Mankey", "Lv": 1, "img": "./poke-png-G1/056.png"},
+                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 80, "Defense": 35, "Sp.atack": 35, "Sp.Def": 45, "Speed": 70 },
+            "description": "Extremamente rápido para irritar. Pode ser dócil num momento, depois debulhar-se no instante seguinte. Leve e ágil nos pés, e feroz no temperamento. Quando irritado, ele voa em um frenesi incontrolável."
+        },
+        {
+            "name": "Primeape",
+            "number": "#057",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/057.png",
+            "evolution":[
+                {"name": "Mankey", "Lv": 1, "img": "./poke-png-G1/056.png"},
+                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 105, "Defense": 60, "Sp.atack": 60, "Sp.Def": 70, "Speed": 95 },
+            "description": "Sempre furioso e tenaz para arrancar. Não abandonará a perseguição à sua pedreira até recuperar o atraso.É sempre escandalosamente furioso. Se der perseguição, ele seguirá tenazmente o alvo, não importa quão longe."
+        },
+        {
+            "name": "Growlithe",
+            "number": "#058",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/058.png",
+            "evolution":[
+                {"name": "Growlithe", "Lv": 1, "img": "./poke-png-G1/058.png"},
+                {"name": "Arcanine", "Lv": "Fire Stone", "img": "./poke-png-G1/059.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 70, "Defense": 45, "Sp.atack": 70, "Sp.Def": 50, "Speed": 60 },
+            "description": "Muito simpático e fiel às pessoas. Ele tentará repelir os inimigos latindo e mordendo. É muito protetor do seu território. Ele vai latir e morder para repelir intrusos de seu espaço."
+        },
+        {
+            "name": "Arcanine",
+            "number": "#059",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/059.png",
+            "evolution":[
+                {"name": "Growlithe", "Lv": 1, "img": "./poke-png-G1/058.png"},
+                {"name": "Arcanine", "Lv": "Fire Stone", "img": "./poke-png-G1/059.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 110, "Defense": 80, "Sp.atack": 100, "Sp.Def": 80, "Speed": 95 },
+            "description": "Um POKéMON que é descrito em lendas chinesas. Diz-se que corre a uma velocidade inacreditável. Um POKéMON que há muito é admirado pela sua beleza. Corre com agilidade como se estivesse em asas."
+        },
+        {
+            "name": "Poliwag",
+            "number": "#060",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/060.png",
+            "evolution":[
+                {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
+                {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
+                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 50, "Defense": 40, "Sp.atack": 40, "Sp.Def": 40, "Speed": 90 },
+            "description": "Suas pernas recém-crescidas o impedem de andar bem. Parece preferir nadar a caminhar. A sua pele negra lisa é fina e húmida. Uma parte de seus órgãos internos pode ser vista através da pele como um padrão espiral."
+        },
+        {
+            "name": "Poliwhirl",
+            "number": "#061",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/061.png",
+            "evolution":[
+                {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
+                {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
+                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 65, "Defense": 65, "Sp.atack": 50, "Sp.Def": 50, "Speed": 90 },
+            "description": "Pode viver dentro ou fora de água. Quando está fora de água, transpira constantemente para manter o corpo magro. Suas duas pernas estão bem desenvolvidas. Apesar de poder viver no solo, prefere viver na água."
+        },
+        {
+            "name": "Poliwrath",
+            "number": "#062",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/062.png",
+            "evolution":[
+                {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
+                {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
+                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 95, "Defense": 95, "Sp.atack": 70, "Sp.Def": 90, "Speed": 70 },
+            "description": "Um nadador adepto tanto do crawl frontal quanto do nado peito. Ultrapassa facilmente os melhores nadadores humanos. An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers."
         }
     ]
 }
