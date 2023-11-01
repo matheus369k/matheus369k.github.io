@@ -1238,6 +1238,662 @@
             ],
             "baseStats":{"HP": 90, "Atack": 95, "Defense": 95, "Sp.atack": 70, "Sp.Def": 90, "Speed": 70 },
             "description": "Um nadador adepto tanto do crawl frontal quanto do nado peito. Ultrapassa facilmente os melhores nadadores humanos. An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers."
+        },
+        {
+            "name": "Abra",
+            "number": "#063",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/063.png",
+            "evolution":[
+                {"name": "Abra", "Lv": 1, "img": "./poke-png-G1/063.png"},
+                {"name": "Kadabra", "Lv": 16, "img": "./poke-png-G1/064.png"},
+                {"name": "Alakazam", "Lv": "Trade", "img": "./poke-png-G1/065.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 25, "Atack": 20, "Defense": 15, "Sp.atack": 105, "Sp.Def": 55, "Speed": 90 },
+            "description": "Usando sua capacidade de ler mentes, ele sentirá o perigo iminente e TELETRANSPORTARÁ para a segurança. Dorme 18 horas por dia. Ele usa uma variedade de poderes extrassensoriais mesmo enquanto dorme."
+        },
+        {
+            "name": "Kadabra",
+            "number": "#064",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/064.png",
+            "evolution":[
+                {"name": "Abra", "Lv": 1, "img": "./poke-png-G1/063.png"},
+                {"name": "Kadabra", "Lv": 16, "img": "./poke-png-G1/064.png"},
+                {"name": "Alakazam", "Lv": "Trade", "img": "./poke-png-G1/065.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 35, "Defense": 30, "Sp.atack": 120, "Sp.Def": 70, "Speed": 105 },
+            "description": "Ele emite ondas alfa especiais de seu corpo que induzem dores de cabeça apenas por estar perto. Aconteceu uma manhã - um menino com poderes extrassensoriais acordou na cama transformado em KADABRA."
+        },
+        {
+            "name": "Alakazam",
+            "number": "#065",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/065.png",
+            "evolution":[
+                {"name": "Abra", "Lv": 1, "img": "./poke-png-G1/063.png"},
+                {"name": "Kadabra", "Lv": 16, "img": "./poke-png-G1/064.png"},
+                {"name": "Alakazam", "Lv": "Trade", "img": "./poke-png-G1/065.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 50, "Defense": 45, "Sp.atack": 135, "Sp.Def": 95, "Speed": 120 },
+            "description": "Seu cérebro pode superar um supercomputador. Diz-se que o seu QI (quociente de inteligência) ronda os 5.000. Não gosta muito de ataques físicos. Em vez disso, usa livremente poderes extrassensoriais para derrotar inimigos."
+        },
+        {
+            "name": "Machop",
+            "number": "#066",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/066.png",
+            "evolution":[
+                {"name": "Machop", "Lv": 1, "img": "./poke-png-G1/066.png"},
+                {"name": "Machoke", "Lv": 28, "img": "./poke-png-G1/067.png"},
+                {"name": "Machamp", "Lv": "Trade", "img": "./poke-png-G1/068.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 70, "Atack": 80, "Defense": 50, "Sp.atack": 35, "Sp.Def": 35, "Speed": 35 },
+            "description": "Adora construir os seus músculos. Ele treina em todos os estilos de artes marciais para se tornar ainda mais forte. Todo o seu corpo é composto por músculos. Mesmo sendo do tamanho de uma criança humana, pode arremessar 100 adultos."
+        },
+        {
+            "name": "Machoke",
+            "number": "#067",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/067.png",
+            "evolution":[
+                {"name": "Machop", "Lv": 1, "img": "./poke-png-G1/066.png"},
+                {"name": "Machoke", "Lv": 28, "img": "./poke-png-G1/067.png"},
+                {"name": "Machamp", "Lv": "Trade", "img": "./poke-png-G1/068.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 100, "Defense": 70, "Sp.atack": 50, "Sp.Def": 60, "Speed": 45 },
+            "description": "Seu corpo musculoso é tão poderoso que ele deve usar um cinto de economia de energia para ser capaz de regular seus movimentos. Seu corpo formidável nunca se cansa. Ajuda as pessoas através de trabalhos como a movimentação de mercadorias pesadas."
+        },
+        {
+            "name": "Machamp",
+            "number": "#068",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/068.png",
+            "evolution":[
+                {"name": "Machop", "Lv": 1, "img": "./poke-png-G1/066.png"},
+                {"name": "Machoke", "Lv": 28, "img": "./poke-png-G1/067.png"},
+                {"name": "Machamp", "Lv": "Trade", "img": "./poke-png-G1/068.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 130, "Defense": 80, "Sp.atack": 65, "Sp.Def": 85, "Speed": 55 },
+            "description": "Diz-se que seus socos superpoderosos derrubam a vítima voando sobre o horizonte. Seus quatro braços robustamente desenvolvidos podem lançar uma enxurrada de 1.000 socos em apenas dois segundos."
+        },
+        {
+            "name": "Bellsprout",
+            "number": "#069",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/069.png",
+            "evolution":[
+                {"name": "Bellsprout", "Lv": 1, "img": "./poke-png-G1/069.png"},
+                {"name": "Weepinbell", "Lv": 21, "img": "./poke-png-G1/070.png"},
+                {"name": "Victreebel", "Lv": "Leaf Stone", "img": "./poke-png-G1/071.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 50, "Atack": 75, "Defense": 35, "Sp.atack": 70, "Sp.Def": 30, "Speed": 40 },
+            "description": "Um POKéMON carnívoro que prende e come insetos. Parece usar as raízes dos pés para repor a humidade. Seu botão parece um rosto humano. Por causa do broto, há rumores de que seja um tipo de planta mandrake lendária."
+        },
+        {
+            "name": "Weepinbell",
+            "number": "#070",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/070.png",
+            "evolution":[
+                {"name": "Bellsprout", "Lv": 1, "img": "./poke-png-G1/069.png"},
+                {"name": "Weepinbell", "Lv": 21, "img": "./poke-png-G1/070.png"},
+                {"name": "Victreebel", "Lv": "Leaf Stone", "img": "./poke-png-G1/071.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 90, "Defense": 50, "Sp.atack": 85, "Sp.Def": 45, "Speed": 55 },
+            "description": "Ele cospe POISONPOWDER para imobilizar o inimigo e, em seguida, termina-o com um spray de ACID. As partes frondosas atuam como cortadores para cortar inimigos. Cuspir um fluido que dissolve tudo."
+        },
+        {
+            "name": "Victreebel",
+            "number": "#071",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/071.png",
+            "evolution":[
+                {"name": "Bellsprout", "Lv": 1, "img": "./poke-png-G1/069.png"},
+                {"name": "Weepinbell", "Lv": 21, "img": "./poke-png-G1/070.png"},
+                {"name": "Victreebel", "Lv": "Leaf Stone", "img": "./poke-png-G1/071.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 105, "Defense": 65, "Sp.atack": 100, "Sp.Def": 70, "Speed": 70 },
+            "description": "Disse viver em enormes colônias nas profundezas das selvas, embora ninguém nunca tenha voltado de lá. Atrai presas para a boca com um aroma de mel. A presa indefesa é derretida com um fluido dissolvido."
+        },
+        {
+            "name": "Tentacool",
+            "number": "#072",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/072.png",
+            "evolution":[
+                {"name": "Tentacool", "Lv": 1, "img": "./poke-png-G1/072.png"},
+                {"name": "Tentacruel", "Lv": 30, "img": "./poke-png-G1/073.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 40, "Defense": 35, "Sp.atack": 50, "Sp.Def": 100, "Speed": 70 },
+            "description": "Derivas em mares pouco profundos. Os pescadores que os fisgam por acidente são muitas vezes punidos pelos seus ferrões. Seus olhos são transparentes como cristais. A partir deles, dispara misteriosos feixes de luz."
+        },
+        {
+            "name": "Tentacool",
+            "number": "#073",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/073.png",
+            "evolution":[
+                {"name": "Tentacool", "Lv": 1, "img": "./poke-png-G1/072.png"},
+                {"name": "Tentacruel", "Lv": 30, "img": "./poke-png-G1/073.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 70, "Defense": 65, "Sp.atack": 80, "Sp.Def": 120, "Speed": 100 },
+            "description": "Os tentáculos são normalmente mantidos curtos. Nas caçadas, eles são estendidos para prender e imobilizar presas. Tem 80 tentáculos que se movem livremente. Eles podem picar, causando envenenamento e dor aguda e esfaqueadora."
+        },
+        {
+            "name": "Geodude",
+            "number": "#074",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/074.png",
+            "evolution":[
+                {"name": "Geodude", "Lv": 1, "img": "./poke-png-G1/074.png"},
+                {"name": "Graveler", "Lv": 25, "img": "./poke-png-G1/075.png"},
+                {"name": "Golem", "Lv": "Trade", "img": "./poke-png-G1/076.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 80, "Defense": 100, "Sp.atack": 30, "Sp.Def": 30, "Speed": 20 },
+            "description": "Encontrado em campos e montanhas. Confundindo-os com pedregulhos, as pessoas muitas vezes pisam ou tropeçam neles. A sua forma redonda facilita a recolha. Algumas pessoas usaram-nos para atirar uns contra os outros numa luta de bola de neve."
+        },
+        {
+            "name": "Graveler",
+            "number": "#075",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/075.png",
+            "evolution":[
+                {"name": "Geodude", "Lv": 1, "img": "./poke-png-G1/074.png"},
+                {"name": "Graveler", "Lv": 25, "img": "./poke-png-G1/075.png"},
+                {"name": "Golem", "Lv": "Trade", "img": "./poke-png-G1/076.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 95, "Defense": 115, "Sp.atack": 45, "Sp.Def": 45, "Speed": 35 },
+            "description": "Rola encostas abaixo para se mover. Ele rola sobre qualquer obstáculo sem diminuir a velocidade ou mudar sua direção. Tenha cuidado ao caminhar em trilhas de montanha. GRAVELER pode vir rolando pelo caminho sem desacelerar."
+        },
+        {
+            "name": "Golem",
+            "number": "#076",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/076.png",
+            "evolution":[
+                {"name": "Geodude", "Lv": 1, "img": "./poke-png-G1/074.png"},
+                {"name": "Graveler", "Lv": 25, "img": "./poke-png-G1/075.png"},
+                {"name": "Golem", "Lv": "Trade", "img": "./poke-png-G1/076.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 120, "Defense": 130, "Sp.atack": 55, "Sp.Def": 65, "Speed": 45 },
+            "description": "Seu corpo em forma de pedregulho é extremamente duro. Pode suportar facilmente explosões de dinamite sem causar danos. Está encerrada numa concha dura que é tão robusta como lajes de rocha. Liberta a pele uma vez por ano para crescer."
+        },
+        {
+            "name": "Ponyta",
+            "number": "#077",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/077.png",
+            "evolution":[
+                {"name": "Ponyta", "Lv": 1, "img": "./poke-png-G1/077.png"},
+                {"name": "Rapidash", "Lv": 40, "img": "./poke-png-G1/078.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 50, "Atack": 85, "Defense": 55, "Sp.atack": 65, "Sp.Def": 65, "Speed": 90 },
+            "description": "Seus cascos são dez vezes mais duros que o diamante. Pode atropelar qualquer coisa completamente plana em pouco tempo. Seu corpo é leve e suas pernas são incrivelmente poderosas. Ele pode limpar Ayers Rock em um salto."
+        },
+        {
+            "name": "Rapidash",
+            "number": "#078",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/078.png",
+            "evolution":[
+                {"name": "Ponyta", "Lv": 1, "img": "./poke-png-G1/077.png"},
+                {"name": "Rapidash", "Lv": 40, "img": "./poke-png-G1/078.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 100, "Defense": 70, "Sp.atack": 80, "Sp.Def": 80, "Speed": 105 },
+            "description": "Muito competitivo, este POKéMON vai perseguir qualquer coisa que se mova rápido na esperança de correr com ele. Pode galopar a uma velocidade máxima de 150 milhas por hora. Ele pode correr tão rápido quanto um trem-bala enquanto está em chamas."
+        },
+        {
+            "name": "Slowpoke",
+            "number": "#079",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/079.png",
+            "evolution":[
+                {"name": "Slowpoke", "Lv": 1, "img": "./poke-png-G1/079.png"},
+                {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 65, "Defense": 65, "Sp.atack": 40, "Sp.Def": 40, "Speed": 15 },
+            "description": "Incrivelmente lento e dopey. Demora cinco segundos para sentir dor quando está sob ataque. Está sempre vagamente perdido no pensamento, mas ninguém sabe o que está a pensar. É bom em pescar com a cauda."
+        },
+        {
+            "name": "Slowbro",
+            "number": "#080",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/080.png",
+            "evolution":[
+                {"name": "Slowpoke", "Lv": 1, "img": "./poke-png-G1/079.png"},
+                {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 95, "Atack": 75, "Defense": 110, "Sp.atack": 100, "Sp.Def": 80, "Speed": 30 },
+            "description": "Diz-se que o SHELLDER que se prende à cauda do SLOWPOKE se alimenta das sobras do hospedeiro. Quando um SLOWPOKE foi caçar no mar, sua cauda foi mordida por um SHELLDER. Isso fez com que evoluísse para SLOWBRO."
+        },
+        {
+            "name": "Magnemite",
+            "number": "#081",
+            "types":[
+                {"type": "Eletrico" },
+                {"type": "Metal" }
+            ],
+            "images": "./poke-png-G1/081.png",
+            "evolution":[
+                {"name": "Magnemite", "Lv": 1, "img": "./poke-png-G1/081.png"},
+                {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 25, "Atack": 35, "Defense": 70, "Sp.atack": 95, "Sp.Def": 55, "Speed": 45 },
+            "description": "Usa antigravidade para ficar suspenso. Aparece sem aviso e usa THUNDER WAVE e movimentos semelhantes. Ele se move enquanto paira constantemente. Ele descarrega THUNDER WAVE e assim por diante das unidades em seus lados."
+        },
+        {
+            "name": "Magneton",
+            "number": "#082",
+            "types":[
+                {"type": "Eletrico" },
+                {"type": "Metal" }
+            ],
+            "images": "./poke-png-G1/082.png",
+            "evolution":[
+                {"name": "Magnemite", "Lv": 1, "img": "./poke-png-G1/081.png"},
+                {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 50, "Atack": 60, "Defense": 95, "Sp.atack": 120, "Sp.Def": 70, "Speed": 70 },
+            "description": "Formado por vários MAGNEMITE ligados entre si. Eles aparecem frequentemente quando as manchas solares se acendem.Um cluster ligado formado por vários MAGNEMITE. Descarrega ondas magnéticas potentes em alta tensão."
+        },
+        {
+            "name": "Farfetch'd",
+            "number": "#083",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/083.png",
+            "evolution":[
+                {"name": "Farfetch'd", "Lv": 1, "img": "./poke-png-G1/083.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 52, "Atack": 90, "Defense": 55, "Sp.atack": 58, "Sp.Def": 62, "Speed": 60 },
+            "description": "O caule de planta que segura é a sua arma. O talo é usado como uma espada para cortar todos os tipos de coisas. Anda sempre com um caule de planta preso no bico. O caule é usado para construir o seu ninho."
+        },
+        {
+            "name": "Doduo",
+            "number": "#084",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/084.png",
+            "evolution":[
+                {"name": "Doduo", "Lv": 1, "img": "./poke-png-G1/084.png"},
+                {"name": "Dodrio", "Lv": 31, "img": "./poke-png-G1/085.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 35, "Atack": 85, "Defense": 45, "Sp.atack": 35, "Sp.Def": 35, "Speed": 75 },
+            "description": "Uma ave que compensa o seu mau voo com a sua velocidade de pé rápido. Deixa pegadas gigantes. Um POKéMON de duas cabeças que foi descoberto como uma mutação súbita. Corre a um ritmo de mais de 60 milhas por hora."
+        },
+        {
+            "name": "Dodrio",
+            "number": "#085",
+            "types":[
+                {"type": "Normal" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/085.png",
+            "evolution":[
+                {"name": "Doduo", "Lv": 1, "img": "./poke-png-G1/084.png"},
+                {"name": "Dodrio", "Lv": 31, "img": "./poke-png-G1/085.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 110, "Defense": 70, "Sp.atack": 60, "Sp.Def": 60, "Speed": 110 },
+            "description": "Usa seus três cérebros para executar planos complexos. Enquanto duas cabeças dormem, diz-se que uma cabeça fica acordada. Uma espécie estranha que raramente é encontrada. As três cabeças representam, respectivamente, alegria, tristeza e raiva."
+        },
+        {
+            "name": "Seel",
+            "number": "#086",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/086.png",
+            "evolution":[
+                {"name": "Seel", "Lv": 1, "img": "./poke-png-G1/086.png"},
+                {"name": "Dewgong", "Lv": 34, "img": "./poke-png-G1/087.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 45, "Defense": 55, "Sp.atack": 45, "Sp.Def": 70, "Speed": 45 },
+            "description": "O chifre saliente em sua cabeça é muito duro. É usado para bater através de icebergs espessos. Coberto com pelo azul claro, a sua pele é espessa e resistente. É ativo no frio amargo de menos 40 graus Fahrenheit."
+        },
+        {
+            "name": "Dewgong",
+            "number": "#087",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Gelo" }
+            ],
+            "images": "./poke-png-G1/087.png",
+            "evolution":[
+                {"name": "Seel", "Lv": 1, "img": "./poke-png-G1/086.png"},
+                {"name": "Dewgong", "Lv": 34, "img": "./poke-png-G1/087.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 70, "Defense": 80, "Sp.atack": 70, "Sp.Def": 95, "Speed": 70 },
+            "description": "Armazena energia térmica no corpo. Nada a oito nós constantes, mesmo em águas intensamente frias. Seu corpo é coberto com um pelo branco puro. Quanto mais frio o tempo, mais ativo ele se torna."
+        },
+        {
+            "name": "Grimer",
+            "number": "#088",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/088.png",
+            "evolution":[
+                {"name": "Grimer", "Lv": 1, "img": "./poke-png-G1/088.png"},
+                {"name": "Muk", "Lv": 38, "img": "./poke-png-G1/089.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 80, "Defense": 50, "Sp.atack": 40, "Sp.Def": 50, "Speed": 25 },
+            "description": "Aparece em áreas sujas. Prospera sugando lamas poluídas que são bombeadas para fora das fábricas. Lodo exposto aos raios X da lua transformado em GRIMER. Adora alimentar-se de coisas imundas."
+        },
+        {
+            "name": "Muk",
+            "number": "#089",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/089.png",
+            "evolution":[
+                {"name": "Grimer", "Lv": 1, "img": "./poke-png-G1/088.png"},
+                {"name": "Muk", "Lv": 38, "img": "./poke-png-G1/089.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" },
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 105, "Atack": 105, "Defense": 75, "Sp.atack": 65, "Sp.Def": 100, "Speed": 50 },
+            "description": "Grossamente coberto com uma lama imunda e vil. É tão tóxico que até as suas pegadas contêm veneno. Geralmente é indetetável porque se mistura com o solo. Tocá-lo pode causar envenenamento terrível."
+        },
+        {
+            "name": "Shellder",
+            "number": "#090",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/090.png",
+            "evolution":[
+                {"name": "Shellder", "Lv": 1, "img": "./poke-png-G1/090.png"},
+                {"name": "Cloyster", "Lv": "Water Stone", "img": "./poke-png-G1/091.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 65, "Defense": 100, "Sp.atack": 45, "Sp.Def": 25, "Speed": 40 },
+            "description": "Geralmente é indetetável porque se mistura com o solo. Tocá-lo pode causar envenenamento terrível. Está envolto numa concha mais dura do que o diamante. No interior, no entanto, é surpreendentemente tenro."
+        },
+        {
+            "name": "Cloyster",
+            "number": "#091",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Gelo" }
+            ],
+            "images": "./poke-png-G1/091.png",
+            "evolution":[
+                {"name": "Shellder", "Lv": 1, "img": "./poke-png-G1/090.png"},
+                {"name": "Cloyster", "Lv": "Water Stone", "img": "./poke-png-G1/091.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 50, "Atack": 95, "Defense": 180, "Sp.atack": 85, "Sp.Def": 45, "Speed": 70 },
+            "description": "Quando atacado, lança os chifres em voleios rápidos. Suas entranhas nunca foram vistas. Sua casca é extremamente dura. Não pode ser quebrado, mesmo com uma bomba. O shell abre apenas quando está atacando."
+        },
+        {
+            "name": "Gastly",
+            "number": "#092",
+            "types":[
+                {"type": "Fantasma" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/092.png",
+            "evolution":[
+                {"name": "Gastly", "Lv": 1, "img": "./poke-png-G1/092.png"},
+                {"name": "Haunter", "Lv": 25, "img": "./poke-png-G1/093.png"},
+                {"name": "Gengar", "Lv": "Trade", "img": "./poke-png-G1/094.png"}
+            ],
+            "superdamange": [
+                {"type": "Pisquico" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 35, "Defense": 30, "Sp.atack": 100, "Sp.Def": 35, "Speed": 80 },
+            "description": "Quase invisível, este POKéMON gasoso encobre o alvo e coloca-o a dormir sem aviso prévio. Um ser que existe como um gás fino. Pode derrubar um elefante indiano ao envolver a presa em dois segundos."
+        },
+        {
+            "name": "Haunter",
+            "number": "#093",
+            "types":[
+                {"type": "Fantasma" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/093.png",
+            "evolution":[
+                {"name": "Gastly", "Lv": 1, "img": "./poke-png-G1/092.png"},
+                {"name": "Haunter", "Lv": 25, "img": "./poke-png-G1/093.png"},
+                {"name": "Gengar", "Lv": "Trade", "img": "./poke-png-G1/094.png"}
+            ],
+            "superdamange": [
+                {"type": "Pisquico" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 45, "Atack": 50, "Defense": 45, "Sp.atack": 115, "Sp.Def": 55, "Speed": 95 },
+            "description": "Devido à sua capacidade de escorregar através de paredes de blocos, diz-se que é de outra dimensão. Se você tem a sensação de ser observado na escuridão quando ninguém está por perto, HAUNTER está lá."
+        },
+        {
+            "name": "Gengar",
+            "number": "#094",
+            "types":[
+                {"type": "Fantasma" },
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/094.png",
+            "evolution":[
+                {"name": "Gastly", "Lv": 1, "img": "./poke-png-G1/092.png"},
+                {"name": "Haunter", "Lv": 25, "img": "./poke-png-G1/093.png"},
+                {"name": "Gengar", "Lv": "Trade", "img": "./poke-png-G1/094.png"}
+            ],
+            "superdamange": [
+                {"type": "Pisquico" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 65, "Defense": 60, "Sp.atack": 130, "Sp.Def": 75, "Speed": 110 },
+            "description": "Diz-se que emerge da escuridão para roubar a vida daqueles que se perdem nas montanhas. Na noite de lua cheia, se as sombras se movem sozinhas e riem, deve ser o que GENGAR faz."
         }
     ]
 }
