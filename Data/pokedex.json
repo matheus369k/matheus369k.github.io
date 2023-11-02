@@ -2,7 +2,7 @@
     "land_orange":[
         {
             "name":"Bulbasaur",
-            "number":"#001",
+            "number":"#0001",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -24,7 +24,7 @@
         },
         {
             "name":"Ivysaur",
-            "number":"#002",
+            "number":"#0002",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -46,7 +46,7 @@
         },
         {
             "name": "Venusaur",
-            "number": "#003",
+            "number": "#0003",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -68,7 +68,7 @@
         },
         {
             "name": "Charmander",
-            "number": "#004",
+            "number": "#0004",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -88,7 +88,7 @@
         },
         {
             "name": "Charmeleon",
-            "number": "#005",
+            "number": "#0005",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -108,7 +108,7 @@
         },
         {
             "name": "Charizard",
-            "number": "#006",
+            "number": "#0006",
             "types":[
                 {"type": "Fogo" },
                 {"type": "Voador"}
@@ -129,7 +129,7 @@
         },
         {
             "name": "Squirtle",
-            "number": "#007",
+            "number": "#0007",
             "types":[
                 {"type": "Agua" }
             ],
@@ -148,7 +148,7 @@
         },
         {
             "name": "Wartortle",
-            "number": "#008",
+            "number": "#0008",
             "types":[
                 {"type": "Agua" }
             ],
@@ -167,7 +167,7 @@
         },
         {
             "name": "Blastoise",
-            "number": "#009",
+            "number": "#0009",
             "types":[
                 {"type": "Agua" }
             ],
@@ -186,7 +186,7 @@
         },
         {
             "name": "Caterpie",
-            "number": "#010",
+            "number": "#0010",
             "types":[
                 {"type": "Inseto" }
             ],
@@ -206,7 +206,7 @@
         },
         {
             "name": "Metapod",
-            "number": "#011",
+            "number": "#0011",
             "types":[
                 {"type": "Inseto" }
             ],
@@ -226,7 +226,7 @@
         },
         {
             "name": "Butterfree",
-            "number": "#012",
+            "number": "#0012",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Voador" }
@@ -249,7 +249,7 @@
         },
         {
             "name": "Weedle",
-            "number": "#013",
+            "number": "#0013",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Veneno" }
@@ -271,7 +271,7 @@
         },
         {
             "name": "Kakuna",
-            "number": "#014",
+            "number": "#0014",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Veneno" }
@@ -293,7 +293,7 @@
         },
         {
             "name": "Beedrill",
-            "number": "#015",
+            "number": "#0015",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Veneno" }
@@ -315,7 +315,7 @@
         },
         {
             "name": "Pidgey",
-            "number": "#016",
+            "number": "#0016",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -336,7 +336,7 @@
         },
         {
             "name": "Pidgeotto",
-            "number": "#017",
+            "number": "#0017",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -357,7 +357,7 @@
         },
         {
             "name": "Pidgeot",
-            "number": "#018",
+            "number": "#0018",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -395,7 +395,7 @@
         },
         {
             "name": "Raticate",
-            "number": "#020",
+            "number": "#0020",
             "types":[
                 {"type": "Normal" }
             ],
@@ -412,7 +412,7 @@
         },
         {
             "name": "Spearow",
-            "number": "#021",
+            "number": "#0021",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -432,7 +432,7 @@
         },
         {
             "name": "Fearow",
-            "number": "#022",
+            "number": "#0022",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -452,7 +452,7 @@
         },
         {
             "name": "Ekans",
-            "number": "#023",
+            "number": "#0023",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -470,7 +470,7 @@
         },
         {
             "name": "Arbok",
-            "number": "#024",
+            "number": "#0024",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -488,7 +488,7 @@
         },
         {
             "name": "Pikachu",
-            "number": "#025",
+            "number": "#0025",
             "types":[
                 {"type": "Eletrico" }
             ],
@@ -496,7 +496,7 @@
             "evolution":[
                 {"name": "Pichu", "Lv": 1, "img": "./poke-png-G2/021.png"},
                 {"name": "Pikachu", "Lv": "high Friendship", "img": "./poke-png-G1/025.png"},
-                {"name": "Raichu", "Lv": "Thunder Stone", "img": "./poke-png-G1/026.png"}
+                {"name": "Raichu", "Lv": "Thunder Stone0", "img": "./poke-png-G1/026.png"}
             ],
             "superdamange": [
                 {"type": "Terra" }
@@ -506,7 +506,7 @@
         },
         {
             "name": "Raichu",
-            "number": "#026",
+            "number": "#0026",
             "types":[
                 {"type": "Eletrico" }
             ],
@@ -524,7 +524,7 @@
         },
         {
             "name": "Sandshrew",
-            "number": "#027",
+            "number": "#0027",
             "types":[
                 {"type": "Terra" }
             ],
@@ -543,7 +543,7 @@
         },
         {
             "name": "Sandslash",
-            "number": "#028",
+            "number": "#0028",
             "types":[
                 {"type": "Terra" }
             ],
@@ -562,7 +562,7 @@
         },
         {
             "name": "Nidoran♀",
-            "number": "#029",
+            "number": "#0029",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -581,7 +581,7 @@
         },
         {
             "name": "Nidorina",
-            "number": "#030",
+            "number": "#0030",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -600,7 +600,7 @@
         },
         {
             "name": "Nidoqueen",
-            "number": "#031",
+            "number": "#0031",
             "types":[
                 {"type": "Veneno" },
                 {"type": "Terra" }
@@ -622,7 +622,7 @@
         },
         {
             "name": "Nidoran♂",
-            "number": "#032",
+            "number": "#0032",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -641,7 +641,7 @@
         },
         {
             "name": "Nidorino",
-            "number": "#033",
+            "number": "#0033",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -660,7 +660,7 @@
         },
         {
             "name": "Nidoking",
-            "number": "#034",
+            "number": "#0034",
             "types":[
                 {"type": "Veneno" },
                 {"type": "Terra" }
@@ -682,7 +682,7 @@
         },
         {
             "name": "Clefairy",
-            "number": "#035",
+            "number": "#0035",
             "types":[
                 {"type": "Fada" }
             ],
@@ -701,7 +701,7 @@
         },
         {
             "name": "Clefable",
-            "number": "#036",
+            "number": "#0036",
             "types":[
                 {"type": "Fada" }
             ],
@@ -739,7 +739,7 @@
         },
         {
             "name": "Ninetales",
-            "number": "#038",
+            "number": "#0038",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -758,7 +758,7 @@
         },
         {
             "name": "Jigglypuff",
-            "number": "#039",
+            "number": "#0039",
             "types":[
                 {"type": "Normal" },
                 {"type": "Fada" }
@@ -778,7 +778,7 @@
         },
         {
             "name": "Wigglytuff",
-            "number": "#040",
+            "number": "#0040",
             "types":[
                 {"type": "Normal" },
                 {"type": "Fada" }
@@ -798,7 +798,7 @@
         },
         {
             "name": "Zubat",
-            "number": "#041",
+            "number": "#0041",
             "types":[
                 {"type": "Veneno" },
                 {"type": "Voador" }
@@ -820,7 +820,7 @@
         },
         {
             "name": "Golbat",
-            "number": "#042",
+            "number": "#0042",
             "types":[
                 {"type": "Veneno" },
                 {"type": "Voador" }
@@ -842,7 +842,7 @@
         },
         {
             "name": "Oddish",
-            "number": "#043",
+            "number": "#0043",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -864,7 +864,7 @@
         },
         {
             "name": "Gloom",
-            "number": "#044",
+            "number": "#0044",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -886,7 +886,7 @@
         },
         {
             "name": "Vileplume",
-            "number": "#045",
+            "number": "#0045",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -908,7 +908,7 @@
         },
         {
             "name": "Paras",
-            "number": "#046",
+            "number": "#0046",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Grama" }
@@ -931,7 +931,7 @@
         },
         {
             "name": "Parasect",
-            "number": "#047",
+            "number": "#0047",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Grama" }
@@ -954,7 +954,7 @@
         },
         {
             "name": "Venonat",
-            "number": "#048",
+            "number": "#0048",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Veneno" }
@@ -975,7 +975,7 @@
         },
         {
             "name": "Venomoth",
-            "number": "#049",
+            "number": "#0049",
             "types":[
                 {"type": "Inseto" },
                 {"type": "Veneno" }
@@ -1015,7 +1015,7 @@
         },
         {
             "name": "Dugtrio",
-            "number": "#051",
+            "number": "#0051",
             "types":[
                 {"type": "Terra" }
             ],
@@ -1034,7 +1034,7 @@
         },
         {
             "name": "Meowth",
-            "number": "#052",
+            "number": "#0052",
             "types":[
                 {"type": "Normal" }
             ],
@@ -1051,7 +1051,7 @@
         },
         {
             "name": "Persian",
-            "number": "#053",
+            "number": "#0053",
             "types":[
                 {"type": "Normal" }
             ],
@@ -1068,7 +1068,7 @@
         },
         {
             "name": "Psyduck",
-            "number": "#054",
+            "number": "#0054",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1086,7 +1086,7 @@
         },
         {
             "name": "Golduck",
-            "number": "#055",
+            "number": "#0055",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1104,7 +1104,7 @@
         },
         {
             "name": "Mankey",
-            "number": "#056",
+            "number": "#0056",
             "types":[
                 {"type": "Lutador" }
             ],
@@ -1123,7 +1123,7 @@
         },
         {
             "name": "Primeape",
-            "number": "#057",
+            "number": "#0057",
             "types":[
                 {"type": "Lutador" }
             ],
@@ -1142,7 +1142,7 @@
         },
         {
             "name": "Growlithe",
-            "number": "#058",
+            "number": "#0058",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -1161,7 +1161,7 @@
         },
         {
             "name": "Arcanine",
-            "number": "#059",
+            "number": "#0059",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -1180,7 +1180,7 @@
         },
         {
             "name": "Poliwag",
-            "number": "#060",
+            "number": "#0060",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1199,7 +1199,7 @@
         },
         {
             "name": "Poliwhirl",
-            "number": "#061",
+            "number": "#0061",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1218,7 +1218,7 @@
         },
         {
             "name": "Poliwrath",
-            "number": "#062",
+            "number": "#0062",
             "types":[
                 {"type": "Agua" },
                 {"type": "Lutador" }
@@ -1241,7 +1241,7 @@
         },
         {
             "name": "Abra",
-            "number": "#063",
+            "number": "#0063",
             "types":[
                 {"type": "Pisquico" }
             ],
@@ -1261,7 +1261,7 @@
         },
         {
             "name": "Kadabra",
-            "number": "#064",
+            "number": "#0064",
             "types":[
                 {"type": "Pisquico" }
             ],
@@ -1281,7 +1281,7 @@
         },
         {
             "name": "Alakazam",
-            "number": "#065",
+            "number": "#0065",
             "types":[
                 {"type": "Pisquico" }
             ],
@@ -1301,7 +1301,7 @@
         },
         {
             "name": "Machop",
-            "number": "#066",
+            "number": "#0066",
             "types":[
                 {"type": "Lutador" }
             ],
@@ -1321,7 +1321,7 @@
         },
         {
             "name": "Machoke",
-            "number": "#067",
+            "number": "#0067",
             "types":[
                 {"type": "Lutador" }
             ],
@@ -1341,7 +1341,7 @@
         },
         {
             "name": "Machamp",
-            "number": "#068",
+            "number": "#0068",
             "types":[
                 {"type": "Lutador" }
             ],
@@ -1361,7 +1361,7 @@
         },
         {
             "name": "Bellsprout",
-            "number": "#069",
+            "number": "#0069",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -1383,7 +1383,7 @@
         },
         {
             "name": "Weepinbell",
-            "number": "#070",
+            "number": "#0070",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -1405,7 +1405,7 @@
         },
         {
             "name": "Victreebel",
-            "number": "#071",
+            "number": "#0071",
             "types":[
                 {"type": "Grama" },
                 {"type": "Veneno" }
@@ -1427,7 +1427,7 @@
         },
         {
             "name": "Tentacool",
-            "number": "#072",
+            "number": "#0072",
             "types":[
                 {"type": "Agua" },
                 {"type": "Veneno" }
@@ -1447,7 +1447,7 @@
         },
         {
             "name": "Tentacool",
-            "number": "#073",
+            "number": "#0073",
             "types":[
                 {"type": "Agua" },
                 {"type": "Veneno" }
@@ -1467,7 +1467,7 @@
         },
         {
             "name": "Geodude",
-            "number": "#074",
+            "number": "#0074",
             "types":[
                 {"type": "Rocha" },
                 {"type": "Terra" }
@@ -1491,7 +1491,7 @@
         },
         {
             "name": "Graveler",
-            "number": "#075",
+            "number": "#0075",
             "types":[
                 {"type": "Rocha" },
                 {"type": "Terra" }
@@ -1515,7 +1515,7 @@
         },
         {
             "name": "Golem",
-            "number": "#076",
+            "number": "#0076",
             "types":[
                 {"type": "Rocha" },
                 {"type": "Terra" }
@@ -1539,7 +1539,7 @@
         },
         {
             "name": "Ponyta",
-            "number": "#077",
+            "number": "#0077",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -1558,7 +1558,7 @@
         },
         {
             "name": "Rapidash",
-            "number": "#078",
+            "number": "#0078",
             "types":[
                 {"type": "Fogo" }
             ],
@@ -1577,7 +1577,7 @@
         },
         {
             "name": "Slowpoke",
-            "number": "#079",
+            "number": "#0079",
             "types":[
                 {"type": "Agua" },
                 {"type": "Pisquico" }
@@ -1599,7 +1599,7 @@
         },
         {
             "name": "Slowbro",
-            "number": "#080",
+            "number": "#0080",
             "types":[
                 {"type": "Agua" },
                 {"type": "Pisquico" }
@@ -1621,7 +1621,7 @@
         },
         {
             "name": "Magnemite",
-            "number": "#081",
+            "number": "#0081",
             "types":[
                 {"type": "Eletrico" },
                 {"type": "Metal" }
@@ -1641,7 +1641,7 @@
         },
         {
             "name": "Magneton",
-            "number": "#082",
+            "number": "#0082",
             "types":[
                 {"type": "Eletrico" },
                 {"type": "Metal" }
@@ -1649,7 +1649,8 @@
             "images": "./poke-png-G1/082.png",
             "evolution":[
                 {"name": "Magnemite", "Lv": 1, "img": "./poke-png-G1/081.png"},
-                {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"}
+                {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"},
+                {"name": "Magneton", "Lv": "level up in a Magnetic Field area", "img": "./poke-png-G4/0075.png"}
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -1661,7 +1662,7 @@
         },
         {
             "name": "Farfetch'd",
-            "number": "#083",
+            "number": "#0083",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -1680,7 +1681,7 @@
         },
         {
             "name": "Doduo",
-            "number": "#084",
+            "number": "#0084",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -1700,7 +1701,7 @@
         },
         {
             "name": "Dodrio",
-            "number": "#085",
+            "number": "#0085",
             "types":[
                 {"type": "Normal" },
                 {"type": "Voador" }
@@ -1720,7 +1721,7 @@
         },
         {
             "name": "Seel",
-            "number": "#086",
+            "number": "#0086",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1738,7 +1739,7 @@
         },
         {
             "name": "Dewgong",
-            "number": "#087",
+            "number": "#0087",
             "types":[
                 {"type": "Agua" },
                 {"type": "Gelo" }
@@ -1759,7 +1760,7 @@
         },
         {
             "name": "Grimer",
-            "number": "#088",
+            "number": "#0088",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -1777,7 +1778,7 @@
         },
         {
             "name": "Muk",
-            "number": "#089",
+            "number": "#0089",
             "types":[
                 {"type": "Veneno" }
             ],
@@ -1795,7 +1796,7 @@
         },
         {
             "name": "Shellder",
-            "number": "#090",
+            "number": "#0090",
             "types":[
                 {"type": "Agua" }
             ],
@@ -1813,7 +1814,7 @@
         },
         {
             "name": "Cloyster",
-            "number": "#091",
+            "number": "#0091",
             "types":[
                 {"type": "Agua" },
                 {"type": "Gelo" }
@@ -1834,7 +1835,7 @@
         },
         {
             "name": "Gastly",
-            "number": "#092",
+            "number": "#0092",
             "types":[
                 {"type": "Fantasma" },
                 {"type": "Veneno" }
@@ -1855,7 +1856,7 @@
         },
         {
             "name": "Haunter",
-            "number": "#093",
+            "number": "#0093",
             "types":[
                 {"type": "Fantasma" },
                 {"type": "Veneno" }
@@ -1876,7 +1877,7 @@
         },
         {
             "name": "Gengar",
-            "number": "#094",
+            "number": "#0094",
             "types":[
                 {"type": "Fantasma" },
                 {"type": "Veneno" }
@@ -1894,6 +1895,1113 @@
             ],
             "baseStats":{"HP": 60, "Atack": 65, "Defense": 60, "Sp.atack": 130, "Sp.Def": 75, "Speed": 110 },
             "description": "Diz-se que emerge da escuridão para roubar a vida daqueles que se perdem nas montanhas. Na noite de lua cheia, se as sombras se movem sozinhas e riem, deve ser o que GENGAR faz."
+        },
+        {
+            "name": "Onix",
+            "number": "#0095",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/095.png",
+            "evolution":[
+                {"name": "Onix", "Lv": 1, "img": "./poke-png-G1/095.png"},
+                {"name": "Steelix", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/057.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 35, "Atack": 45, "Defense": 160, "Sp.atack": 30, "Sp.Def": 45, "Speed": 45 },
+            "description": "À medida que cresce, as porções de pedra do seu corpo endurecem para se tornarem semelhantes aos diamantes de cor preta. Geralmente vive no subsolo. Procura comida enquanto percorre o solo a 50 milhas por hora."
+        },
+        {
+            "name": "Drowzee",
+            "number": "#0096",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/096.png",
+            "evolution":[
+                {"name": "Drowzee", "Lv": 1, "img": "./poke-png-G1/096.png"},
+                {"name": "Hypno", "Lv": 26, "img": "./poke-png-G1/097.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 48, "Defense": 45, "Sp.atack": 43, "Sp.Def": 90, "Speed": 42 },
+            "description": "Põe os inimigos a dormir, depois come os seus sonhos. Ocasionalmente fica doente por comer apenas sonhos ruins. Um descendente do lendário animal baku, que se diz comer sonhos. É hábil em hipnotismo."
+        },
+        {
+            "name": "Hypno",
+            "number": "#0097",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/097.png",
+            "evolution":[
+                {"name": "Drowzee", "Lv": 1, "img": "./poke-png-G1/096.png"},
+                {"name": "Hypno", "Lv": 26, "img": "./poke-png-G1/097.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 85, "Atack": 73, "Defense": 70, "Sp.atack": 73, "Sp.Def": 115, "Speed": 67 },
+            "description": "Quando fecha os olhos com um inimigo, ele usará uma mistura de movimentos PSI, como HIPNOSE e CONFUSÃO. Ele carrega um dispositivo semelhante a um pêndulo. Houve uma vez um incidente em que levou uma criança que hipnotizou."
+        },
+        {
+            "name": "Krabby",
+            "number": "#0098",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/098.png",
+            "evolution":[
+                {"name": "Krabby", "Lv": 1, "img": "./poke-png-G1/098.png"},
+                {"name": "Kingler", "Lv": 28, "img": "./poke-png-G1/099.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 105, "Defense": 90, "Sp.atack": 25, "Sp.Def": 25, "Speed": 50 },
+            "description": "Suas pinças não são apenas armas poderosas, elas são usadas para o equilíbrio ao andar de lado. Pode ser encontrado perto do mar. As grandes pinças voltam a crescer se forem arrancadas das suas tomadas."
+        },
+        {
+            "name": "Kingler",
+            "number": "#0099",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/099.png",
+            "evolution":[
+                {"name": "Krabby", "Lv": 1, "img": "./poke-png-G1/098.png"},
+                {"name": "Kingler", "Lv": 28, "img": "./poke-png-G1/099.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 130, "Defense": 115, "Sp.atack": 50, "Sp.Def": 50, "Speed": 75 },
+            "description": "A pinça grande tem força de esmagamento de 10.000 cavalos de potência. No entanto, o seu enorme tamanho torna-o pesado de usar. Sua pinça grande e dura tem 10.000 cavalos de potência. No entanto, sendo tão grande, é complicado mover-se."
+        },
+        {
+            "name": "Voltorb",
+            "number": "#0100",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images": "./poke-png-G1/100.png",
+            "evolution":[
+                {"name": "Voltorb", "Lv": 1, "img": "./poke-png-G1/100.png"},
+                {"name": "Electrode", "Lv": 30, "img": "./poke-png-G1/101.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 30, "Defense": 50, "Sp.atack": 55, "Sp.Def": 55, "Speed": 100 },
+            "description": "Geralmente encontrado em usinas de energia. Facilmente confundido com um POKé BALL, já enganou muita gente. Uma forma de vida cuja identidade é desconhecida. Diz-se que SCREECH ou de repente SELFDESTRUCT."
+        },
+        {
+            "name": "Electrode",
+            "number": "#0101",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images": "./poke-png-G1/101.png",
+            "evolution":[
+                {"name": "Voltorb", "Lv": 1, "img": "./poke-png-G1/100.png"},
+                {"name": "Electrode", "Lv": 30, "img": "./poke-png-G1/101.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 50, "Defense": 70, "Sp.atack": 80, "Sp.Def": 80, "Speed": 150 },
+            "description": "Armazena energia elétrica sob pressão muito alta. Muitas vezes explode com pouca ou nenhuma provocação. Explode em resposta a estímulos ainda menores. É temido, com o apelido de 'A Bola da Bomba'."
+        },
+        {
+            "name": "Exeggcute",
+            "number": "#0102",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/102.png",
+            "evolution":[
+                {"name": "Exeggcute", "Lv": 1, "img": "./poke-png-G1/102.png"},
+                {"name": "Exeggutor", "Lv": "Leaf Stone", "img": "./poke-png-G1/103.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" },
+                {"type": "Veneno" }                
+            ],
+            "baseStats":{"HP": 60, "Atack": 40, "Defense": 80, "Sp.atack": 60, "Sp.Def": 45, "Speed": 40 },
+            "description": "Apesar de parecer ser ovos de algum tipo, descobriu-se que é uma forma de vida mais parecida com sementes de plantas. Muitas vezes é confundido com ovos. Quando perturbados, eles rapidamente se reúnem e atacam em enxames."
+        },
+        {
+            "name": "Exeggutor",
+            "number": "#0103",
+            "types":[
+                {"type": "Grama" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/103.png",
+            "evolution":[
+                {"name": "Exeggcute", "Lv": 1, "img": "./poke-png-G1/102.png"},
+                {"name": "Exeggutor", "Lv": "Leaf Stone", "img": "./poke-png-G1/103.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" },
+                {"type": "Veneno" }   
+            ],
+            "baseStats":{"HP": 95, "Atack": 95, "Defense": 85, "Sp.atack": 125, "Sp.Def": 75, "Speed": 55 },
+            "description": "Chama-se 'A Floresta Tropical Ambulante'. Cada uma das nozes tem um rosto e uma vontade própria. Diz-se que, em raras ocasiões, uma de suas cabeças vai cair e continuar como um EXEGGCUTE."
+        },
+        {
+            "name": "Cubone",
+            "number": "#0104",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/104.png",
+            "evolution":[
+                {"name": "Cubone", "Lv": 1, "img": "./poke-png-G1/104.png"},
+                {"name": "Marowak", "Lv": 28, "img": "./poke-png-G1/105.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" } 
+            ],
+            "baseStats":{"HP": 50, "Atack": 50, "Defense": 95, "Sp.atack": 40, "Sp.Def": 50, "Speed": 35 },
+            "description": "Porque nunca remove o seu capacete de caveira, nunca ninguém viu o verdadeiro rosto deste POKéMON. Veste o crânio da mãe morta na cabeça. Quando se torna solitário, diz-se que chora alto."
+        },
+        {
+            "name": "Marowak",
+            "number": "#0105",
+            "types":[
+                {"type": "Terra" }
+            ],
+            "images": "./poke-png-G1/105.png",
+            "evolution":[
+                {"name": "Cubone", "Lv": 1, "img": "./poke-png-G1/104.png"},
+                {"name": "Marowak", "Lv": 28, "img": "./poke-png-G1/105.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" } 
+            ],
+            "baseStats":{"HP": 60, "Atack": 80, "Defense": 110, "Sp.atack": 50, "Sp.Def": 80, "Speed": 45 },
+            "description": "O osso que segura é a sua principal arma. Ele joga o osso habilmente como um bumerangue para alvos KO. É pequeno e era originalmente muito fraco. O seu temperamento tornou-se feroz quando começou a usar ossos."
+        },
+        {
+            "name": "Hitmonlee",
+            "number": "#0106",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/106.png",
+            "evolution":[
+                {"name": "Tyrogue", "Lv": 1, "img": "./poke-png-G2/085.png"},
+                {"name": "Hitmonlee", "Lv": "Level 20, Attack > Defense", "img": "./poke-png-G1/106.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" } 
+            ],
+            "baseStats":{"HP": 50, "Atack": 120, "Defense": 53, "Sp.atack": 35, "Sp.Def": 110, "Speed": 87 },
+            "description": "Quando tem pressa, as pernas alongam-se progressivamente. Corre suavemente com passos extralongos e inclinados. As pernas contraem-se e esticam-se livremente. As pernas elásticas permitem que ele acerte um inimigo distante com um chute ascendente."
+        },
+        {
+            "name": "Hitmonchan",
+            "number": "#0107",
+            "types":[
+                {"type": "Lutador" }
+            ],
+            "images": "./poke-png-G1/107.png",
+            "evolution":[
+                {"name": "Tyrogue", "Lv": 1, "img": "./poke-png-G2/085.png"},
+                {"name": "Hitmonchan", "Lv": "Level 20, Attack < Defense", "img": "./poke-png-G1/107.png"}
+            ],
+            "superdamange": [
+                {"type": "Voador" },
+                {"type": "Pisquico" },
+                {"type": "Fada" } 
+            ],
+            "baseStats":{"HP": 50, "Atack": 105, "Defense": 79, "Sp.atack": 35, "Sp.Def": 110, "Speed": 76 },
+            "description": "Embora aparentemente não faça nada, dispara socos em rajadas relâmpago que são impossíveis de ver. O espírito de um boxeador profissional infundiu este POKéMON. Ele dá socos que são mais rápidos do que um trem-bala."
+        },
+        {
+            "name": "Lickitung",
+            "number": "#0108",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/108.png",
+            "evolution":[
+                {"name": "Lickitung", "Lv": 1, "img": "./poke-png-G1/108.png"},
+                {"name": "Lickilicky", "Lv": "after Rollout learned", "img": "./poke-png-G4/076.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 55, "Defense": 75, "Sp.atack": 60, "Sp.Def": 75, "Speed": 30 },
+            "description": "Sua língua pode ser estendida como a de um camaleão. Deixa uma sensação de formigueiro quando lambe os inimigos. A sua língua tem o dobro do comprimento do seu corpo. Pode ser movido como um braço para pegar comida e atacar."
+        },
+        {
+            "name": "Koffing",
+            "number": "#0109",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/109.png",
+            "evolution":[
+                {"name": "Koffing", "Lv": 1, "img": "./poke-png-G1/109.png"},
+                {"name": "Weezing", "Lv": 35, "img": "./poke-png-G1/110.png"}
+            ],
+            "superdamange": [
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 65, "Defense": 95, "Sp.atack": 60, "Sp.Def": 45, "Speed": 35 },
+            "description": "Porque armazena vários tipos de gases tóxicos em seu corpo, é propenso a explodir sem aviso. Seu corpo fino, semelhante a um balão, é inflado por gases horrivelmente tóxicos. Cheira quando está perto."
+        },
+        {
+            "name": "Weezing",
+            "number": "#0110",
+            "types":[
+                {"type": "Veneno" }
+            ],
+            "images": "./poke-png-G1/110.png",
+            "evolution":[
+                {"name": "Koffing", "Lv": 1, "img": "./poke-png-G1/109.png"},
+                {"name": "Weezing", "Lv": 35, "img": "./poke-png-G1/110.png"}
+            ],
+            "superdamange": [
+                {"type": "Pisquico" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 90, "Defense": 120, "Sp.atack": 85, "Sp.Def": 70, "Speed": 60 },
+            "description": "Onde dois tipos de gases venenosos se encontram, dois KOFFING podem se fundir em um WEEZING ao longo de muitos anos. Muito raramente, uma mutação súbita pode resultar em dois pequenos gémeos KOFFING que se juntam como um WEEZING."
+        },
+        {
+            "name": "Rhyhorn",
+            "number": "#0111",
+            "types":[
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "images": "./poke-png-G1/111.png",
+            "evolution":[
+                {"name": "Rhyhorn", "Lv": 1, "img": "./poke-png-G1/111.png"},
+                {"name": "Rhydon", "Lv": 42, "img": "./poke-png-G1/112.png"},
+                {"name": "Rhydon", "Lv": "trade holding Protector", "img": "./poke-png-G4/077.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 85, "Defense": 95, "Sp.atack": 30, "Sp.Def": 30, "Speed": 25 },
+            "description": "Seus ossos maciços são 1.000 vezes mais duros do que os ossos humanos. Seu TACKLE pode derrubar um semirreboque voando. Forte, mas não muito brilhante, este POKéMON pode quebrar até mesmo um arranha-céu com seus TACKLES de carga."
+        },
+        {
+            "name": "Rhydon",
+            "number": "#0112",
+            "types":[
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "images": "./poke-png-G1/112.png",
+            "evolution":[
+                {"name": "Rhyhorn", "Lv": 1, "img": "./poke-png-G1/111.png"},
+                {"name": "Rhydon", "Lv": 42, "img": "./poke-png-G1/112.png"},
+                {"name": "Rhydon", "Lv": "trade holding Protector", "img": "./poke-png-G4/077.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Grama" },
+                {"type": "Gelo" },
+                {"type": "Lutador" },
+                {"type": "Terra" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 105, "Atack": 130, "Defense": 120, "Sp.atack": 45, "Sp.Def": 45, "Speed": 40 },
+            "description": "Protegido por uma pele semelhante a uma armadura, é capaz de viver em lava derretida de 3.600 graus Fahrenheit. Começa a andar sobre as patas traseiras após a evolução. Ele pode perfurar buracos através de pedregulhos com seu chifre."
+        },
+        {
+            "name": "Chansey",
+            "number": "#0113",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/113.png",
+            "evolution":[
+                {"name": "Happiny", "Lv": 1, "img": "./poke-png-G4/053.png"},
+                {"name": "Chansey", "Lv": "hold Oval Stone, Daytime", "img": "./poke-png-G1/113.png"},
+                {"name": "Blissey", "Lv": "high Friendship", "img": "./poke-png-G2/091.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 250, "Atack": 5, "Defense": 5, "Sp.atack": 35, "Sp.Def": 105, "Speed": 50 },
+            "description": "Um POKéMON raro e esquivo que se diz trazer felicidade a quem consegue apanhar um. Põe vários ovos por dia. Os ovos são aparentemente ricos em nutrientes e extremamente deliciosos."
+        },
+        {
+            "name": "Tangela",
+            "number": "#0114",
+            "types":[
+                {"type": "Grama" }
+            ],
+            "images": "./poke-png-G1/114.png",
+            "evolution":[
+                {"name": "Tangela", "Lv": 1, "img": "./poke-png-G1/114.png"},
+                {"name": "Tangrowth", "Lv": "after Ancient Power learned", "img": "./poke-png-G4/078.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Gelo" },
+                {"type": "Veneno" },
+                {"type": "Voador" },
+                {"type": "Inseto" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 55, "Defense": 115, "Sp.atack": 100, "Sp.Def": 40, "Speed": 60 },
+            "description": "Todo o corpo está envolto por vinhas largas que são semelhantes às algas marinhas. As videiras balançam enquanto caminha. As videiras azuis revestem a identidade do POKéMON numa massa emaranhada. Enreda qualquer coisa que se aproxime."
+        },
+        {
+            "name": "Kangaskhan",
+            "number": "#0115",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/115.png",
+            "evolution":[
+                {"name": "Kangaskhan", "Lv": 1, "img": "./poke-png-G1/115.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 105, "Atack": 95, "Defense": 80, "Sp.atack": 40, "Sp.Def": 80, "Speed": 90 },
+            "description": "A criança raramente se aventura a sair da bolsa protetora da mãe até os três anos de idade. A fêmea cria a prole numa bolsa na barriga. É hábil em atacar usando COMET PUNCH."
+        },
+        {
+            "name": "Horsea",
+            "number": "#0116",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/116.png",
+            "evolution":[
+                {"name": "Horsea", "Lv": 1, "img": "./poke-png-G1/116.png"},
+                {"name": "Seadra", "Lv": 32, "img": "./poke-png-G1/117.png"},
+                {"name": "Kingdra", "Lv": "trade holding Dragon Scale", "img": "./poke-png-G2/079.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 40, "Defense": 70, "Sp.atack": 70, "Sp.Def": 25, "Speed": 60 },
+            "description": "Conhecido por abater insetos voadores com rajadas de tinta de precisão da superfície da água. Ele mantém o equilíbrio usando sua cauda, que é enrolada como uma bobina. Pode pulverizar tinta da boca."
+        },
+        {
+            "name": "Seadra",
+            "number": "#0117",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/117.png",
+            "evolution":[
+                {"name": "Horsea", "Lv": 1, "img": "./poke-png-G1/116.png"},
+                {"name": "Seadra", "Lv": 32, "img": "./poke-png-G1/117.png"},
+                {"name": "Kingdra", "Lv": "trade holding Dragon Scale", "img": "./poke-png-G2/079.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 65, "Defense": 95, "Sp.atack": 95, "Sp.Def": 45, "Speed": 85 },
+            "description": "É capaz de nadar para trás batendo rapidamente as barbatanas peitorais semelhantes às asas e a cauda robusta. Seu corpo cerdas com pontas afiadas. Tentar tocá-lo descuidadamente pode causar desmaios dos picos."
+        },
+        {
+            "name": "Goldeen",
+            "number": "#0118",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/118.png",
+            "evolution":[
+                {"name": "Goldeen", "Lv": 1, "img": "./poke-png-G1/118.png"},
+                {"name": "Seaking", "Lv": 33, "img": "./poke-png-G1/119.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 45, "Atack": 67, "Defense": 60, "Sp.atack": 35, "Sp.Def": 50, "Speed": 63 },
+            "description": "Sua barbatana de cauda brilha como um elegante vestido de salão de baile, dando-lhe o apelido de 'A Rainha da Água'. As barbatanas dorsais e peitorais são fortemente desenvolvidas como músculos. Pode nadar a uma velocidade de cinco nós."
+        },
+        {
+            "name": "Seaking",
+            "number": "#0119",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/119.png",
+            "evolution":[
+                {"name": "Goldeen", "Lv": 1, "img": "./poke-png-G1/118.png"},
+                {"name": "Seaking", "Lv": 33, "img": "./poke-png-G1/119.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 92, "Defense": 65, "Sp.atack": 65, "Sp.Def": 80, "Speed": 68 },
+            "description": "Na época de desova do outono, eles podem ser vistos nadando poderosamente pelos rios e riachos. O chifre na cabeça é afiado como uma broca. Fura um buraco numa rocha para fazer o seu ninho."
+        },
+        {
+            "name": "Staryu",
+            "number": "#0120",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/120.png",
+            "evolution":[
+                {"name": "Staryu", "Lv": 1, "img": "./poke-png-G1/120.png"},
+                {"name": "Starmie", "Lv": "Water Stone", "img": "./poke-png-G1/121.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 45, "Defense": 55, "Sp.atack": 70, "Sp.Def": 55, "Speed": 85 },
+            "description": "Um enigmático POKéMON que pode facilmente regenerar qualquer apêndice que perca em batalha. Aparece em grande número à beira-mar. À noite, seu núcleo central pisca com uma luz vermelha."
+        },
+        {
+            "name": "Starmie",
+            "number": "#0121",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/121.png",
+            "evolution":[
+                {"name": "Staryu", "Lv": 1, "img": "./poke-png-G1/120.png"},
+                {"name": "Starmie", "Lv": "Water Stone", "img": "./poke-png-G1/121.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 75, "Defense": 85, "Sp.atack": 100, "Sp.Def": 85, "Speed": 115 },
+            "description": "Este POKéMON tem um corpo geométrico. Por causa de seu corpo, os moradores suspeitam que seja uma criatura alienígena. Seu núcleo central brilha com as sete cores do arco-íris. Algumas pessoas valorizam o núcleo como uma joia."
+        },
+        {
+            "name": "Mr. Mime",
+            "number": "#0122",
+            "types":[
+                {"type": "Pisquico" },
+                {"type": "Fada" }
+            ],
+            "images": "./poke-png-G1/122.png",
+            "evolution":[
+                {"name": "Mime Jr.", "Lv": 1, "img": "./poke-png-G4/052.png"},
+                {"name": "Mr. Mime", "Lv": "after Mimic learned", "img": "./poke-png-G1/122.png"}
+            ],
+            "superdamange": [
+                {"type": "Veneno" },
+                {"type": "Fantasma" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 40, "Atack": 45, "Defense": 65, "Sp.atack": 100, "Sp.Def": 120, "Speed": 90 },
+            "description": "É adepto de enganar as pessoas. Diz-se que é capaz de criar paredes do nada, imitando. Se interrompido enquanto está a imitar, de repente irá DAR uma bofetada dupla no infrator com as suas mãos largas."
+        },
+        {
+            "name": "Scyther",
+            "number": "#0123",
+            "types":[
+                {"type": "Inseto" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/123.png",
+            "evolution":[
+                {"name": "Scyther", "Lv": 1, "img": "./poke-png-G1/123.png"},
+                {"name": "Scizor", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/062.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Voador" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 70, "Atack": 110, "Defense": 80, "Sp.atack": 55, "Sp.Def": 80, "Speed": 105 },
+            "description": "Com agilidade e velocidade ninja, pode criar a ilusão de que há mais de um de si mesmo. Rasga e destrói as presas com as suas foices perversamente afiadas. Muito raramente abre as asas para voar."
+        },
+        {
+            "name": "Jynx",
+            "number": "#0124",
+            "types":[
+                {"type": "Gelo" },
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/124.png",
+            "evolution":[
+                {"name": "Smoochum", "Lv": 1, "img": "./poke-png-G2/087.png"},
+                {"name": "Jynx", "Lv": 30, "img": "./poke-png-G1/124.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Inseto" },
+                {"type": "Rocha" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 50, "Defense": 35, "Sp.atack": 115, "Sp.Def": 95, "Speed": 95 },
+            "description": "Ele mexe sedutoramente os quadris enquanto caminha. Pode fazer com que as pessoas dancem em uníssono com ele. Fala usando uma linguagem que soa humana. Estão em curso investigações para determinar o que está a ser dito."
+        },
+        {
+            "name": "Electabuzz",
+            "number": "#0125",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images": "./poke-png-G1/125.png",
+            "evolution":[
+                {"name": "Elekid", "Lv": 1, "img": "./poke-png-G2/088.png"},
+                {"name": "Electabuzz", "Lv": 30, "img": "./poke-png-G1/125.png"},
+                {"name": "Electivire", "Lv": "trade holding Electirizer", "img": "./poke-png-G4/079.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 83, "Defense": 57, "Sp.atack": 95, "Sp.Def": 85, "Speed": 105 },
+            "description": "Normalmente encontradas perto de usinas de energia, elas podem se afastar e causar grandes apagões nas cidades. Adora alimentar-se de eletricidade forte. Ocasionalmente aparece em torno de grandes usinas de energia e assim por diante."
+        },
+        {
+            "name": "Magmar",
+            "number": "#0126",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/126.png",
+            "evolution":[
+                {"name": "Magby", "Lv": 1, "img": "./poke-png-G2/089.png"},
+                {"name": "Magmar", "Lv": 30, "img": "./poke-png-G1/126.png"},
+                {"name": "Magmortar", "Lv": "trade holding Magmarizer", "img": "./poke-png-G4/080.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 95, "Defense": 57, "Sp.atack": 100, "Sp.Def": 85, "Speed": 93 },
+            "description": "O seu corpo arde sempre com um brilho laranja que lhe permite esconder-se perfeitamente no meio das chamas. Encontrado perto da boca de um vulcão. A temperatura corporal deste respirador de fogo é de quase 2.200 graus Fahrenheit."
+        },
+        {
+            "name": "Pinsir",
+            "number": "#0127",
+            "types":[
+                {"type": "Inseto" }
+            ],
+            "images": "./poke-png-G1/127.png",
+            "evolution":[
+                {"name": "Pinsir", "Lv": 1, "img": "./poke-png-G1/127.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Voador" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 125, "Defense": 100, "Sp.atack": 55, "Sp.Def": 70, "Speed": 85 },
+            "description": "Se ele não conseguir esmagar o inimigo em suas pinças, ele vai balançar e jogar o adversário. Seus dois longos chifres de pinça são poderosos. Uma vez que eles agarram um inimigo, eles não vão se soltar até que o inimigo seja rasgado."
+        },
+        {
+            "name": "Tauros",
+            "number": "#0128",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/128.png",
+            "evolution":[
+                {"name": "Tauros", "Lv": 1, "img": "./poke-png-G1/128.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 75, "Atack": 100, "Defense": 95, "Sp.atack": 40, "Sp.Def": 70, "Speed": 110 },
+            "description": "Quando ataca um inimigo, ele carrega furiosamente enquanto chicoteia seu corpo com suas longas caudas. Quando está prestes a ATACAR, chicoteia seu corpo repetidamente com suas três longas caudas."
+        },
+        {
+            "name": "Magikarp",
+            "number": "#0129",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/129.png",
+            "evolution":[
+                {"name": "Magikarp", "Lv": 1, "img": "./poke-png-G1/129.png"},
+                {"name": "Gyarados", "Lv": 20, "img": "./poke-png-G1/130.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 20, "Atack": 10, "Defense": 55, "Sp.atack": 15, "Sp.Def": 20, "Speed": 80 },
+            "description": "No passado distante, era um pouco mais forte do que os descendentes terrivelmente fracos que existem hoje. É praticamente inútil em termos de potência e velocidade. É o POKéMON mais fraco e patético do mundo."
+        },
+        {
+            "name": "Gyarados",
+            "number": "#0130",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/130.png",
+            "evolution":[
+                {"name": "Magikarp", "Lv": 1, "img": "./poke-png-G1/129.png"},
+                {"name": "Gyarados", "Lv": 20, "img": "./poke-png-G1/130.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 95, "Atack": 125, "Defense": 79, "Sp.atack": 60, "Sp.Def": 100, "Speed": 81 },
+            "description": "Raramente visto na natureza. Enorme e cruel, é capaz de destruir cidades inteiras em fúria. Tem uma natureza extremamente agressiva. O HYPER BEAM que dispara da boca incinera totalmente todos os alvos."
+        },
+        {
+            "name": "Lapras",
+            "number": "#0131",
+            "types":[
+                {"type": "Agua" },
+                {"type": "Gelo" }
+            ],
+            "images": "./poke-png-G1/131.png",
+            "evolution":[
+                {"name": "Lapras", "Lv": 1, "img": "./poke-png-G1/131.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 130, "Atack": 85, "Defense": 80, "Sp.atack": 85, "Sp.Def": 95, "Speed": 60 },
+            "description": "Um POKéMON que tem sido caçado quase até à extinção. Pode transportar pessoas nas costas. A sua elevada inteligência permite-lhe compreender a fala humana. Gosta de transportar pessoas nas costas."
+        },
+        {
+            "name": "Ditto",
+            "number": "#0132",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/132.png",
+            "evolution":[
+                {"name": "Ditto", "Lv": 1, "img": "./poke-png-G1/132.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 48, "Atack": 48, "Defense": 48, "Sp.atack": 48, "Sp.Def": 48, "Speed": 48 },
+            "description": "Capaz de copiar o código genético de um oponente para se transformar instantaneamente em uma duplicata do inimigo. Pode recombinar livremente a sua própria estrutura celular para se transformar noutras formas de vida."
+        },
+        {
+            "name": "Eevee",
+            "number": "#0133",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/133.png",
+            "evolution":[
+                {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
+                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 55, "Atack": 55, "Defense": 50, "Sp.atack": 45, "Sp.Def": 65, "Speed": 55 },
+            "description": "Um POKéMON extremamente raro que pode evoluir de várias maneiras diferentes dependendo dos estímulos. O seu código genético é irregular. Pode sofrer mutações se for exposto à radiação do elemento STONES."
+        },
+        {
+            "name": "Vaporeon",
+            "number": "#0134",
+            "types":[
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/134.png",
+            "evolution":[
+                {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
+                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" }
+            ],
+            "baseStats":{"HP": 130, "Atack": 65, "Defense": 60, "Sp.atack": 110, "Sp.Def": 95, "Speed": 65 },
+            "description": "Vive perto da água. A sua cauda comprida é sulcada com uma barbatana que é muitas vezes confundida com a de uma sereia. A estrutura celular do seu corpo é semelhante à composição molecular da água. Pode derreter invisivelmente na água."
+        },
+        {
+            "name": "Jolteon",
+            "number": "#0135",
+            "types":[
+                {"type": "Eletrico" }
+            ],
+            "images": "./poke-png-G1/135.png",
+            "evolution":[
+                {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
+                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+            ],
+            "superdamange": [
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 65, "Defense": 60, "Sp.atack": 110, "Sp.Def": 95, "Speed": 130 },
+            "description": "Ele acumula íons negativos na atmosfera para explodir raios de 10.000 volts. Se estiver irritado ou assustado, o pelo em todo o corpo eriça-se como agulhas afiadas que perfuram os inimigos."
+        },
+        {
+            "name": "Flareon",
+            "number": "#0136",
+            "types":[
+                {"type": "Fogo" }
+            ],
+            "images": "./poke-png-G1/136.png",
+            "evolution":[
+                {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
+                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Terra" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 130, "Defense": 60, "Sp.atack": 95, "Sp.Def": 110, "Speed": 65 },
+            "description": "Ao armazenar energia térmica em seu corpo, sua temperatura pode subir para mais de 1.600 graus Fahrenheit. Tem um saco de chama dentro do seu corpo. Depois de inalar profundamente, sopra chamas de quase 3.100 graus Fahrenheit."
+        },
+        {
+            "name": "Porygon",
+            "number": "#0137",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/137.png",
+            "evolution":[
+                {"name": "Porygon", "Lv": 1, "img": "./poke-png-G1/137.png"},
+                {"name": "Porygon2", "Lv": "trade holding Upgrade", "img": "./poke-png-G2/082.png"},
+                {"name": "Porygon-Z", "Lv": "trade holding Dubious Disc", "img": "./poke-png-G4/087.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 65, "Atack": 60, "Defense": 70, "Sp.atack": 85, "Sp.Def": 75, "Speed": 40 },
+            "description": "Um POKéMON que consiste inteiramente em código de programação. É capaz de se mover livremente no ciberespaço. Usando as tecnologias mais avançadas, os cientistas finalmente conseguiram fazer o primeiro POKéMON artificial."
+        },
+        {
+            "name": "Omanyte",
+            "number": "#0138",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/139.png",
+            "evolution":[
+                {"name": "Omanyte", "Lv": 1, "img": "./poke-png-G1/138.png"},
+                {"name": "Omastar", "Lv": 45, "img": "./poke-png-G1/139.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 35, "Atack": 40, "Defense": 100, "Sp.atack": 90, "Sp.Def": 55, "Speed": 35 },
+            "description": "Embora há muito extinta, em casos raros, pode ser geneticamente regenerada a partir de fósseis. Um POKéMON pré-histórico que viveu no mar primordial, nada torcendo seus 10 tentáculos."
+        },
+        {
+            "name": "Omastar",
+            "number": "#0139",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/139.png",
+            "evolution":[
+                {"name": "Omanyte", "Lv": 1, "img": "./poke-png-G1/138.png"},
+                {"name": "Omastar", "Lv": 45, "img": "./poke-png-G1/139.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 70, "Atack": 60, "Defense": 125, "Sp.atack": 115, "Sp.Def": 70, "Speed": 55 },
+            "description": "Apesar de ter presas e tentáculos fortes, extinguiu-se quando a sua pesada concha o tornou incapaz de apanhar presas. Seus tentáculos são altamente desenvolvidos como se fossem mãos e pés. Assim que prende a presa, morde."
+        },
+        {
+            "name": "Kabuto",
+            "number": "#0140",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/140.png",
+            "evolution":[
+                {"name": "Kabuto", "Lv": 1, "img": "./poke-png-G1/140.png"},
+                {"name": "Kabutops", "Lv": 40, "img": "./poke-png-G1/141.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 30, "Atack": 80, "Defense": 90, "Sp.atack": 55, "Sp.Def": 45, "Speed": 55 },
+            "description": "Este POKéMON foi regenerado a partir do fóssil de uma criatura antiga. Protege-se com uma casca dura. Um POKéMON que foi regenerado a partir de um fóssil encontrado no que já foi o fundo do oceano há muito tempo."
+        },
+        {
+            "name": "Kabutops",
+            "number": "#0141",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Agua" }
+            ],
+            "images": "./poke-png-G1/141.png",
+            "evolution":[
+                {"name": "Kabuto", "Lv": 1, "img": "./poke-png-G1/140.png"},
+                {"name": "Kabutops", "Lv": 40, "img": "./poke-png-G1/141.png"}
+            ],
+            "superdamange": [
+                {"type": "Eletrico" },
+                {"type": "Grama" },
+                {"type": "Lutador" },
+                {"type": "Terra" }
+            ],
+            "baseStats":{"HP": 60, "Atack": 115, "Defense": 105, "Sp.atack": 65, "Sp.Def": 70, "Speed": 80 },
+            "description": "A sua forma elegante é perfeita para nadar. Ele corta as presas com suas garras e drena seus fluidos. Nada livremente através da água. Ele pega a presa com seus braços semelhantes a foices e drena os fluidos da vítima."
+        },
+        {
+            "name": "Aerodactyl",
+            "number": "#0142",
+            "types":[
+                {"type": "Rocha" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/142.png",
+            "evolution":[
+                {"name": "Aerodactyl", "Lv": 1, "img": "./poke-png-G1/142.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Eletrico" },
+                {"type": "Gelo" },
+                {"type": "Rocha" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 80, "Atack": 105, "Defense": 65, "Sp.atack": 60, "Sp.Def": 75, "Speed": 130 },
+            "description": "Um POKéMON feroz e pré-histórico que vai para a garganta do inimigo com as suas presas serrilhadas e serradas. Foi regenerado a partir da matéria genética de um dinossauro que foi encontrado em âmbar. Voa com gritos agudos."
+        },
+        {
+            "name": "Snorlax",
+            "number": "#0143",
+            "types":[
+                {"type": "Normal" }
+            ],
+            "images": "./poke-png-G1/143.png",
+            "evolution":[
+                {"name": "Munchlax", "Lv": 1, "img": "./poke-png-G4/059.png"},
+                {"name": "Snorlax", "Lv": "high Friendship", "img": "./poke-png-G1/143.png"}
+            ],
+            "superdamange": [
+                {"type": "Lutador" }
+            ],
+            "baseStats":{"HP": 160, "Atack": 110, "Defense": 65, "Sp.atack": 65, "Sp.Def": 110, "Speed": 30 },
+            "description": "Muito preguiçoso. Apenas come e dorme. À medida que o seu volume rotundo aumenta, torna-se cada vez mais preguiçoso. Não está satisfeito, a menos que coma mais de 880 quilos de comida todos os dias. Quando termina de comer, vai dormir prontamente."
+        },
+        {
+            "name": "Articuno",
+            "number": "#0144",
+            "types":[
+                {"type": "Gelo" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/144.png",
+            "evolution":[
+                {"name": "Articuno", "Lv": 1, "img": "./poke-png-G1/144.png"}
+            ],
+            "superdamange": [
+                {"type": "Fogo" },
+                {"type": "Eletrico" },
+                {"type": "Rocha" },
+                {"type": "Metal" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 85, "Defense": 100, "Sp.atack": 95, "Sp.Def": 125, "Speed": 85 },
+            "description": "Um pássaro lendário POKéMON que se diz aparecer para pessoas condenadas que estão perdidas em montanhas geladas. Um dos lendários pássaros POKéMON. Com sua longa cauda atrás dela, sua forma voadora é magnífica."
+        },
+        {
+            "name": "Zapdos",
+            "number": "#0145",
+            "types":[
+                {"type": "Eletrico" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/145.png",
+            "evolution":[
+                {"name": "Zapdos", "Lv": 1, "img": "./poke-png-G1/145.png"}
+            ],
+            "superdamange": [
+                {"type": "Gelo" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 90, "Defense": 85, "Sp.atack": 125, "Sp.Def": 90, "Speed": 100 },
+            "description": "Um pássaro lendário POKéMON que se diz aparecer das nuvens enquanto solta enormes raios. Um dos lendários pássaros POKéMON. Enquanto voa, emite sons crepitantes e estalos."
+        },
+        {
+            "name": "Moltres",
+            "number": "#0146",
+            "types":[
+                {"type": "Fogo" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/146.png",
+            "evolution":[
+                {"name": "Moltres", "Lv": 1, "img": "./poke-png-G1/146.png"}
+            ],
+            "superdamange": [
+                {"type": "Agua" },
+                {"type": "Eletrico" },
+                {"type": "Rocha" }
+            ],
+            "baseStats":{"HP": 90, "Atack": 100, "Defense": 90, "Sp.atack": 125, "Sp.Def": 85, "Speed": 90 },
+            "description": "Um dos lendários pássaros POKéMON. Aqueles que o vêem ficam impressionados com as suas asas laranjas que parecem estar em chamas. Diz-se que é a lendária ave POKéMON de fogo. Cada aba de suas asas cria uma chama deslumbrante."
+        },
+        {
+            "name": "Dratini",
+            "number": "#0147",
+            "types":[
+                {"type": "Dragão" }
+            ],
+            "images": "./poke-png-G1/147.png",
+            "evolution":[
+                {"name": "Dratini", "Lv": 1, "img": "./poke-png-G1/147.png"},
+                {"name": "Dragonair", "Lv": 30, "img": "./poke-png-G1/148.png"},
+                {"name": "Dragonite", "Lv": 55, "img": "./poke-png-G1/149.png"}
+            ],
+            "superdamange": [
+                {"type": "Gelo" },
+                {"type": "Dragão" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 41, "Atack": 64, "Defense": 45, "Sp.atack": 50, "Sp.Def": 50, "Speed": 50 },
+            "description": "Por muito tempo considerado um POKéMON mítico até recentemente, quando uma pequena colônia foi encontrada vivendo debaixo d'água. Mesmo os jovens podem exceder 6,5 metros de comprimento. Cresce por descamação repetida da pele."
+        },
+        {
+            "name": "Dragonair",
+            "number": "#0148",
+            "types":[
+                {"type": "Dragão" }
+            ],
+            "images": "./poke-png-G1/148.png",
+            "evolution":[
+                {"name": "Dratini", "Lv": 1, "img": "./poke-png-G1/147.png"},
+                {"name": "Dragonair", "Lv": 30, "img": "./poke-png-G1/148.png"},
+                {"name": "Dragonite", "Lv": 55, "img": "./poke-png-G1/149.png"}
+            ],
+            "superdamange": [
+                {"type": "Gelo" },
+                {"type": "Dragão" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 61, "Atack": 84, "Defense": 65, "Sp.atack": 70, "Sp.Def": 70, "Speed": 70 },
+            "description": "Um POKéMON místico que exala uma aura suave. Diz-se que tem a capacidade de mudar o tempo. Diz-se que vive em mares e lagos. Apesar de não ter asas, tem sido visto voando ocasionalmente."
+        },
+        {
+            "name": "Dragonite",
+            "number": "#0149",
+            "types":[
+                {"type": "Dragão" },
+                {"type": "Voador" }
+            ],
+            "images": "./poke-png-G1/149.png",
+            "evolution":[
+                {"name": "Dratini", "Lv": 1, "img": "./poke-png-G1/147.png"},
+                {"name": "Dragonair", "Lv": 30, "img": "./poke-png-G1/148.png"},
+                {"name": "Dragonite", "Lv": 55, "img": "./poke-png-G1/149.png"}
+            ],
+            "superdamange": [
+                {"type": "Gelo" },
+                {"type": "Dragão" },
+                {"type": "Rocha" },
+                {"type": "Fada" }
+            ],
+            "baseStats":{"HP": 91, "Atack": 134, "Defense": 95, "Sp.atack": 100, "Sp.Def": 100, "Speed": 80 },
+            "description": "Apenas muito poucas pessoas vêem este POKéMON. Diz-se que a sua inteligência corresponde à dos seres humanos. Pode voar apesar do seu físico grande e volumoso. Dá a volta ao globo em apenas 16 horas."
+        },
+        {
+            "name": "Mewtwo",
+            "number": "#0150",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/150.png",
+            "evolution":[
+                {"name": "Mewtwo", "Lv": 1, "img": "./poke-png-G1/150.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 106, "Atack": 110, "Defense": 90, "Sp.atack": 154, "Sp.Def": 90, "Speed": 130 },
+            "description": "Um POKéMON cujo código genético foi repetidamente recombinado para pesquisa. Tornou-se vicioso como resultado. Foi criado por um cientista após anos de horríveis experiências de emenda genética e engenharia de DNA."
+        },
+        {
+            "name": "Mew",
+            "number": "#0151",
+            "types":[
+                {"type": "Pisquico" }
+            ],
+            "images": "./poke-png-G1/151.png",
+            "evolution":[
+                {"name": "Mew", "Lv": 1, "img": "./poke-png-G1/151.png"}
+            ],
+            "superdamange": [
+                {"type": "Inseto" },
+                {"type": "Fantasma" },
+                {"type": "Obscuro" }
+            ],
+            "baseStats":{"HP": 100, "Atack": 100, "Defense": 100, "Sp.atack": 100, "Sp.Def": 100, "Speed": 100 },
+            "description": "Um POKéMON da América do Sul que se pensava ter sido extinto. É muito inteligente e aprende qualquer movimento. Tão raro que ainda é dito ser uma miragem por muitos especialistas. Apenas algumas pessoas o viram em todo o mundo."
         }
     ]
 }
