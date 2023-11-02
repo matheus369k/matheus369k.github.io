@@ -2450,7 +2450,7 @@
             "images": "./poke-png-G1/123.png",
             "evolution":[
                 {"name": "Scyther", "Lv": 1, "img": "./poke-png-G1/123.png"},
-                {"name": "Scizor", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/062.png"}
+                {"name": "Scizor", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/061.png"}
             ],
             "superdamange": [
                 {"type": "Fogo" },
