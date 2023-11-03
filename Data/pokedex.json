@@ -1630,7 +1630,7 @@
             "evolution":[
                 {"name": "Magnemite", "Lv": 1, "img": "./poke-png-G1/081.png"},
                 {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"},
-                {"name": "Magneton", "Lv": "level up in a Magnetic Field area", "img": "./poke-png-G4/075.png"}
+                {"name": "Magnezone", "Lv": "level up in a Magnetic Field area", "img": "./poke-png-G4/075.png"}
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -1651,7 +1651,7 @@
             "evolution":[
                 {"name": "Magnemite", "Lv": 1, "img": "./poke-png-G1/081.png"},
                 {"name": "Magneton", "Lv": 30, "img": "./poke-png-G1/082.png"},
-                {"name": "Magneton", "Lv": "level up in a Magnetic Field area", "img": "./poke-png-G4/075.png"}
+                {"name": "Magnezone", "Lv": "level up in a Magnetic Field area", "img": "./poke-png-G4/075.png"}
             ],
             "superdamange": [
                 {"type": "Fogo" },
