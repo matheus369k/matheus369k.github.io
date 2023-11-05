@@ -851,7 +851,11 @@
             "evolution":[
                 {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
                 {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
-                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+                {"moreOneEvolution": [
+                        {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"},
+                        {"name": "Bellossom", "Lv": "Sun Stone", "img": "./poke-png-G2/031.png"}
+                    ]
+                }
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -873,7 +877,11 @@
             "evolution":[
                 {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
                 {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
-                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+                {"moreOneEvolution": [
+                    {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"},
+                    {"name": "Bellossom", "Lv": "Sun Stone", "img": "./poke-png-G2/031.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -895,7 +903,11 @@
             "evolution":[
                 {"name": "Oddish", "Lv": 1, "img": "./poke-png-G1/043.png"},
                 {"name": "Gloom", "Lv": 21, "img": "./poke-png-G1/044.png"},
-                {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"}
+                {"moreOneEvolution": [
+                    {"name": "Vileplume", "Lv": "Leaf Stone", "img": "./poke-png-G1/045.png"},
+                    {"name": "Bellossom", "Lv": "Sun Stone", "img": "./poke-png-G2/031.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -1111,7 +1123,8 @@
             "images": "./poke-png-G1/056.png",
             "evolution":[
                 {"name": "Mankey", "Lv": 1, "img": "./poke-png-G1/056.png"},
-                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"}
+                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"},
+                {"name": "Annihilape", "Lv": "Rage Fist 20 times", "img": "./poke-png-G9/073.png"}
             ],
             "superdamange": [
                 {"type": "Voador" },
@@ -1130,7 +1143,8 @@
             "images": "./poke-png-G1/057.png",
             "evolution":[
                 {"name": "Mankey", "Lv": 1, "img": "./poke-png-G1/056.png"},
-                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"}
+                {"name": "Primeape", "Lv": 28, "img": "./poke-png-G1/057.png"},
+                {"name": "Annihilape", "Lv": "Rage Fist 20 times", "img": "./poke-png-G9/073.png"}
             ],
             "superdamange": [
                 {"type": "Voador" },
@@ -1188,7 +1202,11 @@
             "evolution":[
                 {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
                 {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
-                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+                {"moreOneEvolution": [
+                    {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"},
+                    {"name": "Politoed", "Lv": "trade holding Kings Rock", "img": "./poke-png-G2/035.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -1207,7 +1225,11 @@
             "evolution":[
                 {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
                 {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
-                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+                {"moreOneEvolution": [
+                    {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"},
+                    {"name": "Politoed", "Lv": "trade holding Kings Rock", "img": "./poke-png-G2/035.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -1227,7 +1249,11 @@
             "evolution":[
                 {"name": "Poliwag", "Lv": 1, "img": "./poke-png-G1/060.png"},
                 {"name": "Poliwhirl", "Lv": 25, "img": "./poke-png-G1/061.png"},
-                {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"}
+                {"moreOneEvolution": [
+                    {"name": "Poliwrath", "Lv": "Water Stone", "img": "./poke-png-G1/062.png"},
+                    {"name": "Politoed", "Lv": "trade holding Kings Rock", "img": "./poke-png-G2/035.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -1585,7 +1611,11 @@
             "images": "./poke-png-G1/079.png",
             "evolution":[
                 {"name": "Slowpoke", "Lv": 1, "img": "./poke-png-G1/079.png"},
-                {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"}
+                {"moreOneEvolution": [
+                    {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"},
+                    {"name": "Slowking", "Lv": "trade holding Kings Rock", "img": "./poke-png-G2/048.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -1607,7 +1637,11 @@
             "images": "./poke-png-G1/080.png",
             "evolution":[
                 {"name": "Slowpoke", "Lv": 1, "img": "./poke-png-G1/079.png"},
-                {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"}
+                {"moreOneEvolution": [
+                    {"name": "Slowbro", "Lv": 37, "img": "./poke-png-G1/080.png"},
+                    {"name": "Slowking", "Lv": "trade holding Kings Rock", "img": "./poke-png-G2/048.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -1670,7 +1704,8 @@
             ],
             "images": "./poke-png-G1/083.png",
             "evolution":[
-                {"name": "Farfetch'd", "Lv": 1, "img": "./poke-png-G1/083.png"}
+                {"name": "Farfetch'd", "Lv": 1, "img": "./poke-png-G1/083.png"},
+                {"name": "Sirfetch'd", "Lv": "achieve 3 critical hits in one battle", "img": "./poke-png-G8/055.png"}
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -2123,7 +2158,12 @@
             "images": "./poke-png-G1/106.png",
             "evolution":[
                 {"name": "Tyrogue", "Lv": 1, "img": "./poke-png-G2/085.png"},
-                {"name": "Hitmonlee", "Lv": "Level 20, Attack > Defense", "img": "./poke-png-G1/106.png"}
+                {"moreOneEvolution": [
+                    {"name": "Hitmonlee", "Lv": "Level 20, Attack > Defense", "img": "./poke-png-G1/106.png"},
+                    {"name": "Hitmonchan", "Lv": "Level 20, Attack < Defense", "img": "./poke-png-G1/107.png"},
+                    {"name": "Hitmontop", "Lv": "Level 20, Attack = Defense", "img": "./poke-png-G2/086.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Voador" },
@@ -2142,7 +2182,12 @@
             "images": "./poke-png-G1/107.png",
             "evolution":[
                 {"name": "Tyrogue", "Lv": 1, "img": "./poke-png-G2/085.png"},
-                {"name": "Hitmonchan", "Lv": "Level 20, Attack < Defense", "img": "./poke-png-G1/107.png"}
+                {"moreOneEvolution": [
+                    {"name": "Hitmonlee", "Lv": "Level 20, Attack > Defense", "img": "./poke-png-G1/106.png"},
+                    {"name": "Hitmonchan", "Lv": "Level 20, Attack < Defense", "img": "./poke-png-G1/107.png"},
+                    {"name": "Hitmontop", "Lv": "Level 20, Attack = Defense", "img": "./poke-png-G2/086.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Voador" },
@@ -2450,7 +2495,11 @@
             "images": "./poke-png-G1/123.png",
             "evolution":[
                 {"name": "Scyther", "Lv": 1, "img": "./poke-png-G1/123.png"},
-                {"name": "Scizor", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/061.png"}
+                {"moreOneEvolution": [
+                    {"name": "Scizor", "Lv": "trade holding Metal Coat", "img": "./poke-png-G2/061.png"},
+                    {"name": "Kleavor", "Lv": "Black Augurite", "img": "./poke-png-G8/090.png"}
+                ]
+            }
             ],
             "superdamange": [
                 {"type": "Fogo" },
@@ -2639,9 +2688,17 @@
             "images": "./poke-png-G1/133.png",
             "evolution":[
                 {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
-                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
-                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
-                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+                {"moreOneEvolution": [
+                        {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                        {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                        {"name": "Flareon", "Lv": "Fire Stone", "img": "./poke-png-G1/136.png"},
+                        {"name": "Espeon", "Lv": "high Friendship, Daytime", "img": "./poke-png-G2/045.png"},
+                        {"name": "Umbreon", "Lv": "high Friendship, Nighttime", "img": "./poke-png-G2/046.png"},
+                        {"name": "Leafeon", "Lv": "Leaf Stone", "img": "./poke-png-G4/083.png"},
+                        {"name": "Glaceon", "Lv": "Ice Stone", "img": "./poke-png-G4/084.png"},
+                        {"name": "Sylveon", "Lv": "high friendship in Gen 8+", "img": "./poke-png-G6/050.png"}
+                    ]
+                } 
             ],
             "superdamange": [
                 {"type": "Lutador" }
@@ -2658,9 +2715,17 @@
             "images": "./poke-png-G1/134.png",
             "evolution":[
                 {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
-                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
-                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
-                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+                {"moreOneEvolution": [
+                        {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                        {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                        {"name": "Flareon", "Lv": "Fire Stone", "img": "./poke-png-G1/136.png"},
+                        {"name": "Espeon", "Lv": "high Friendship, Daytime", "img": "./poke-png-G2/045.png"},
+                        {"name": "Umbreon", "Lv": "high Friendship, Nighttime", "img": "./poke-png-G2/046.png"},
+                        {"name": "Leafeon", "Lv": "Leaf Stone", "img": "./poke-png-G4/083.png"},
+                        {"name": "Glaceon", "Lv": "Ice Stone", "img": "./poke-png-G4/084.png"},
+                        {"name": "Sylveon", "Lv": "high friendship in Gen 8+", "img": "./poke-png-G6/050.png"}
+                    ]
+                }
             ],
             "superdamange": [
                 {"type": "Eletrico" },
@@ -2678,9 +2743,17 @@
             "images": "./poke-png-G1/135.png",
             "evolution":[
                 {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
-                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
-                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
-                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+                {"moreOneEvolution": [
+                        {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                        {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                        {"name": "Flareon", "Lv": "Fire Stone", "img": "./poke-png-G1/136.png"},
+                        {"name": "Espeon", "Lv": "high Friendship, Daytime", "img": "./poke-png-G2/045.png"},
+                        {"name": "Umbreon", "Lv": "high Friendship, Nighttime", "img": "./poke-png-G2/046.png"},
+                        {"name": "Leafeon", "Lv": "Leaf Stone", "img": "./poke-png-G4/083.png"},
+                        {"name": "Glaceon", "Lv": "Ice Stone", "img": "./poke-png-G4/084.png"},
+                        {"name": "Sylveon", "Lv": "high friendship in Gen 8+", "img": "./poke-png-G6/050.png"}
+                    ]
+                }
             ],
             "superdamange": [
                 {"type": "Terra" }
