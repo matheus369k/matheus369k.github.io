@@ -496,7 +496,7 @@
             "evolution":[
                 {"name": "Pichu", "Lv": 1, "img": "./poke-png-G2/021.png"},
                 {"name": "Pikachu", "Lv": "high Friendship", "img": "./poke-png-G1/025.png"},
-                {"name": "Raichu", "Lv": "Thunder Stone0", "img": "./poke-png-G1/026.png"}
+                {"name": "Raichu", "Lv": "Thunder Stone", "img": "./poke-png-G1/026.png"}
             ],
             "superdamange": [
                 {"type": "Terra" }
