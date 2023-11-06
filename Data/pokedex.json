@@ -2770,9 +2770,17 @@
             "images": "./poke-png-G1/136.png",
             "evolution":[
                 {"name": "Eevee", "Lv": 1, "img": "./poke-png-G1/133.png"},
-                {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
-                {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
-                {"name": "Flareon", "Lv": "Fire Stone1", "img": "./poke-png-G1/136.png"}
+                {"moreOneEvolution": [
+                        {"name": "Vaporeon", "Lv": "Water Stone", "img": "./poke-png-G1/134.png"},
+                        {"name": "Jolteon", "Lv": "Thunder Stone", "img": "./poke-png-G1/135.png"},
+                        {"name": "Flareon", "Lv": "Fire Stone", "img": "./poke-png-G1/136.png"},
+                        {"name": "Espeon", "Lv": "high Friendship, Daytime", "img": "./poke-png-G2/045.png"},
+                        {"name": "Umbreon", "Lv": "high Friendship, Nighttime", "img": "./poke-png-G2/046.png"},
+                        {"name": "Leafeon", "Lv": "Leaf Stone", "img": "./poke-png-G4/083.png"},
+                        {"name": "Glaceon", "Lv": "Ice Stone", "img": "./poke-png-G4/084.png"},
+                        {"name": "Sylveon", "Lv": "high friendship in Gen 8+", "img": "./poke-png-G6/050.png"}
+                    ]
+                }
             ],
             "superdamange": [
                 {"type": "Agua" },
