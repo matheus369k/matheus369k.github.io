@@ -1,6 +1,7 @@
 {
     "projects": [
         {
+            "id": "001",
             "name": "Pokedex",
             "src": "./Project-pokedex.PNG",
             "description": "Projeto e um site com o foco exibir informações de cada pokemon, tendo seu desenvolvimeto em react, seus dados foram importados de uma API json, criada e armazenada no meu repositoria. as bibliotecas utilizadas com maior presença foram: Axios para API, react-icons para adicionar icones e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizando as mediaQuerys no CSS. O projeto teve como maior pratica criação de funções ",
@@ -14,6 +15,7 @@
             }
         },
         {
+            "id": "002",
             "name": "Space Tourism",
             "src": "./Project-space.PNG",
             "description": "Space Tourism e um site Desenvolvido com o objetive de apresentar um guia para orientar turistas espaciais, tendo seu desenvolvimeto em react, seus dados foram importados de uma API json. Na criação do projeto fora utilizadas como principais bibliotecas: Axios para API, react-icons para adicionar icons e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
@@ -27,6 +29,7 @@
             }
         },
         {
+            "id": "003",
             "name": "Saga Transformers",
             "src": "Project-sagaTransformers.PNG",
             "description": "O projeto  Saga Transformers e um site informativo sobre todos os filmes da franquia no momento, fora utilizado arrays para gardar as informações dos filmes. Ao desenvolver o site teve como principais bibliotecas:  react-icons para adicionar icons e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
@@ -40,6 +43,7 @@
             }
         },
         {
+            "id": "004",
             "name": "Product Ecommerce",
             "src": "Project-ecommerc.PNG",
             "description": "Product ecommerc e uma pagina de venda de um produto, fora criado algumas funções, sendo elas de compra de um item, adiciona-la ao carrinho, remove-lo do carrinho, ao clicar na imagem ele se sobre sai em relação a pagina e outras. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O desenvolvimeto do projeto teve sua maior partica a logica de programação.",
@@ -54,6 +58,7 @@
             }
         },
         {
+            "id": "005",
             "name": "Home Page",
             "src": "Project-homePage.PNG",
             "description": "Home page e uma pagina que simula o desenvolvimeto da pagina principal de um site, tendo sua criação direcionado a pratica e organização do conteudo, fora usado grid layout e flexbox, sendo eles responsaveis pela adaptação do conteudo. A pagina e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
@@ -68,6 +73,7 @@
             }
         },
         {
+            "id": "006",
             "name": "Login Page",
             "src": "Project-login.PNG",
             "description": "Login page e um projeto que tem o foco o Aprimoramento das habilides em Sass utilizando variables, mixins e funções no sass, fora utilizado tanto grid layout quanto flexbox para organizar os items, tendo sua adaptação com mediaQuerys, e utilizado o javascript para criação da mensagem de confirmação de login e uma pequena verificação.",
