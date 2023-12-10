@@ -9536,6 +9536,1090 @@
                 "Speed": 48
             },
             "description": "Este Pokémon tem a forma de uma escrita antiga. É um mistério sobre o que veio primeiro, os escritos antigos ou os vários Unown. A pesquisa sobre esse tema está em andamento, mas nada se sabe."
+        },
+        {
+            "name": "Wobbuffet",
+            "number": "#0202",
+            "types": [
+                {
+                    "type": "Pisquico"
+                }
+            ],
+            "images": "./poke-png-G2/051.png",
+            "evolution": [
+                {
+                    "name": "Wynaut",
+                    "Lv": 1,
+                    "img": "./poke-png-G3/108.png"
+                },
+                {
+                    "name": "Wobbuffet",
+                    "Lv": 15,
+                    "img": "./poke-png-G2/051.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Fantasma"
+                },
+                {
+                    "type": "Obscuro"
+                }
+            ],
+            "baseStats": {
+                "HP": 190,
+                "Atack": 33,
+                "Defense": 58,
+                "Sp.atack": 33,
+                "Sp.Def": 58,
+                "Speed": 33
+            },
+            "description": "Wobbuffet não faz nada além de suportar ataques – ele não ataca sozinho. No entanto, não suportará um ataque em sua cauda. Quando isso acontecer, o Pokémon tentará levar o inimigo com ele usando Destiny Bond."
+        },
+        {
+            "name": "Girafarig",
+            "number": "#0203",
+            "types": [
+                {
+                    "type": "Normal"
+                },
+                {
+                    "type": "Pisquico"
+                }
+            ],
+            "images": "./poke-png-G2/052.png",
+            "evolution": [
+                {
+                    "name": "Girafarig",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/052.png"
+                },
+                {
+                    "name": "Farigiraf",
+                    "Lv": "after Twin Beam learned",
+                    "img": "./poke-png-G9/075.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Obscuro"
+                }
+            ],
+            "baseStats": {
+                "HP": 70,
+                "Atack": 80,
+                "Defense": 65,
+                "Sp.atack": 90,
+                "Sp.Def": 65,
+                "Speed": 85
+            },
+            "description": "A cabeça traseira de Girafarig também tem um cérebro, mas é pequeno. A cabeça traseira ataca em resposta a cheiros e sons. Aproximar-se deste Pokémon por trás pode fazer com que a cabeça traseira de repente bata e morda."
+        },
+        {
+            "name": "Pineco",
+            "number": "#0204",
+            "types": [
+                {
+                    "type": "Inseto"
+                }
+            ],
+            "images": "./poke-png-G2/053.png",
+            "evolution": [
+                {
+                    "name": "Pineco",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/053.png"
+                },
+                {
+                    "name": "Forretress",
+                    "Lv": 31,
+                    "img": "./poke-png-G2/054.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Voador"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 50,
+                "Atack": 65,
+                "Defense": 90,
+                "Sp.atack": 35,
+                "Sp.Def": 35,
+                "Speed": 15
+            },
+            "description": "Pineco se pendura em um galho de árvore e espera pacientemente que a presa apareça. Se o Pokémon é perturbado enquanto come por alguém sacudindo sua árvore, ele cai no chão e explode sem aviso."
+        },
+        {
+            "name": "Forretress",
+            "number": "#0205",
+            "types": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "images": "./poke-png-G2/054.png",
+            "evolution": [
+                {
+                    "name": "Pineco",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/053.png"
+                },
+                {
+                    "name": "Forretress",
+                    "Lv": 31,
+                    "img": "./poke-png-G2/054.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "baseStats": {
+                "HP": 75,
+                "Atack": 90,
+                "Defense": 140,
+                "Sp.atack": 60,
+                "Sp.Def": 60,
+                "Speed": 40
+            },
+            "description": "A Forretress se esconde dentro de sua casca de aço temperado. A concha é aberta quando o Pokémon está capturando presas, mas o faz em um ritmo tão rápido que o interior da concha não pode ser visto."
+        },
+        {
+            "name": "Dunsparce",
+            "number": "#0206",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/055.png",
+            "evolution": [
+                {
+                    "name": "Dunsparce",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/055.png"
+                },
+                {
+                    "name": "Dudunsparce",
+                    "Lv": "after Hyper Drill learned",
+                    "img": "./poke-png-G9/076.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 100,
+                "Atack": 70,
+                "Defense": 70,
+                "Sp.atack": 65,
+                "Sp.Def": 65,
+                "Speed": 45
+            },
+            "description": "Dunsparce tem uma broca para sua cauda. Ele usa essa cauda para escavar no chão para trás. Este Pokémon é conhecido por fazer seu ninho em formas complexas sob o solo."
+        },
+        {
+            "name": "Gligar",
+            "number": "#0207",
+            "types": [
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/056.png",
+            "evolution": [
+                {
+                    "name": "Gligar",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/056.png"
+                },
+                {
+                    "name": "Gliscor",
+                    "Lv": "hold Razor Fang, Nighttime",
+                    "img": "./poke-png-G4/085.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Gelo"
+                }
+            ],
+            "baseStats": {
+                "HP": 65,
+                "Atack": 75,
+                "Defense": 105,
+                "Sp.atack": 35,
+                "Sp.Def": 65,
+                "Speed": 85
+            },
+            "description": "Gligar desliza pelo ar sem um som como se estivesse deslizando. Este Pokémon se pendura no rosto de seu inimigo usando suas patas traseiras com garras e as grandes pinças em suas patas dianteiras, em seguida, injeta a presa com sua farpa venenosa."
+        },
+        {
+            "name": "Steelix",
+            "number": "#0208",
+            "types": [
+                {
+                    "type": "Metal"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/057.png",
+            "evolution": [
+                {
+                    "name": "Onix",
+                    "Lv": 1,
+                    "img": "./poke-png-G1/095.png"
+                },
+                {
+                    "name": "Steelix",
+                    "Lv": "trade holding Metal Coat",
+                    "img": "./poke-png-G2/057.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "baseStats": {
+                "HP": 75,
+                "Atack": 85,
+                "Defense": 200,
+                "Sp.atack": 55,
+                "Sp.Def": 65,
+                "Speed": 30
+            },
+            "description": "O Steelix vive ainda mais no subsolo do que o Onix. Este Pokémon é conhecido por cavar em direção ao núcleo da Terra. Há registros deste Pokémon atingindo uma profundidade de mais de seis décimos de milha no subsolo."
+        },
+        {
+            "name": "Snubbull",
+            "number": "#0209",
+            "types": [
+                {
+                    "type": "Fada"
+                }
+            ],
+            "images": "./poke-png-G2/058.png",
+            "evolution": [
+                {
+                    "name": "Snubbull",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/058.png"
+                },
+                {
+                    "name": "Granbull",
+                    "Lv": 23,
+                    "img": "./poke-png-G2/059.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Veneno"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 60,
+                "Atack": 80,
+                "Defense": 50,
+                "Sp.atack": 40,
+                "Sp.Def": 40,
+                "Speed": 30
+            },
+            "description": "Ao desnudar suas presas e fazer uma cara assustadora, Snubbull envia Pokémon menores correndo para longe em terror. No entanto, este Pokémon parece um pouco triste em fazer seus inimigos fugirem."
+        },
+        {
+            "name": "Granbull",
+            "number": "#0210",
+            "types": [
+                {
+                    "type": "Fada"
+                }
+            ],
+            "images": "./poke-png-G2/059.png",
+            "evolution": [
+                {
+                    "name": "Snubbull",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/058.png"
+                },
+                {
+                    "name": "Granbull",
+                    "Lv": 23,
+                    "img": "./poke-png-G2/059.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Veneno"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 90,
+                "Atack": 120,
+                "Defense": 75,
+                "Sp.atack": 60,
+                "Sp.Def": 60,
+                "Speed": 45
+            },
+            "description": "Granbull tem uma mandíbula inferior particularmente bem desenvolvida. As presas enormes são pesadas, fazendo com que o Pokémon incline a cabeça para trás para o equilíbrio. A menos que se assuste, não tentará morder indiscriminadamente."
+        },
+        {
+            "name": "Qwilfish",
+            "number": "#0211",
+            "types": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Veneno"
+                }
+            ],
+            "images": "./poke-png-G2/060.png",
+            "evolution": [
+                {
+                    "name": "Qwilfish",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/060.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Pisquico"
+                }
+            ],
+            "baseStats": {
+                "HP": 65,
+                "Atack": 95,
+                "Defense": 85,
+                "Sp.atack": 55,
+                "Sp.Def": 55,
+                "Speed": 85
+            },
+            "description": "Qwilfish suga a água, inflando-se. Este Pokémon usa a pressão da água que engoliu para atirar colchas tóxicas de uma só vez de todo o seu corpo. Ele acha a natação um pouco desafiadora."
+        },
+        {
+            "name": "Scizor",
+            "number": "#0212",
+            "types": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "images": "./poke-png-G2/061.png",
+            "evolution": [
+                {
+                    "name": "Scyther",
+                    "Lv": 1,
+                    "img": "./poke-png-G1/123.png"
+                },
+                {
+                    "moreOneEvolution": [
+                        {
+                            "name": "Scizor",
+                            "Lv": "trade holding Metal Coat",
+                            "img": "./poke-png-G2/061.png"
+                        },
+                        {
+                            "name": "Kleavor",
+                            "Lv": "Black Augurite",
+                            "img": "./poke-png-G8/090.png"
+                        }
+                    ]
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "baseStats": {
+                "HP": 70,
+                "Atack": 130,
+                "Defense": 100,
+                "Sp.atack": 55,
+                "Sp.Def": 80,
+                "Speed": 65
+            },
+            "description": "A Scizor possui corpo com dureza de aço. Não é facilmente incomodado por tipos comuns de ataques. Este Pokémon bate as asas para regular a temperatura corporal."
+        },
+        {
+            "name": "Shuckle",
+            "number": "#0213",
+            "types": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "images": "./poke-png-G2/062.png",
+            "evolution": [
+                {
+                    "name": "Shuckle",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/062.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 20,
+                "Atack": 10,
+                "Defense": 230,
+                "Sp.atack": 10,
+                "Sp.Def": 230,
+                "Speed": 5
+            },
+            "description": "Shuckle silenciosamente se esconde sob pedras, mantendo seu corpo escondido dentro de sua casca dura enquanto come bagas que armazenou. As bagas misturam-se com seus fluidos corporais para se tornarem um suco."
+        },
+        {
+            "name": "Heracross",
+            "number": "#0214",
+            "types": [
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "images": "./poke-png-G2/063.png",
+            "evolution": [
+                {
+                    "name": "Heracross",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/063.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Voador"
+                },
+                {
+                    "type": "Pisquico"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 80,
+                "Atack": 125,
+                "Defense": 75,
+                "Sp.atack": 40,
+                "Sp.Def": 95,
+                "Speed": 85
+            },
+            "description": "Heracross carrega em linha reta seu inimigo, escorrega sob o alcance do inimigo e, em seguida, pega e lança o oponente com seu poderoso chifre. Este Pokémon ainda tem poder suficiente para derrubar uma árvore enorme."
+        },
+        {
+            "name": "Sneasel",
+            "number": "#0215",
+            "types": [
+                {
+                    "type": "Obscuro"
+                },
+                {
+                    "type": "Gelo"
+                }
+            ],
+            "images": "./poke-png-G2/064.png",
+            "evolution": [
+                {
+                    "name": "Sneasel",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/064.png"
+                },
+                {
+                    "name": "Weavile",
+                    "Lv": "hold Razor Claw, Nighttime",
+                    "img": "./poke-png-G4/074.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Metal"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 55,
+                "Atack": 95,
+                "Defense": 55,
+                "Sp.atack": 35,
+                "Sp.Def": 75,
+                "Speed": 115
+            },
+            "description": "Sneasel escala árvores socando suas garras fisgadas na casca. Este Pokémon procura ninhos desprotegidos e rouba ovos para comer enquanto os pais estão fora."
+        },
+        {
+            "name": "Teddiursa",
+            "number": "#0216",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/065.png",
+            "evolution": [
+                {
+                    "name": "Teddiursa",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/065.png"
+                },
+                {
+                    "name": "Ursaring",
+                    "Lv": 30,
+                    "img": "./poke-png-G2/066.png"
+                },
+                {
+                    "name": "Ursaluna",
+                    "Lv": "use Peat Block, under a full moon, in Legends: Arceus)",
+                    "img": "./poke-png-G8/091.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 60,
+                "Atack": 80,
+                "Defense": 50,
+                "Sp.atack": 50,
+                "Sp.Def": 50,
+                "Speed": 40
+            },
+            "description": "Este Pokémon gosta de lamber as palmas das mãos que são adoçadas por estarem embebidas em mel. A Teddiursa produz seu próprio mel misturando frutos e pólen coletados pela Beedrill."
+        },
+        {
+            "name": "Ursaring",
+            "number": "#0217",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/066.png",
+            "evolution": [
+                {
+                    "name": "Teddiursa",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/065.png"
+                },
+                {
+                    "name": "Ursaring",
+                    "Lv": 30,
+                    "img": "./poke-png-G2/066.png"
+                },
+                {
+                    "name": "Ursaluna",
+                    "Lv": "use Peat Block, under a full moon, in Legends: Arceus)",
+                    "img": "./poke-png-G8/091.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 90,
+                "Atack": 130,
+                "Defense": 75,
+                "Sp.atack": 75,
+                "Sp.Def": 75,
+                "Speed": 55
+            },
+            "description": "Nas florestas habitadas por Ursaring, diz-se que há muitos riachos e árvores imponentes onde eles coletam alimentos. Este Pokémon caminha por sua floresta coletando comida todos os dias."
+        },
+        {
+            "name": "Slugma",
+            "number": "#0218",
+            "types": [
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "images": "./poke-png-G2/067.png",
+            "evolution": [
+                {
+                    "name": "Slugma",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/067.png"
+                },
+                {
+                    "name": "Magcargo",
+                    "Lv": 38,
+                    "img": "./poke-png-G2/068.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 40,
+                "Atack": 40,
+                "Defense": 40,
+                "Sp.atack": 70,
+                "Sp.Def": 40,
+                "Speed": 20
+            },
+            "description": "O magma derretido percorre todo o sistema circulatório de Slugma. Se esse Pokémon estiver gelado, o magma esfria e endurece. Seu corpo fica quebradiço e pedaços caem, reduzindo seu tamanho."
+        },
+        {
+            "name": "Magcargo",
+            "number": "#0219",
+            "types": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "images": "./poke-png-G2/068.png",
+            "evolution": [
+                {
+                    "name": "Slugma",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/067.png"
+                },
+                {
+                    "name": "Magcargo",
+                    "Lv": 38,
+                    "img": "./poke-png-G2/068.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 60,
+                "Atack": 50,
+                "Defense": 120,
+                "Sp.atack": 90,
+                "Sp.Def": 80,
+                "Speed": 30
+            },
+            "description": "A casca do Magcargo é, na verdade, sua pele que endureceu como resultado do resfriamento. Sua casca é muito frágil e frágil – apenas tocá-la faz com que ela se desmorone. Este Pokémon retorna ao seu tamanho original mergulhando em magma."
+        },
+        {
+            "name": "Swinub",
+            "number": "#0220",
+            "types": [
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/069.png",
+            "evolution": [
+                {
+                    "name": "Swinub",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/069.png"
+                },
+                {
+                    "name": "Piloswine",
+                    "Lv": 33,
+                    "img": "./poke-png-G2/070.png"
+                },
+                {
+                    "name": "Mamoswine",
+                    "Lv": "after Ancient Power learned",
+                    "img": "./poke-png-G4/086.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 50,
+                "Atack": 50,
+                "Defense": 40,
+                "Sp.atack": 30,
+                "Sp.Def": 30,
+                "Speed": 50
+            },
+            "description": "Swinub raízes para a comida esfregando seu focinho contra o chão. Sua comida favorita é um cogumelo que cresce sob a cobertura de grama morta. Este Pokémon ocasionalmente erradica fontes termais."
+        },
+        {
+            "name": "Piloswine",
+            "number": "#0221",
+            "types": [
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/070.png",
+            "evolution": [
+                {
+                    "name": "Swinub",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/069.png"
+                },
+                {
+                    "name": "Piloswine",
+                    "Lv": 33,
+                    "img": "./poke-png-G2/070.png"
+                },
+                {
+                    "name": "Mamoswine",
+                    "Lv": "after Ancient Power learned",
+                    "img": "./poke-png-G4/086.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 100,
+                "Atack": 100,
+                "Defense": 80,
+                "Sp.atack": 60,
+                "Sp.Def": 60,
+                "Speed": 50
+            },
+            "description": "Piloswine é coberto por uma espessa pelagem de cabelos longos que lhe permite suportar o frio congelante. Este Pokémon usa suas presas para desenterrar comida que foi enterrada sob gelo."
+        },
+        {
+            "name": "Corsola",
+            "number": "#0222",
+            "types": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "images": "./poke-png-G2/071.png",
+            "evolution": [
+                {
+                    "name": "Corsola",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/071.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "baseStats": {
+                "HP": 65,
+                "Atack": 55,
+                "Defense": 95,
+                "Sp.atack": 65,
+                "Sp.Def": 95,
+                "Speed": 35
+            },
+            "description": "Os galhos de Corsola brilham muito lindamente em sete cores quando pegam a luz do sol. Se algum galho quebrar, este Pokémon volta a crescer em apenas uma noite."
+        },
+        {
+            "name": "Remoraid",
+            "number": "#0223",
+            "types": [
+                {
+                    "type": "Agua"
+                }
+            ],
+            "images": "./poke-png-G2/072.png",
+            "evolution": [
+                {
+                    "name": "Remoraid",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/072.png"
+                },
+                {
+                    "name": "Octillery",
+                    "Lv": 25,
+                    "img": "./poke-png-G2/073.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Grama"
+                }
+            ],
+            "baseStats": {
+                "HP": 35,
+                "Atack": 65,
+                "Defense": 35,
+                "Sp.atack": 65,
+                "Sp.Def": 35,
+                "Speed": 65
+            },
+            "description": "Remoraid suga a água, em seguida, expulsa-a em alta velocidade usando seus músculos abdominais para abater presas voadoras. Quando a evolução se aproxima, este Pokémon viaja rio abaixo dos rios."
+        },
+        {
+            "name": "Octillery",
+            "number": "#0224",
+            "types": [
+                {
+                    "type": "Agua"
+                }
+            ],
+            "images": "./poke-png-G2/073.png",
+            "evolution": [
+                {
+                    "name": "Remoraid",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/072.png"
+                },
+                {
+                    "name": "Octillery",
+                    "Lv": 25,
+                    "img": "./poke-png-G2/073.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Grama"
+                }
+            ],
+            "baseStats": {
+                "HP": 75,
+                "Atack": 105,
+                "Defense": 75,
+                "Sp.atack": 105,
+                "Sp.Def": 75,
+                "Speed": 45
+            },
+            "description": "Octillery agarra seu inimigo usando seus tentáculos. Este Pokémon tenta imobilizá-lo antes de dar o golpe final. Se o inimigo se mostrar muito forte, Octillery vomita tinta para escapar."
+        },
+        {
+            "name": "Delibird",
+            "number": "#0225",
+            "types": [
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/074.png",
+            "evolution": [
+                {
+                    "name": "Delibird",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/074.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 45,
+                "Atack": 55,
+                "Defense": 45,
+                "Sp.atack": 65,
+                "Sp.Def": 45,
+                "Speed": 75
+            },
+            "description": "Delibird carrega sua comida embalada em sua cauda. Houve uma vez um famoso explorador que conseguiu chegar ao pico da montanha mais alta do mundo, graças a um desses Pokémon compartilhando sua comida."
+        },
+        {
+            "name": "Mantine",
+            "number": "#0226",
+            "types": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/075.png",
+            "evolution": [
+                {
+                    "name": "Mantyke",
+                    "Lv": 1,
+                    "img": "./poke-png-G4/071.png"
+                },
+                {
+                    "name": "Mantine",
+                    "Lv": "with Remoraid in party",
+                    "img": "./poke-png-G2/075.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 85,
+                "Atack": 40,
+                "Defense": 70,
+                "Sp.atack": 80,
+                "Sp.Def": 140,
+                "Speed": 70
+            },
+            "description": "Em dias ensolarados, cardumes de Mantine podem ser vistos pulando elegantemente sobre as ondas do mar. Este Pokémon não se incomoda com o Remoraid que pega carona."
         }
     ]
 }
