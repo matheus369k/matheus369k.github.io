@@ -10620,6 +10620,1124 @@
                 "Speed": 70
             },
             "description": "Em dias ensolarados, cardumes de Mantine podem ser vistos pulando elegantemente sobre as ondas do mar. Este Pokémon não se incomoda com o Remoraid que pega carona."
+        },
+        {
+            "name": "Skarmory",
+            "number": "#0227",
+            "types": [
+                {
+                    "type": "Metal"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/076.png",
+            "evolution": [
+                {
+                    "name": "Skarmory",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/076.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Eletrico"
+                }
+            ],
+            "baseStats": {
+                "HP": 65,
+                "Atack": 80,
+                "Defense": 140,
+                "Sp.atack": 40,
+                "Sp.Def": 70,
+                "Speed": 70
+            },
+            "description": "Skarmory é inteiramente envolto em armadura dura e protetora. Este Pokémon voa a cerca de 190 mph. Ele corta inimigos com suas asas que possuem arestas cortantes semelhantes a espadas."
+        },
+        {
+            "name": "Houndour",
+            "number": "#0228",
+            "types": [
+                {
+                    "type": "Obscuro"
+                },
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "images": "./poke-png-G2/077.png",
+            "evolution": [
+                {
+                    "name": "Houndour",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/077.png"
+                },
+                {
+                    "name": "Houndoom",
+                    "Lv": 24,
+                    "img": "./poke-png-G2/078.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 45,
+                "Atack": 60,
+                "Defense": 30,
+                "Sp.atack": 80,
+                "Sp.Def": 50,
+                "Speed": 65
+            },
+            "description": "Houndour caça como uma matilha coordenada. Eles se comunicam uns com os outros usando uma variedade de gritos para encurralar suas presas. O notável trabalho em equipe deste Pokémon é incomparável."
+        },
+        {
+            "name": "Houndoom",
+            "number": "#0229",
+            "types": [
+                {
+                    "type": "Obscuro"
+                },
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "images": "./poke-png-G2/078.png",
+            "evolution": [
+                {
+                    "name": "Houndour",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/077.png"
+                },
+                {
+                    "name": "Houndoom",
+                    "Lv": 24,
+                    "img": "./poke-png-G2/078.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 75,
+                "Atack": 90,
+                "Defense": 50,
+                "Sp.atack": 110,
+                "Sp.Def": 80,
+                "Speed": 95
+            },
+            "description": "Em um pacote Houndoom, aquele com seus chifres inclinados bruscamente para trás cumpre um papel de liderança. Esses Pokémon escolhem seu líder lutando entre si."
+        },
+        {
+            "name": "Kingdra",
+            "number": "#0230",
+            "types": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Dragão"
+                }
+            ],
+            "images": "./poke-png-G2/079.png",
+            "evolution": [
+                {
+                    "name": "Horsea",
+                    "Lv": 1,
+                    "img": "./poke-png-G1/116.png"
+                },
+                {
+                    "name": "Seadra",
+                    "Lv": 32,
+                    "img": "./poke-png-G1/117.png"
+                },
+                {
+                    "name": "Kingdra",
+                    "Lv": "trade holding Dragon Scale",
+                    "img": "./poke-png-G2/079.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Dragão"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 75,
+                "Atack": 95,
+                "Defense": 95,
+                "Sp.atack": 95,
+                "Sp.Def": 95,
+                "Speed": 85
+            },
+            "description": "Kingdra vive em profundidades oceânicas extremas que, de outra forma, seriam desabitadas. Há muito que se acredita que o bocejo deste Pokémon cria correntes oceânicas em espiral."
+        },
+        {
+            "name": "Phanpy",
+            "number": "#0231",
+            "types": [
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/080.png",
+            "evolution": [
+                {
+                    "name": "Phanpy",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/080.png"
+                },
+                {
+                    "name": "Donphan",
+                    "Lv": 25,
+                    "img": "./poke-png-G2/081.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Gelo"
+                }
+            ],
+            "baseStats": {
+                "HP": 90,
+                "Atack": 60,
+                "Defense": 60,
+                "Sp.atack": 40,
+                "Sp.Def": 40,
+                "Speed": 40
+            },
+            "description": "Phanpy usa seu nariz longo para tomar banho. Quando os outros se reúnem, encharcam-se completamente uns aos outros com água. Esses Pokémon podem ser vistos secando seus corpos molhados na beira da água."
+        },
+        {
+            "name": "Donphan",
+            "number": "#0232",
+            "types": [
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/081.png",
+            "evolution": [
+                {
+                    "name": "Phanpy",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/080.png"
+                },
+                {
+                    "name": "Donphan",
+                    "Lv": 25,
+                    "img": "./poke-png-G2/081.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Gelo"
+                }
+            ],
+            "baseStats": {
+                "HP": 90,
+                "Atack": 60,
+                "Defense": 60,
+                "Sp.atack": 40,
+                "Sp.Def": 40,
+                "Speed": 40
+            },
+            "description": "O ataque favorito de Donphan é enrolar seu corpo em uma bola, depois carregar em seu adversário enquanto rola em alta velocidade. Uma vez que começa a rolar, este Pokémon não pode parar muito facilmente."
+        },
+        {
+            "name": "Porygon2",
+            "number": "#0233",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/082.png",
+            "evolution": [
+                {
+                    "name": "Porygon",
+                    "Lv": 1,
+                    "img": "./poke-png-G1/137.png"
+                },
+                {
+                    "name": "Porygon2",
+                    "Lv": "trade holding Upgrade",
+                    "img": "./poke-png-G2/082.png"
+                },
+                {
+                    "name": "Porygon-Z",
+                    "Lv": "trade holding Dubious Disc",
+                    "img": "./poke-png-G4/087.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 85,
+                "Atack": 80,
+                "Defense": 90,
+                "Sp.atack": 105,
+                "Sp.Def": 95,
+                "Speed": 60
+            },
+            "description": "Porygon2 foi criado por humanos usando o poder da ciência. O Pokémon feito pelo homem foi dotado de inteligência artificial que lhe permite aprender novos gestos e emoções por conta própria."
+        },
+        {
+            "name": "Stantler",
+            "number": "#0234",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/083.png",
+            "evolution": [
+                {
+                    "name": "Stantler",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/083.png"
+                },
+                {
+                    "name": "Wyrdeer",
+                    "Lv": "use Psyshield Bash 20 times in Agile Style",
+                    "img": "./poke-png-G8/089.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 73,
+                "Atack": 95,
+                "Defense": 62,
+                "Sp.atack": 85,
+                "Sp.Def": 65,
+                "Speed": 85
+            },
+            "description": "Os magníficos chifres de Stantler eram negociados a preços elevados como obras de arte. Como resultado, este Pokémon foi caçado perto da extinção por aqueles que estavam atrás dos chifres inestimáveis."
+        },
+        {
+            "name": "Smeargle",
+            "number": "#0235",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/084.png",
+            "evolution": [
+                {
+                    "name": "Smeargle",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/084.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 55,
+                "Atack": 20,
+                "Defense": 35,
+                "Sp.atack": 20,
+                "Sp.Def": 45,
+                "Speed": 75
+            },
+            "description": "Smeargle marca os limites de seu território usando um fluido corporal que vaza da ponta de sua cauda. Mais de 5.000 marcas diferentes deixadas por este Pokémon foram encontradas."
+        },
+        {
+            "name": "Tyrogue",
+            "number": "#0236",
+            "types": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "images": "./poke-png-G2/085.png",
+            "evolution": [
+                {
+                    "name": "Tyrogue",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/085.png"
+                },
+                {
+                    "moreOneEvolution": [
+                        {
+                            "name": "Hitmonlee",
+                            "Lv": "Level 20, Attack > Defense",
+                            "img": "./poke-png-G1/106.png"
+                        },
+                        {
+                            "name": "Hitmonchan",
+                            "Lv": "Level 20, Attack < Defense",
+                            "img": "./poke-png-G1/107.png"
+                        },
+                        {
+                            "name": "Hitmontop",
+                            "Lv": "Level 20, Attack = Defense",
+                            "img": "./poke-png-G2/086.png"
+                        }
+                    ]
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Voador"
+                },
+                {
+                    "type": "Pisquico"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 35,
+                "Atack": 35,
+                "Defense": 35,
+                "Sp.atack": 35,
+                "Sp.Def": 35,
+                "Speed": 35
+            },
+            "description": "Tyrogue fica estressado se não conseguir treinar todos os dias. Ao criar este Pokémon, o Treinador deve estabelecer e manter vários métodos de treinamento."
+        },
+        {
+            "name": "Hitmontop",
+            "number": "#0237",
+            "types": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "images": "./poke-png-G2/086.png",
+            "evolution": [
+                {
+                    "name": "Tyrogue",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/085.png"
+                },
+                {
+                    "moreOneEvolution": [
+                        {
+                            "name": "Hitmonlee",
+                            "Lv": "Level 20, Attack > Defense",
+                            "img": "./poke-png-G1/106.png"
+                        },
+                        {
+                            "name": "Hitmonchan",
+                            "Lv": "Level 20, Attack < Defense",
+                            "img": "./poke-png-G1/107.png"
+                        },
+                        {
+                            "name": "Hitmontop",
+                            "Lv": "Level 20, Attack = Defense",
+                            "img": "./poke-png-G2/086.png"
+                        }
+                    ]
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Voador"
+                },
+                {
+                    "type": "Pisquico"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 50,
+                "Atack": 95,
+                "Defense": 95,
+                "Sp.atack": 35,
+                "Sp.Def": 110,
+                "Speed": 70
+            },
+            "description": "Hitmontop gira de cabeça em alta velocidade, enquanto dá chutes. Esta técnica é uma mistura notável de ataque e defesa ao mesmo tempo. O Pokémon viaja mais rápido girando do que andando."
+        },
+        {
+            "name": "Smoochum",
+            "number": "#0238",
+            "types": [
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Pisquico"
+                }
+            ],
+            "images": "./poke-png-G2/087.png",
+            "evolution": [
+                {
+                    "name": "Smoochum",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/087.png"
+                },
+                {
+                    "name": "Jynx",
+                    "Lv": 30,
+                    "img": "./poke-png-G1/124.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Fantasma"
+                },
+                {
+                    "type": "Obscuro"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 45,
+                "Atack": 30,
+                "Defense": 15,
+                "Sp.atack": 85,
+                "Sp.Def": 65,
+                "Speed": 65
+            },
+            "description": "Smoochum corre ativamente, mas também cai com bastante frequência. Sempre que a chance chegar, ele procurará seu reflexo para garantir que seu rosto não fique sujo."
+        },
+        {
+            "name": "Elekid",
+            "number": "#0239",
+            "types": [
+                {
+                    "type": "Eletrico"
+                }
+            ],
+            "images": "./poke-png-G2/088.png",
+            "evolution": [
+                {
+                    "name": "Elekid",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/088.png"
+                },
+                {
+                    "name": "Electabuzz",
+                    "Lv": 30,
+                    "img": "./poke-png-G1/125.png"
+                },
+                {
+                    "name": "Electivire",
+                    "Lv": "trade holding Electirizer",
+                    "img": "./poke-png-G4/079.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Terra"
+                }
+            ],
+            "baseStats": {
+                "HP": 45,
+                "Atack": 63,
+                "Defense": 37,
+                "Sp.atack": 65,
+                "Sp.Def": 55,
+                "Speed": 95
+            },
+            "description": "Elekid armazena eletricidade em seu corpo. Se tocar metal e acidentalmente descarregar toda a sua eletricidade acumulada, este Pokémon começa a balançar os braços em círculos para se recarregar."
+        },
+        {
+            "name": "Magby",
+            "number": "#0240",
+            "types": [
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "images": "./poke-png-G2/089.png",
+            "evolution": [
+                {
+                    "name": "Magby",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/089.png"
+                },
+                {
+                    "name": "Magmar",
+                    "Lv": 30,
+                    "img": "./poke-png-G1/126.png"
+                },
+                {
+                    "name": "Magmortar",
+                    "Lv": "trade holding Magmarizer",
+                    "img": "./poke-png-G4/080.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 45,
+                "Atack": 75,
+                "Defense": 37,
+                "Sp.atack": 70,
+                "Sp.Def": 55,
+                "Speed": 83
+            },
+            "description": "O estado de saúde de Magby é determinado pela observação do fogo que respira. Se o Pokémon está jorrando chamas amarelas de sua boca, ele está em boa saúde. Quando estiver fatigada, a fumaça preta será misturada com as chamas."
+        },
+        {
+            "name": "Miltank",
+            "number": "#0241",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/090.png",
+            "evolution": [
+                {
+                    "name": "Miltank",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/090.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 95,
+                "Atack": 80,
+                "Defense": 105,
+                "Sp.atack": 40,
+                "Sp.Def": 70,
+                "Speed": 100
+            },
+            "description": "Miltank dá mais de cinco litros de leite diariamente. Seu doce de leite é apreciado por crianças e adultos. As pessoas que não podem beber leite transformam-no em iogurte e comem-no em vez disso."
+        },
+        {
+            "name": "Blissey",
+            "number": "#0242",
+            "types": [
+                {
+                    "type": "Normal"
+                }
+            ],
+            "images": "./poke-png-G2/091.png",
+            "evolution": [
+                {
+                    "name": "Happiny",
+                    "Lv": 1,
+                    "img": "./poke-png-G4/053.png"
+                },
+                {
+                    "name": "Chansey",
+                    "Lv": "hold Oval Stone, Daytime",
+                    "img": "./poke-png-G1/113.png"
+                },
+                {
+                    "name": "Blissey",
+                    "Lv": "high Friendship",
+                    "img": "./poke-png-G2/091.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Lutador"
+                }
+            ],
+            "baseStats": {
+                "HP": 255,
+                "Atack": 10,
+                "Defense": 10,
+                "Sp.atack": 75,
+                "Sp.Def": 135,
+                "Speed": 55
+            },
+            "description": "Blissey sente tristeza com sua pelagem fofa. Se o fizer, este Pokémon correrá para uma pessoa triste, não importa quão longe, para compartilhar um Lucky Egg que traz um sorriso para qualquer rosto."
+        },
+        {
+            "name": "Raikou",
+            "number": "#0243",
+            "types": [
+                {
+                    "type": "Eletrico"
+                }
+            ],
+            "images": "./poke-png-G2/092.png",
+            "evolution": [
+                {
+                    "name": "Raikou",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/092.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Terra"
+                }
+            ],
+            "baseStats": {
+                "HP": 90,
+                "Atack": 85,
+                "Defense": 75,
+                "Sp.atack": 115,
+                "Sp.Def": 100,
+                "Speed": 115
+            },
+            "description": "Raikou encarna a velocidade dos relâmpagos. Os rugidos deste Pokémon enviam ondas de choque estremecendo pelo ar e sacodem o chão como se relâmpagos tivessem caído."
+        },
+        {
+            "name": "Entei",
+            "number": "#0244",
+            "types": [
+                {
+                    "type": "Fogo"
+                }
+            ],
+            "images": "./poke-png-G2/093.png",
+            "evolution": [
+                {
+                    "name": "Entei",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/093.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 115,
+                "Atack": 115,
+                "Defense": 85,
+                "Sp.atack": 90,
+                "Sp.Def": 75,
+                "Speed": 100
+            },
+            "description": "Entei encarna a paixão do magma. Acredita-se que este Pokémon tenha nascido na erupção de um vulcão. Ele envia enormes rajadas de fogo que consomem completamente tudo o que eles tocam."
+        },
+        {
+            "name": "Suicune",
+            "number": "#0245",
+            "types": [
+                {
+                    "type": "Agua"
+                }
+            ],
+            "images": "./poke-png-G2/094.png",
+            "evolution": [
+                {
+                    "name": "Suicune",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/094.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Grama"
+                }
+            ],
+            "baseStats": {
+                "HP": 100,
+                "Atack": 75,
+                "Defense": 115,
+                "Sp.atack": 90,
+                "Sp.Def": 115,
+                "Speed": 85
+            },
+            "description": "Suicune encarna a compaixão de uma fonte pura de água. Atravessa a terra com graciosidade. Este Pokémon tem o poder de purificar a água suja."
+        },
+        {
+            "name": "Larvitar",
+            "number": "#0246",
+            "types": [
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/095.png",
+            "evolution": [
+                {
+                    "name": "Larvitar",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/095.png"
+                },
+                {
+                    "name": "Pupitar",
+                    "Lv": 30,
+                    "img": "./poke-png-G2/096.png"
+                },
+                {
+                    "name": "Tyranitar",
+                    "Lv": 55,
+                    "img": "./poke-png-G2/097.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 50,
+                "Atack": 64,
+                "Defense": 50,
+                "Sp.atack": 45,
+                "Sp.Def": 50,
+                "Speed": 41
+            },
+            "description": "Larvitar nasce nas profundezas do solo. Para chegar à superfície, este Pokémon deve comer o solo acima. Enquanto não o fizer, Larvitar não poderá ver seus pais."
+        },
+        {
+            "name": "Pupitar",
+            "number": "#0247",
+            "types": [
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Terra"
+                }
+            ],
+            "images": "./poke-png-G2/096.png",
+            "evolution": [
+                {
+                    "name": "Larvitar",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/095.png"
+                },
+                {
+                    "name": "Pupitar",
+                    "Lv": 30,
+                    "img": "./poke-png-G2/096.png"
+                },
+                {
+                    "name": "Tyranitar",
+                    "Lv": 55,
+                    "img": "./poke-png-G2/097.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Metal"
+                }
+            ],
+            "baseStats": {
+                "HP": 70,
+                "Atack": 84,
+                "Defense": 70,
+                "Sp.atack": 65,
+                "Sp.Def": 70,
+                "Speed": 51
+            },
+            "description": "Pupitar cria um gás dentro de seu corpo que ele comprime e ejeta com força para se impulsionar como um jato. O corpo é muito durável – evita danos mesmo que atinja o aço sólido."
+        },
+        {
+            "name": "Tyranitar",
+            "number": "#0248",
+            "types": [
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Obscuro"
+                }
+            ],
+            "images": "./poke-png-G2/097.png",
+            "evolution": [
+                {
+                    "name": "Larvitar",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/095.png"
+                },
+                {
+                    "name": "Pupitar",
+                    "Lv": 30,
+                    "img": "./poke-png-G2/096.png"
+                },
+                {
+                    "name": "Tyranitar",
+                    "Lv": 55,
+                    "img": "./poke-png-G2/097.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Grama"
+                },
+                {
+                    "type": "Lutador"
+                },
+                {
+                    "type": "Terra"
+                },
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Metal"
+                },
+                {
+                    "type": "Fada"
+                }
+            ],
+            "baseStats": {
+                "HP": 100,
+                "Atack": 134,
+                "Defense": 110,
+                "Sp.atack": 95,
+                "Sp.Def": 100,
+                "Speed": 61
+            },
+            "description": "O Tyranitar é tão esmagadoramente poderoso que pode derrubar uma montanha inteira para fazer seu ninho. Este Pokémon vaga pelas montanhas em busca de novos oponentes para lutar."
+        },
+        {
+            "name": "Lugia",
+            "number": "#0249",
+            "types": [
+                {
+                    "type": "Pisquico"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/098.png",
+            "evolution": [
+                {
+                    "name": "Lugia",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/098.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Rocha"
+                },
+                {
+                    "type": "Fantasma"
+                },
+                {
+                    "type": "Obscuro"
+                }
+            ],
+            "baseStats": {
+                "HP": 106,
+                "Atack": 90,
+                "Defense": 130,
+                "Sp.atack": 90,
+                "Sp.Def": 154,
+                "Speed": 110
+            },
+            "description": "As asas de Lugia têm um poder devastador – um leve bater de asas pode destruir casas comuns. Como resultado, este Pokémon escolhe viver fora da vista nas profundezas do mar."
+        },
+        {
+            "name": "Ho-oh",
+            "number": "#0250",
+            "types": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Voador"
+                }
+            ],
+            "images": "./poke-png-G2/099.png",
+            "evolution": [
+                {
+                    "name": "Ho-oh",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/099.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Agua"
+                },
+                {
+                    "type": "Eletrico"
+                },
+                {
+                    "type": "Rocha"
+                }
+            ],
+            "baseStats": {
+                "HP": 106,
+                "Atack": 130,
+                "Defense": 90,
+                "Sp.atack": 110,
+                "Sp.Def": 154,
+                "Speed": 90
+            },
+            "description": "As penas de Ho-Oh brilham em sete cores, dependendo do ângulo em que são atingidas pela luz. Diz-se que essas penas trazem felicidade aos portadores. Diz-se que este Pokémon vive aos pés de um arco-íris."
+        },
+        {
+            "name": "Celebi",
+            "number": "#0251",
+            "types": [
+                {
+                    "type": "Pisquico"
+                },
+                {
+                    "type": "Grama"
+                }
+            ],
+            "images": "./poke-png-G2/100.png",
+            "evolution": [
+                {
+                    "name": "Celebi",
+                    "Lv": 1,
+                    "img": "./poke-png-G2/100.png"
+                }
+            ],
+            "superdamange": [
+                {
+                    "type": "Fogo"
+                },
+                {
+                    "type": "Gelo"
+                },
+                {
+                    "type": "Veneno"
+                },
+                {
+                    "type": "Voador"
+                },
+                {
+                    "type": "Inseto"
+                },
+                {
+                    "type": "Fantasma"
+                },
+                {
+                    "type": "Obscuro"
+                }
+            ],
+            "baseStats": {
+                "HP": 100,
+                "Atack": 100,
+                "Defense": 100,
+                "Sp.atack": 100,
+                "Sp.Def": 100,
+                "Speed": 100
+            },
+            "description": "Este Pokémon veio do futuro atravessando o tempo. Pensa-se que, enquanto Celebi aparecer, um futuro brilhante e brilhante nos espera."
         }
     ]
 }
