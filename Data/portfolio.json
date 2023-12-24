@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Pokedex",
-            "src": "Project-1.webp",
+            "src": "Project-1.png",
             "description": "Pokedex é um site desenvolvido com o objetivo de apresentar informações dos monstros da série Pokémon. Sua API ainda está em desenvolvimento, contudo, já conta com as duas primeiras gerações adicionadas. O site é totalmente responsivo e está constantemente sendo atualizado.",
             "skils": {
                 "skill-1": "React.js",
