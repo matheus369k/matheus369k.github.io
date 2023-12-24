@@ -1,10 +1,10 @@
 {
     "projects": [
         {
-            "id": "001",
+            "id": "1",
             "name": "Pokedex",
-            "src": "./Project-pokedex.PNG",
-            "description": "Projeto e um site com o foco exibir informações de cada pokemon, tendo seu desenvolvimeto em react, seus dados foram importados de uma API json, criada e armazenada no meu repositoria. as bibliotecas utilizadas com maior presença foram: Axios para API, react-icons para adicionar icones e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizando as mediaQuerys no CSS. O projeto teve como maior pratica criação de funções ",
+            "src": "./Project-1.webp",
+            "description": "Pokedex é um site desenvolvido com o objetivo de apresentar informações dos monstros da série Pokémon. Sua API ainda está em desenvolvimento, contudo, já conta com as duas primeiras gerações adicionadas. O site é totalmente responsivo e está constantemente sendo atualizado.",
             "skils": {
                 "skill-1": "React.js",
                 "skill-2": "CSS"
@@ -15,38 +15,25 @@
             }
         },
         {
-            "id": "002",
-            "name": "Space Tourism",
-            "src": "./Project-space.PNG",
-            "description": "Space Tourism e um site Desenvolvido com o objetive de apresentar um guia para orientar turistas espaciais, tendo seu desenvolvimeto em react, seus dados foram importados de uma API json. Na criação do projeto fora utilizadas como principais bibliotecas: Axios para API, react-icons para adicionar icons e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
+            "id": "2",
+            "name": "Manage Landing Page",
+            "src": "./Project-2.webp",
+            "description": "Manage Landing Page é a página inicial de um gerenciador de páginas de destino. No desenvolvimento do projeto, foram adicionadas animações para tornar as trocas e carregamentos mais suaves, eventos para criar interações e adição de verificação de email.",
             "skils": {
-                "skill-1": "React.js",
-                "skill-2": "CSS"
+                "skill-1": "HTML5",
+                "skill-2": "Sass",
+                "skill-3": "JQuery"
             },
             "links": {
-                "repositorio": "https://github.com/matheus369k/space-tourism-website",
-                "deploy": "https://matheus369k.github.io/space-tourism-website/#"
+                "repositorio": "https://github.com/matheus369k/manage-landing-page-master",
+                "deploy": "https://matheus369k.github.io/manage-landing-page-master/"
             }
         },
         {
-            "id": "003",
-            "name": "Saga Transformers",
-            "src": "Project-sagaTransformers.PNG",
-            "description": "O projeto  Saga Transformers e um site informativo sobre todos os filmes da franquia no momento, fora utilizado arrays para gardar as informações dos filmes. Ao desenvolver o site teve como principais bibliotecas:  react-icons para adicionar icons e react-router-dom para navagar entre abas. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
-            "skils": {
-                "skill-1": "React.js",
-                "skill-2": "CSS"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/saga-transformers-site",
-                "deploy": "https://matheus369k.github.io/saga-transformers-site/"
-            }
-        },
-        {
-            "id": "004",
+            "id": "3",
             "name": "Product Ecommerce",
-            "src": "Project-ecommerc.PNG",
-            "description": "Product ecommerc e uma pagina de venda de um produto, fora criado algumas funções, sendo elas de compra de um item, adiciona-la ao carrinho, remove-lo do carrinho, ao clicar na imagem ele se sobre sai em relação a pagina e outras. O porjeto e totalmente responsivo utilizado os mediaQuerys no CSS. O desenvolvimeto do projeto teve sua maior partica a logica de programação.",
+            "src": "./Project-3.webp",
+            "description": "Product E-commerce é uma página de venda de um produto, tendo sua lógica desenvolvida em JavaScript puro. Adição de produtos ao carrinho e remoção do produto escolhido são feitas usando IDs únicos para identificar, e trocas de atributos src para trocar de imagens, tanto automaticamente quanto quando o usuário interage.",
             "skils": {
                 "skill-1": "HTML5",
                 "skill-2": "CSS",
@@ -58,10 +45,68 @@
             }
         },
         {
-            "id": "005",
-            "name": "Home Page",
-            "src": "Project-homePage.PNG",
-            "description": "Home page e uma pagina que simula o desenvolvimeto da pagina principal de um site, tendo sua criação direcionado a pratica e organização do conteudo, fora usado grid layout e flexbox, sendo eles responsaveis pela adaptação do conteudo. A pagina e totalmente responsivo utilizado os mediaQuerys no CSS. O projeto teve como maior pratica criação de estilização.",
+            "id": "4",
+            "name": "Saga Transformers",
+            "src": "./Project-4.webp",
+            "description": "Saga Transformers é um site informativo sobre todos os filmes da franquia no momento. Foi criado e guardou suas informações em arrays, adicionadas de acordo com o filme a ser mostrado. Possui uma aba para a sinopse básica dos filmes, do elenco, e um trailer inserido. O projeto é totalmente responsivo.",
+            "skils": {
+                "skill-1": "React.js",
+                "skill-2": "CSS"
+            },
+            "links": {
+                "repositorio": "https://github.com/matheus369k/saga-transformers-site",
+                "deploy": "https://matheus369k.github.io/saga-transformers-site/"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Room Home Page",
+            "src": "./Project-5.webp",
+            "description": "Room Home Page é um projeto que apresenta a página principal de um site sobre interiores de cômodos. O projeto tem manipulação de atributos de tags pelo JavaScript, tanto para trocar imagens quanto para adicionar e remover classes ou IDs, sendo um projeto responsivo.",
+            "skils": {
+                "skill-1": "HTML5",
+                "skill-2": "CSS",
+                "skill-3": "JQuery"
+            },
+            "links": {
+                "repositorio": "https://github.com/matheus369k/room-homepage-master",
+                "deploy": "https://matheus369k.github.io/room-homepage-master/"
+            }
+        },
+        {
+            "id": "6",
+            "name": "Space Tourism",
+            "src": "./Project-6.webp",
+            "description": "Space Tourism é um site desenvolvido com o objetivo de apresentar um guia para orientar turistas espaciais. Seu desenvolvimento foi feito em React, e seus dados foram importados de uma API JSON externa. O projeto é totalmente responsivo, permitindo o acesso às suas abas sem a necessidade de recarregar a página.",
+            "skils": {
+                "skill-1": "React.js",
+                "skill-2": "CSS"
+            },
+            "links": {
+                "repositorio": "https://github.com/matheus369k/space-tourism-website",
+                "deploy": "https://matheus369k.github.io/space-tourism-website/#"
+            }
+        },
+        {
+            "id": "7",
+            "name": "X-Men",
+            "src": "./Project-7.webp",
+            "description": "X-Men é uma página que tem como objetivo mostrar informações sobre alguns dos principais mutantes da série e filmes. O projeto usa uma API JSON local que é acessada pelo Ajax no jQuery. Animações foram adicionadas tanto pelo jQuery quanto pelo CSS.",
+            "skils": {
+                "skill-1": "HTML5",
+                "skill-2": "Sass",
+                "skill-3": "JQuery"
+            },
+            "links": {
+                "repositorio": "https://github.com/matheus369k/Projeto-XMEN",
+                "deploy": "https://matheus369k.github.io/Projeto-XMEN/"
+            }
+        },
+        {
+            "id": "8",
+            "name": "News Home Page",
+            "src": "./Project-8.webp",
+            "description": "News Home Page é a página principal de um site de notícias. É um projeto totalmente responsivo que utilizou Flexbox e Grid Layout para criar sua estilização. Contudo, é um projeto simples, contendo pouca lógica, tendo seu foco na estilização durante sua criação.",
             "skils": {
                 "skill-1": "HTML5",
                 "skill-2": "CSS",
@@ -70,21 +115,6 @@
             "links": {
                 "repositorio": "https://github.com/matheus369k/news-homepage-main",
                 "deploy": "https://matheus369k.github.io/news-homepage-main/"
-            }
-        },
-        {
-            "id": "006",
-            "name": "Login Page",
-            "src": "Project-login.PNG",
-            "description": "Login page e um projeto que tem o foco o Aprimoramento das habilides em Sass utilizando variables, mixins e funções no sass, fora utilizado tanto grid layout quanto flexbox para organizar os items, tendo sua adaptação com mediaQuerys, e utilizado o javascript para criação da mensagem de confirmação de login e uma pequena verificação.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "Sass",
-                "skill-3": "JavaScript"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/PROJETOLOGIN",
-                "deploy": "https://matheus369k.github.io/PROJETOLOGIN/"
             }
         }
     ]
