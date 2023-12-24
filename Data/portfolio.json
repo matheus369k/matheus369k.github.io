@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Pokedex",
-            "src": "Project-1.webp",
+            "src": "project-1.webp",
             "description": "Pokedex é um site desenvolvido com o objetivo de apresentar informações dos monstros da série Pokémon. Sua API ainda está em desenvolvimento, contudo, já conta com as duas primeiras gerações adicionadas. O site é totalmente responsivo e está constantemente sendo atualizado.",
             "skils": {
                 "skill-1": "React.js",
@@ -17,7 +17,7 @@
         {
             "id": "2",
             "name": "Manage Landing Page",
-            "src": "Project-2.webp",
+            "src": "project-2.webp",
             "description": "Manage Landing Page é a página inicial de um gerenciador de páginas de destino. No desenvolvimento do projeto, foram adicionadas animações para tornar as trocas e carregamentos mais suaves, eventos para criar interações e adição de verificação de email.",
             "skils": {
                 "skill-1": "HTML5",
@@ -32,7 +32,7 @@
         {
             "id": "3",
             "name": "Product Ecommerce",
-            "src": "Project-3.webp",
+            "src": "project-3.webp",
             "description": "Product E-commerce é uma página de venda de um produto, tendo sua lógica desenvolvida em JavaScript puro. Adição de produtos ao carrinho e remoção do produto escolhido são feitas usando IDs únicos para identificar, e trocas de atributos src para trocar de imagens, tanto automaticamente quanto quando o usuário interage.",
             "skils": {
                 "skill-1": "HTML5",
@@ -47,7 +47,7 @@
         {
             "id": "4",
             "name": "Saga Transformers",
-            "src": "Project-4.webp",
+            "src": "project-4.webp",
             "description": "Saga Transformers é um site informativo sobre todos os filmes da franquia no momento. Foi criado e guardou suas informações em arrays, adicionadas de acordo com o filme a ser mostrado. Possui uma aba para a sinopse básica dos filmes, do elenco, e um trailer inserido. O projeto é totalmente responsivo.",
             "skils": {
                 "skill-1": "React.js",
@@ -61,7 +61,7 @@
         {
             "id": "5",
             "name": "Room Home Page",
-            "src": "Project-5.webp",
+            "src": "project-5.webp",
             "description": "Room Home Page é um projeto que apresenta a página principal de um site sobre interiores de cômodos. O projeto tem manipulação de atributos de tags pelo JavaScript, tanto para trocar imagens quanto para adicionar e remover classes ou IDs, sendo um projeto responsivo.",
             "skils": {
                 "skill-1": "HTML5",
@@ -76,7 +76,7 @@
         {
             "id": "6",
             "name": "Space Tourism",
-            "src": "Project-6.webp",
+            "src": "project-6.webp",
             "description": "Space Tourism é um site desenvolvido com o objetivo de apresentar um guia para orientar turistas espaciais. Seu desenvolvimento foi feito em React, e seus dados foram importados de uma API JSON externa. O projeto é totalmente responsivo, permitindo o acesso às suas abas sem a necessidade de recarregar a página.",
             "skils": {
                 "skill-1": "React.js",
@@ -90,7 +90,7 @@
         {
             "id": "7",
             "name": "X-Men",
-            "src": "Project-7.webp",
+            "src": "project-7.webp",
             "description": "X-Men é uma página que tem como objetivo mostrar informações sobre alguns dos principais mutantes da série e filmes. O projeto usa uma API JSON local que é acessada pelo Ajax no jQuery. Animações foram adicionadas tanto pelo jQuery quanto pelo CSS.",
             "skils": {
                 "skill-1": "HTML5",
@@ -105,7 +105,7 @@
         {
             "id": "8",
             "name": "News Home Page",
-            "src": "Project-8.webp",
+            "src": "project-8.webp",
             "description": "News Home Page é a página principal de um site de notícias. É um projeto totalmente responsivo que utilizou Flexbox e Grid Layout para criar sua estilização. Contudo, é um projeto simples, contendo pouca lógica, tendo seu foco na estilização durante sua criação.",
             "skils": {
                 "skill-1": "HTML5",
