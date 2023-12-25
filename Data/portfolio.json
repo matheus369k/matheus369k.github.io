@@ -1,4 +1,42 @@
 {
+    "softskill": [
+        {
+            "id": 1,
+            "nome":"HTML",
+            "description": "HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu conteúdo."
+        },
+        {
+            "id": 2,
+            "nome":"CSS",
+            "description": "CSS (Cascading Style Sheets) é uma linguagem de design feita para simplificar a apresentação e customização de páginas na internet."
+        },
+        {
+            "id": 3,
+            "nome":"JavaScript",
+            "description": "JavaScript tinha o propósito de oferecer aos desenvolvedores formas de tornar determinados processos de páginas web mais dinâmicos, tornando seu uso mais agradável."
+        },
+        {
+            "id": 4,
+            "nome":"React.js",
+            "description": "React é uma biblioteca JavaScript para criar interfaces de usuário. Desenvolvida pelo Facebook, ela é amplamente utilizada para construir aplicações web modernas e single-page applications (SPA)"
+        },
+        {
+            "id": 5,
+            "nome":"JQuery",
+            "description": "JQuery e uma biblioteca JavaScript criada para simplifica o uso do JavaScript, uma das três linguagens fundamentais da web, responsável por adicionar funcionalidades interativas aos sites."
+        },
+        {
+            "id": 6,
+            "nome":"Sass",
+            "description": "Sass é uma linguagem de extensão do CSS. A ideia por trás do Sass é adicionar recursos especiais ao CSS, tornando o processo de desenvolvimento mais simples e eficiente."
+        },
+        {
+            "id": 7,
+            "nome":"Git",
+            "description": "Git é um sistema de controle de revisão distribuído que oferece uma maneira eficiente de gerenciar mudanças no código ao longo do tempo."
+        }
+
+    ],
     "projects": [
         {
             "id": "1",
