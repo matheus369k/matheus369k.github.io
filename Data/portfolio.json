@@ -18,7 +18,7 @@
         {
             "id": 4,
             "nome":"React.js",
-            "description": "React é uma biblioteca JavaScript para criar interfaces de usuário. Desenvolvida pelo Facebook, ela é amplamente utilizada para construir aplicações web modernas e single-page applications (SPA)"
+            "description": "React é uma biblioteca JavaScript para criar interfaces de usuário. Ela é amplamente utilizada para construir aplicações web modernas e single-page applications (SPA)"
         },
         {
             "id": 5,
