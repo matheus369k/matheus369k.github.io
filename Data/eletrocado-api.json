@@ -1,0 +1,265 @@
+{
+  "electronics": {
+      "notebook": [
+        {
+          "id": 1,
+          "model": "Notebook Samsung Galaxy Book 3 360",
+          "img": "images/product-1.webp",
+          "slide": {
+            "slide1": "images/product-1.webp",
+            "slide2": "img-slide/slide-1-produc-Id-1.webp",
+            "slide3": "img-slide/slide-2-produc-Id-1.webp"
+          },
+          "screen": "Tela de 14 polegadas",
+          "processor": "Intel Core i5-1135G7",
+          "memory": "8 GB de RAM, 256 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics",
+          "price": 9238.96,
+          "stock": 66,
+          "category": "notebook"
+        },
+        {
+          "id": 4,
+          "model": "Lenovo V130-14IKB 81HQ",
+          "img": "images/product-4.webp",
+          "slide": {
+            "slide1": "images/product-4.webp",
+            "slide2": "img-slide/slide-1-produc-Id-4.webp",
+            "slide3": "img-slide/slide-2-produc-Id-4.webp"
+          },
+          "screen": " Tela de 14 polegadas",
+          "processor": "Intel Core i5-1135G7",
+          "memory": "8 GB de RAM, 512 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics",
+          "price": 2564.05,
+          "stock": 4,
+          "category": "notebook"
+        },
+        {
+          "id": 5,
+          "model": "Notebook ACER Aspire 5 A515 15.6",
+          "img": "images/product-5.webp",
+          "slide": {
+            "slide1": "images/product-5.webp",
+            "slide2": "img-slide/slide-1-produc-Id-5.webp",
+            "slide3": "img-slide/slide-2-produc-Id-5.webp"
+          },
+          "screen": "Tela de 14 polegadas",
+          "processor": "Intel Core i7-1165G7",
+          "memory": "16 GB de RAM, 1 TB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics 2",
+          "price": 3181.55,
+          "stock": 32,
+          "category": "notebook"
+        },
+        {
+          "id": 6,
+          "model": "Acer Aspire 3 A315-24P-R6SK Notebook",
+          "img": "images/product-6.webp",
+          "slide": {
+            "slide1": "images/product-6.webp",
+            "slide2": "img-slide/slide-1-produc-Id-6.webp",
+            "slide3": "img-slide/slide-2-produc-Id-6.webp"
+          },
+          "screen": "Tela de 15,6 polegadas",
+          "processor": "Intel Core i7-1165G7",
+          "memory": "16 GB de RAM, 512 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics 1",
+          "price": 3041.99,
+          "stock": 25,
+          "category": "notebook"
+        },
+        {
+          "id": 11,
+          "model": "Asus VivoBook S501UF-EJ282T Gris",
+          "img": "images/product-11.webp",
+          "slide": {
+            "slide1": "images/product-11.webp",
+            "slide2": "img-slide/slide-1-produc-Id-11.webp",
+            "slide3": "img-slide/slide-2-produc-Id-11.webp"
+          },
+          "screen": "Tela de 15,6 polegadas",
+          "processor": "Intel Core i5-11300H",
+          "memory": "8 GB de RAM, 512 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo dedicada NVIDIA GeForce RTX 3050 1",
+          "price": 2249.99,
+          "stock": 7,
+          "category": "notebook"
+        }
+      ],
+      "tablet": [
+        {
+          "id": 2,
+          "model": "2023 Latest Android 11.0 Tablet",
+          "img": "images/product-2.webp",
+          "slide": {
+            "slide1": "images/product-2.webp",
+            "slide2": "img-slide/slide-1-produc-Id-2.webp",
+            "slide3": "img-slide/slide-2-produc-Id-2.webp"
+          },
+          "screen": "Tela de 11 polegadas",
+          "processor": "M2",
+          "memory": "16 GB de RAM, 2 TB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics 1",
+          "price": 2345.99,
+          "stock": 49,
+          "category": "tablet"
+        },
+        {
+          "id": 8,
+          "model": "ZONKO Tablet 10.1 Inch Android Tablet",
+          "img": "images/product-8.webp",
+          "slide": {
+            "slide1": "images/product-8.webp",
+            "slide2": "img-slide/slide-1-produc-Id-8.webp",
+            "slide3": "img-slide/slide-2-produc-Id-8.webp"
+          },
+          "screen": "Tela de 12,4 polegadas",
+          "processor": "Qualcomm Snapdragon 888",
+          "memory": "8 GB de RAM, 256 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Adreno 660 1",
+          "price": 1519.99,
+          "stock": 53,
+          "category": "tablet"
+        },
+        {
+          "id": 9,
+          "model": "Android Tablet Pritom 10 inch Android 10 Tablet",
+          "img": "images/product-9.webp",
+          "slide": {
+            "slide1": "images/product-9.webp",
+            "slide2": "img-slide/slide-1-produc-Id-9.webp",
+            "slide3": "img-slide/slide-2-produc-Id-9.webp"
+          },
+          "screen": "Tela de 10,9 polegadas",
+          "processor": "A15 Bionic",
+          "memory": "4 GB de RAM, 256 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Apple GPU 1",
+          "price": 1526.99,
+          "stock": 46,
+          "category": "tablet"
+        },
+        {
+          "id": 10,
+          "model": "G-Tab S30 10.1-Inch",
+          "img": "images/product-10.webp",
+          "slide": {
+            "slide1": "images/product-10.webp",
+            "slide2": "img-slide/slide-1-produc-Id-10.webp",
+            "slide3": "img-slide/slide-2-produc-Id-10.webp"
+          },
+          "screen": "Tela de 13 polegadas",
+          "processor": "Qualcomm Snapdragon 7c Gen 2",
+          "memory": "8 GB de RAM, 256 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Adreno 618 1",
+          "price": 1926.99,
+          "stock": 46,
+          "category": "tablet"
+        },
+        {
+          "id": 15,
+          "model": "Test Sony Xperia Tablet Z",
+          "img": "images/product-15.webp",
+          "slide": {
+            "slide1": "images/product-15.webp",
+            "slide2": "img-slide/slide-1-produc-Id-15.webp",
+            "slide3": "img-slide/slide-2-produc-Id-15.webp"
+          },
+          "screen": "Tela de 13 polegadas",
+          "processor": "Intel Core i7-1185G7",
+          "memory": "16 GB de RAM, 512 GB de armazenamento interno",
+          "placeVideo": "placa de vídeo integrada Intel Iris Xe Graphics 1",
+          "price": 1758.99,
+          "stock": 46,
+          "category": "tablet"
+        }
+      ],
+      "phone": [
+        {
+          "id": 3,
+          "model": "Smartphone Samsung Galaxy S20",
+          "img": "images/product-3.webp",
+          "slide": {
+            "slide1": "images/product-3.webp",
+            "slide2": "img-slide/slide-1-produc-Id-3.webp",
+            "slide3": "img-slide/slide-2-produc-Id-3.webp"
+          },
+          "screen": "6,8 polegadas, Dynamic AMOLED 2X, 1440 x 3200 pixels, taxa de atualização de 120 Hz",
+          "processor": "Exynos 2100 (5 nm) - Internacional, Qualcomm SM8350 Snapdragon 888 5G (5 nm) - EUA",
+          "memory": "12 GB de RAM, 256 GB de armazenamento interno",
+          "battery": "Li-Po 5000 mAh, carregamento rápido de 25 W, carregamento rápido sem fio de 15 W, carregamento reverso sem fio de 4,5 W",
+          "price": 4234.99,
+          "stock": 97,
+          "category": "phone"
+        },
+        {
+          "id": 7,
+          "model": "Smartphone Motorola Moto Z Play Xt1635",
+          "img": "images/product-7.webp",
+          "slide": {
+            "slide1": "images/product-7.webp",
+            "slide2": "img-slide/slide-1-produc-Id-7.webp",
+            "slide3": "img-slide/slide-2-produc-Id-7.webp"
+          },
+          "screen": "P-OLED, 6,5 polegadas, 2400×1080 pixels e 120 Hz",
+          "processor": "Qualcomm Snapdragon 750G 5G (8 nm)",
+          "memory": "4 GB de RAM, 128 GB de armazenamento interno",
+          "battery": " Li-Po 5000 mAh, carregamento rápido de 20 W",
+          "price": 1365.99,
+          "stock": 57,
+          "category": "phone"
+        },
+        {
+          "id": 12,
+          "model": "Smartphone Samsung Galaxy S20 FE 6.5",
+          "img": "images/product-12.webp",
+          "slide": {
+            "slide1": "images/product-12.webp",
+            "slide2": "img-slide/slide-1-produc-Id-12.webp",
+            "slide3": "img-slide/slide-2-produc-Id-12.webp"
+          },
+          "screen": "6,8 polegadas, Dynamic AMOLED 2X, 1440 x 3200 pixels, taxa de atualização de 120 Hz",
+          "processor": "Octa-core, velocidade do processador de até 3,39 GHz",
+          "memory": "12 GB de RAM, 512 GB de armazenamento interno",
+          "battery": "Li-Po 5000 mAh, carregamento rápido de 25 W, carregamento rápido sem fio de 15 W, carregamento reverso sem fio de 4,5 W",
+          "price": 2674.99,
+          "stock": 64,
+          "category": "phone"
+        },
+        {
+          "id": 13,
+          "model": "Celular Iphone 11",
+          "img": "images/product-13.webp",
+          "slide": {
+            "slide1": "images/product-13.webp",
+            "slide2": "img-slide/slide-1-produc-Id-13.webp",
+            "slide3": "img-slide/slide-2-produc-Id-13.webp"
+          },
+          "screen": "6,1 polegadas, Retina XDR OLED, 1170 x 2532 pixels, taxa de atualização de 60 Hz",
+          "processor": "Apple A15 Bionic (5 nm)",
+          "memory": "4 GB de RAM, 128 GB de armazenamento interno",
+          "battery": "Li-Ion 2815 mAh, carregamento rápido de 20 W, carregamento sem fio de 15 W, carregamento reverso sem fio de 7,5 W",
+          "price": 6689.99,
+          "stock": 23,
+          "category": "phone"
+        },
+        {
+          "id": 14,
+          "model": "Smartphone Motorola One XT1941",
+          "img": "images/product-14.webp",
+          "slide": {
+            "slide1": "images/product-14.webp",
+            "slide2": "img-slide/slide-1-produc-Id-14.webp",
+            "slide3": "img-slide/slide-2-produc-Id-14.webp"
+          },
+          "screen": "P-OLED, 6,5 polegadas, 2400×1080 pixels e 120 Hz",
+          "processor": "Qualcomm Snapdragon 750G 5G (8 nm)",
+          "memory": "4 GB de RAM, 128 GB de armazenamento interno",
+          "battery": "Li-Po 5000 mAh, carregamento rápido de 20 W",
+          "price": 1542.99,
+          "stock": 12,
+          "category": "phone"
+        }
+      ]
+    }
+}
