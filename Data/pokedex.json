@@ -13040,6 +13040,1763 @@
         "Speed": 80
       },
       "description": "Shiftry é um Pokémon misterioso que se diz viver no topo de árvores imponentes que datam de mais de mil anos. Ele cria tempestades de vento fantásticas com os ventiladores que detém."
+    },
+    {
+      "name": "Taillow",
+      "number": "#0276",
+      "types": [
+        {
+          "type": "Normal"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/025.png",
+      "evolution": [
+        {
+          "name": "Taillow",
+          "Lv": 1,
+          "img": "./poke-png-G3/025.png"
+        },
+        {
+          "name": "Swellow",
+          "Lv": 22,
+          "img": "./poke-png-G3/026.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 40,
+        "Atack": 55,
+        "Defense": 30,
+        "Sp.atack": 30,
+        "Sp.Def": 30,
+        "Speed": 85
+      },
+      "description": "Taillow corajosamente se mantém firme contra os inimigos, por mais fortes que sejam. Este Pokémon corajoso permanecerá desafiador mesmo após uma perda. Por outro lado, chora alto se ficar com fome."
+    },
+    {
+      "name": "Swellow",
+      "number": "#0277",
+      "types": [
+        {
+          "type": "Normal"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/026.png",
+      "evolution": [
+        {
+          "name": "Taillow",
+          "Lv": 1,
+          "img": "./poke-png-G3/025.png"
+        },
+        {
+          "name": "Swellow",
+          "Lv": 22,
+          "img": "./poke-png-G3/026.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 85,
+        "Defense": 60,
+        "Sp.atack": 75,
+        "Sp.Def": 50,
+        "Speed": 125
+      },
+      "description": "Swellow voa bem acima de nossas cabeças, fazendo arcos graciosos no céu. Este Pokémon mergulha em um ângulo íngreme assim que avista sua presa. A presa infeliz é firmemente agarrada pelos pés com garras de Swellow, impedindo a fuga."
+    },
+    {
+      "name": "Wingull",
+      "number": "#0278",
+      "types": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/027.png",
+      "evolution": [
+        {
+          "name": "Wingull",
+          "Lv": 1,
+          "img": "./poke-png-G3/027.png"
+        },
+        {
+          "name": "Pelipper",
+          "Lv": 25,
+          "img": "./poke-png-G3/028.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 40,
+        "Atack": 30,
+        "Defense": 30,
+        "Sp.atack": 55,
+        "Sp.Def": 30,
+        "Speed": 85
+      },
+      "description": "Wingull tem o hábito de carregar presas e objetos de valor em seu bico e escondê-los em todos os tipos de locais. Este Pokémon cavalga os ventos e voa como se estivesse patinando pelo céu."
+    },
+    {
+      "name": "Pelipper",
+      "number": "#0279",
+      "types": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/028.png",
+      "evolution": [
+        {
+          "name": "Wingull",
+          "Lv": 1,
+          "img": "./poke-png-G3/027.png"
+        },
+        {
+          "name": "Pelipper",
+          "Lv": 25,
+          "img": "./poke-png-G3/028.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 50,
+        "Defense": 100,
+        "Sp.atack": 95,
+        "Sp.Def": 70,
+        "Speed": 65
+      },
+      "description": "Pelipper é um transportador voador que carrega pequenos Pokémon e ovos dentro de sua enorme conta. Este Pokémon constrói seu ninho em penhascos íngremes de frente para o mar."
+    },
+    {
+      "name": "Ralts",
+      "number": "#0280",
+      "types": [
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "images": "./poke-png-G3/029.png",
+      "evolution": [
+        {
+          "name": "Ralts",
+          "Lv": 1,
+          "img": "./poke-png-G3/029.png"
+        },
+        {
+          "name": "Kirlia",
+          "Lv": 20,
+          "img": "./poke-png-G3/030.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Gardevoir",
+              "Lv": 30,
+              "img": "./poke-png-G3/031.png"
+            },
+            {
+              "name": "Gallade",
+              "Lv": "use Dawn Stone, Male",
+              "img": "./poke-png-G4/088.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Metal"
+        }
+      ],
+      "baseStats": {
+        "HP": 28,
+        "Atack": 25,
+        "Defense": 25,
+        "Sp.atack": 45,
+        "Sp.Def": 35,
+        "Speed": 40
+      },
+      "description": "Ralts sente as emoções das pessoas usando os chifres em sua cabeça. Este Pokémon raramente aparece diante das pessoas. Mas, quando isso acontece, se aproxima se sentir que a pessoa tem uma disposição positiva."
+    },
+    {
+      "name": "Kirlia",
+      "number": "#0281",
+      "types": [
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "images": "./poke-png-G3/030.png",
+      "evolution": [
+        {
+          "name": "Ralts",
+          "Lv": 1,
+          "img": "./poke-png-G3/029.png"
+        },
+        {
+          "name": "Kirlia",
+          "Lv": 20,
+          "img": "./poke-png-G3/030.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Gardevoir",
+              "Lv": 30,
+              "img": "./poke-png-G3/031.png"
+            },
+            {
+              "name": "Gallade",
+              "Lv": "use Dawn Stone, Male",
+              "img": "./poke-png-G4/088.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Metal"
+        }
+      ],
+      "baseStats": {
+        "HP": 38,
+        "Atack": 35,
+        "Defense": 35,
+        "Sp.atack": 65,
+        "Sp.Def": 55,
+        "Speed": 50
+      },
+      "description": "Diz-se que uma Kirlia que é exposta às emoções positivas de seu Treinador fica bonita. Este Pokémon controla poderes psicocinéticos com seu cérebro altamente desenvolvido."
+    },
+    {
+      "name": "Gardevoir",
+      "number": "#0282",
+      "types": [
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "images": "./poke-png-G3/031.png",
+      "evolution": [
+        {
+          "name": "Ralts",
+          "Lv": 1,
+          "img": "./poke-png-G3/029.png"
+        },
+        {
+          "name": "Kirlia",
+          "Lv": 20,
+          "img": "./poke-png-G3/030.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Gardevoir",
+              "Lv": 30,
+              "img": "./poke-png-G3/031.png"
+            },
+            {
+              "name": "Gallade",
+              "Lv": "use Dawn Stone, Male",
+              "img": "./poke-png-G4/088.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Metal"
+        }
+      ],
+      "baseStats": {
+        "HP": 68,
+        "Atack": 65,
+        "Defense": 65,
+        "Sp.atack": 125,
+        "Sp.Def": 115,
+        "Speed": 80
+      },
+      "description": "Gardevoir tem a capacidade de ler o futuro. Se ele sente o perigo iminente para seu Treinador, este Pokémon é dito para liberar sua energia psicocinética em potência total."
+    },
+    {
+      "name": "Surskit",
+      "number": "#0283",
+      "types": [
+        {
+          "type": "Inseto"
+        },
+        {
+          "type": "Agua"
+        }
+      ],
+      "images": "./poke-png-G3/032.png",
+      "evolution": [
+        {
+          "name": "Surskit",
+          "Lv": 1,
+          "img": "./poke-png-G3/032.png"
+        },
+        {
+          "name": "Masquerain",
+          "Lv": 22,
+          "img": "./poke-png-G3/033.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 40,
+        "Atack": 30,
+        "Defense": 32,
+        "Sp.atack": 50,
+        "Sp.Def": 52,
+        "Speed": 65
+      },
+      "description": "Das pontas dos pés, Surskit secreta um óleo que lhe permite andar sobre a água como se estivesse patinando. Este Pokémon se alimenta de organismos microscópicos em lagoas e lagos."
+    },
+    {
+      "name": "Masquerain",
+      "number": "#0284",
+      "types": [
+        {
+          "type": "Inseto"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/033.png",
+      "evolution": [
+        {
+          "name": "Surskit",
+          "Lv": 1,
+          "img": "./poke-png-G3/032.png"
+        },
+        {
+          "name": "Masquerain",
+          "Lv": 22,
+          "img": "./poke-png-G3/033.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 70,
+        "Atack": 60,
+        "Defense": 62,
+        "Sp.atack": 100,
+        "Sp.Def": 82,
+        "Speed": 80
+      },
+      "description": "Masquerain intimida os inimigos com os padrões oculares em suas antenas. Este Pokémon bate suas quatro asas para voar livremente em qualquer direção – mesmo para os lados e para trás – como se fosse um helicóptero."
+    },
+    {
+      "name": "Shroomish",
+      "number": "#0285",
+      "types": [
+        {
+          "type": "Grama"
+        }
+      ],
+      "images": "./poke-png-G3/034.png",
+      "evolution": [
+        {
+          "name": "Shroomish",
+          "Lv": 1,
+          "img": "./poke-png-G3/034.png"
+        },
+        {
+          "name": "Breloom",
+          "Lv": 23,
+          "img": "./poke-png-G3/035.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Inseto"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 40,
+        "Defense": 60,
+        "Sp.atack": 40,
+        "Sp.Def": 60,
+        "Speed": 35
+      },
+      "description": "Os shroomish vivem em solo úmido nas profundezas escuras das florestas. Muitas vezes são encontrados mantendo-se parados sob folhas caídas. Este Pokémon se alimenta de composto que é composto por folhas caídas e apodrecidas."
+    },
+    {
+      "name": "Breloom",
+      "number": "#0286",
+      "types": [
+        {
+          "type": "Grama"
+        },
+        {
+          "type": "Lutador"
+        }
+      ],
+      "images": "./poke-png-G3/035.png",
+      "evolution": [
+        {
+          "name": "Shroomish",
+          "Lv": 1,
+          "img": "./poke-png-G3/034.png"
+        },
+        {
+          "name": "Breloom",
+          "Lv": 23,
+          "img": "./poke-png-G3/035.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 130,
+        "Defense": 80,
+        "Sp.atack": 60,
+        "Sp.Def": 60,
+        "Speed": 70
+      },
+      "description": "Breloom se aproxima de seu inimigo com pés leves e brilhantes, depois desfere socos com seus braços elásticos. A técnica de luta deste Pokémon envergonha os boxeadores."
+    },
+    {
+      "name": "Slakoth",
+      "number": "#0287",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/036.png",
+      "evolution": [
+        {
+          "name": "Slakoth",
+          "Lv": 1,
+          "img": "./poke-png-G3/036.png"
+        },
+        {
+          "name": "Vigoroth",
+          "Lv": 18,
+          "img": "./poke-png-G3/037.png"
+        },
+        {
+          "name": "Slaking",
+          "Lv": 36,
+          "img": "./poke-png-G3/038.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 60,
+        "Defense": 60,
+        "Sp.atack": 35,
+        "Sp.Def": 35,
+        "Speed": 30
+      },
+      "description": "Slakoth fica por mais de 20 horas todos os dias. Por se movimentar tão pouco, não precisa de muita comida. A única refeição diária deste Pokémon consiste em apenas três folhas."
+    },
+    {
+      "name": "Vigoroth",
+      "number": "#0288",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/037.png",
+      "evolution": [
+        {
+          "name": "Slakoth",
+          "Lv": 1,
+          "img": "./poke-png-G3/036.png"
+        },
+        {
+          "name": "Vigoroth",
+          "Lv": 18,
+          "img": "./poke-png-G3/037.png"
+        },
+        {
+          "name": "Slaking",
+          "Lv": 36,
+          "img": "./poke-png-G3/038.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 80,
+        "Atack": 80,
+        "Defense": 80,
+        "Sp.atack": 55,
+        "Sp.Def": 55,
+        "Speed": 90
+      },
+      "description": "Vigoroth está sempre coçando e agitado para ir em uma agitação selvagem. Ele simplesmente não pode tolerar ficar parado por um minuto sequer. O nível de estresse deste Pokémon aumenta se ele não puder estar se movendo constantemente."
+    },
+    {
+      "name": "Slaking",
+      "number": "#0289",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/038.png",
+      "evolution": [
+        {
+          "name": "Slakoth",
+          "Lv": 1,
+          "img": "./poke-png-G3/036.png"
+        },
+        {
+          "name": "Vigoroth",
+          "Lv": 18,
+          "img": "./poke-png-G3/037.png"
+        },
+        {
+          "name": "Slaking",
+          "Lv": 36,
+          "img": "./poke-png-G3/038.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 150,
+        "Atack": 160,
+        "Defense": 100,
+        "Sp.atack": 95,
+        "Sp.Def": 65,
+        "Speed": 100
+      },
+      "description": "Stapking passa o dia todo deitado e deitado. Ele come grama crescendo ao seu alcance. Se ele comer toda a grama que pode alcançar, este Pokémon relutantemente se move para outro lugar."
+    },
+    {
+      "name": "Nincada",
+      "number": "#0290",
+      "types": [
+        {
+          "type": "Inseto"
+        },
+        {
+          "type": "Terra"
+        }
+      ],
+      "images": "./poke-png-G3/039.png",
+      "evolution": [
+        {
+          "name": "Nincada",
+          "Lv": 1,
+          "img": "./poke-png-G3/039.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Ninjask",
+              "Lv": 20,
+              "img": "./poke-png-G3/040.png"
+            },
+            {
+              "name": "Ninjask",
+              "Lv": "Level 20, empty spot in party, Pokéball in bag",
+              "img": "./poke-png-G3/041.png"
+            },
+            {
+              "name": "Shedinja",
+              "Lv": "+",
+              "img": "./poke-png-G3/042.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "baseStats": {
+        "HP": 31,
+        "Atack": 45,
+        "Defense": 90,
+        "Sp.atack": 30,
+        "Sp.Def": 30,
+        "Speed": 40
+      },
+      "description": "Nincada vive no subsolo por muitos anos em completa escuridão. Este Pokémon absorve nutrientes das raízes das árvores. Fica imóvel enquanto espera a evolução."
+    },
+    {
+      "name": "Ninjask",
+      "number": "#0291",
+      "types": [
+        {
+          "type": "Inseto"
+        },
+        {
+          "type": "Voador"
+        }
+      ],
+      "images": "./poke-png-G3/040.png",
+      "evolution": [
+        {
+          "name": "Nincada",
+          "Lv": 1,
+          "img": "./poke-png-G3/039.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Ninjask",
+              "Lv": 20,
+              "img": "./poke-png-G3/040.png"
+            },
+            {
+              "name": "Ninjask",
+              "Lv": "Level 20, empty spot in party, Pokéball in bag",
+              "img": "./poke-png-G3/041.png"
+            },
+            {
+              "name": "Shedinja",
+              "Lv": "+",
+              "img": "./poke-png-G3/042.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Eletrico"
+        },
+        {
+          "type": "Gelo"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 61,
+        "Atack": 90,
+        "Defense": 45,
+        "Sp.atack": 50,
+        "Sp.Def": 50,
+        "Speed": 160
+      },
+      "description": "Ninjask se move em uma velocidade tão alta que não pode ser visto, mesmo quando seu choro pode ser claramente ouvido. Por essa razão, este Pokémon foi durante muito tempo considerado invisível."
+    },
+    {
+      "name": "Shedinja",
+      "number": "#0292",
+      "types": [
+        {
+          "type": "Inseto"
+        },
+        {
+          "type": "Fantasma"
+        }
+      ],
+      "images": "./poke-png-G3/041.png",
+      "evolution": [
+        {
+          "name": "Nincada",
+          "Lv": 1,
+          "img": "./poke-png-G3/039.png"
+        },
+        {
+          "moreOneEvolution": [
+            {
+              "name": "Ninjask",
+              "Lv": 20,
+              "img": "./poke-png-G3/040.png"
+            },
+            {
+              "name": "Ninjask",
+              "Lv": "Level 20, empty spot in party, Pokéball in bag",
+              "img": "./poke-png-G3/040.png"
+            },
+            {
+              "name": "Shedinja",
+              "Lv": "+",
+              "img": "./poke-png-G3/041.png"
+            }
+          ]
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Obscuro"
+        }
+      ],
+      "baseStats": {
+        "HP": 1,
+        "Atack": 90,
+        "Defense": 45,
+        "Sp.atack": 30,
+        "Sp.Def": 30,
+        "Speed": 40
+      },
+      "description": "O corpo duro de Shedinja não se move – nem mesmo uma contração. Na verdade, seu corpo parece ser apenas uma concha oca. Acredita-se que este Pokémon roubará o espírito de qualquer um que espie seu corpo oco de suas costas."
+    },
+    {
+      "name": "Whismur",
+      "number": "#0293",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/042.png",
+      "evolution": [
+        {
+          "name": "Whismur",
+          "Lv": 1,
+          "img": "./poke-png-G3/042.png"
+        },
+        {
+          "name": "Loudred",
+          "Lv": 20,
+          "img": "./poke-png-G3/043.png"
+        },
+        {
+          "name": "Exploud",
+          "Lv": 40,
+          "img": "./poke-png-G3/044.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 64,
+        "Atack": 51,
+        "Defense": 23,
+        "Sp.atack": 51,
+        "Sp.Def": 23,
+        "Speed": 28
+      },
+      "description": "Normalmente, a voz de Whismur é muito silenciosa – é quase inaudível, mesmo que se esteja prestando muita atenção. No entanto, se este Pokémon sente o perigo, ele começa a chorar em um volume de orelhas."
+    },
+    {
+      "name": "Loudred",
+      "number": "#0294",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/043.png",
+      "evolution": [
+        {
+          "name": "Whismur",
+          "Lv": 1,
+          "img": "./poke-png-G3/042.png"
+        },
+        {
+          "name": "Loudred",
+          "Lv": 20,
+          "img": "./poke-png-G3/043.png"
+        },
+        {
+          "name": "Exploud",
+          "Lv": 40,
+          "img": "./poke-png-G3/044.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 84,
+        "Atack": 71,
+        "Defense": 43,
+        "Sp.atack": 71,
+        "Sp.Def": 43,
+        "Speed": 48
+      },
+      "description": "A campainha de Loudred pode dizimar completamente uma casa de madeira. Usa sua voz para punir seus inimigos. As orelhas redondas deste Pokémon servem como alto-falantes."
+    },
+    {
+      "name": "Exploud",
+      "number": "#0295",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/044.png",
+      "evolution": [
+        {
+          "name": "Whismur",
+          "Lv": 1,
+          "img": "./poke-png-G3/042.png"
+        },
+        {
+          "name": "Loudred",
+          "Lv": 20,
+          "img": "./poke-png-G3/043.png"
+        },
+        {
+          "name": "Exploud",
+          "Lv": 40,
+          "img": "./poke-png-G3/044.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 104,
+        "Atack": 91,
+        "Defense": 63,
+        "Sp.atack": 91,
+        "Sp.Def": 73,
+        "Speed": 68
+      },
+      "description": "Exploud desencadeia terremotos com os tremores que cria por fole. Se este Pokémon inala violentamente das portas em seu corpo, é sinal de que está se preparando para soltar um enorme fole."
+    },
+    {
+      "name": "Makuhita",
+      "number": "#0296",
+      "types": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "images": "./poke-png-G3/045.png",
+      "evolution": [
+        {
+          "name": "Makuhita",
+          "Lv": 1,
+          "img": "./poke-png-G3/045.png"
+        },
+        {
+          "name": "Hariyama",
+          "Lv": 24,
+          "img": "./poke-png-G3/046.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 72,
+        "Atack": 60,
+        "Defense": 30,
+        "Sp.atack": 20,
+        "Sp.Def": 30,
+        "Speed": 25
+      },
+      "description": "Makuhita é tenaz – ele continuará se levantando e atacando seu inimigo quantas vezes for derrubado. Cada vez que se levanta, este Pokémon armazena mais energia em seu corpo para evoluir."
+    },
+    {
+      "name": "Hariyama",
+      "number": "#0297",
+      "types": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "images": "./poke-png-G3/046.png",
+      "evolution": [
+        {
+          "name": "Makuhita",
+          "Lv": 1,
+          "img": "./poke-png-G3/045.png"
+        },
+        {
+          "name": "Hariyama",
+          "Lv": 24,
+          "img": "./poke-png-G3/046.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Pisquico"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 144,
+        "Atack": 120,
+        "Defense": 60,
+        "Sp.atack": 40,
+        "Sp.Def": 60,
+        "Speed": 50
+      },
+      "description": "Hariyama pratica seus tapas de braço reto em qualquer número de locais. Um golpe dos poderosos socos de braço reto deste Pokémon poderia quebrar um poste de telefone em dois."
+    },
+    {
+      "name": "Azurill",
+      "number": "#0298",
+      "types": [
+        {
+          "type": "Normal"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "images": "./poke-png-G3/047.png",
+      "evolution": [
+        {
+          "name": "Azurill",
+          "Lv": 1,
+          "img": "./poke-png-G3/047.png"
+        },
+        {
+          "name": "Marill",
+          "Lv": "high Friendship",
+          "img": "./poke-png-G1/032.png"
+        },
+        {
+          "name": "Azumarill",
+          "Lv": 18,
+          "img": "./poke-png-G1/033.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Veneno"
+        },
+        {
+          "type": "Metal"
+        }
+      ],
+      "baseStats": {
+        "HP": 50,
+        "Atack": 20,
+        "Defense": 40,
+        "Sp.atack": 20,
+        "Sp.Def": 40,
+        "Speed": 20
+      },
+      "description": "Azurill gira a cauda como se fosse um laço, depois a atira para longe. O ímpeto do lance também faz seu corpo voar. Usando esta ação única, um desses Pokémon conseguiu arremessar um recorde de 33 pés."
+    },
+    {
+      "name": "Nosepass",
+      "number": "#0299",
+      "types": [
+        {
+          "type": "Rocha"
+        }
+      ],
+      "images": "./poke-png-G3/048.png",
+      "evolution": [
+        {
+          "name": "Nosepass",
+          "Lv": 1,
+          "img": "./poke-png-G3/048.png"
+        },
+        {
+          "name": "Probopass",
+          "Lv": "level up in a Magnetic Field area",
+          "img": "./poke-png-G4/089.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Grama"
+        },
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Terra"
+        },
+        {
+          "type": "Metal"
+        }
+      ],
+      "baseStats": {
+        "HP": 30,
+        "Atack": 45,
+        "Defense": 135,
+        "Sp.atack": 45,
+        "Sp.Def": 90,
+        "Speed": 30
+      },
+      "description": "O nariz magnético de Nosepass está sempre apontado para o norte. Se dois desses Pokémon se encontram, eles não podem virar o rosto um para o outro quando estão próximos, porque seus narizes magnéticos se repelem."
+    },
+    {
+      "name": "Skitty",
+      "number": "#0300",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/049.png",
+      "evolution": [
+        {
+          "name": "Skitty",
+          "Lv": 1,
+          "img": "./poke-png-G3/049.png"
+        },
+        {
+          "name": "Delcatty",
+          "Lv": "use Moon Stone",
+          "img": "./poke-png-G3/050.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 50,
+        "Atack": 45,
+        "Defense": 45,
+        "Sp.atack": 35,
+        "Sp.Def": 35,
+        "Speed": 50
+      },
+      "description": "Skitty tem o hábito de ficar fascinado por mover objetos e persegui-los por aí. Este Pokémon é conhecido por perseguir sua própria cauda e ficar tonto."
+    },
+    {
+      "name": "Delcatty",
+      "number": "#0301",
+      "types": [
+        {
+          "type": "Normal"
+        }
+      ],
+      "images": "./poke-png-G3/050.png",
+      "evolution": [
+        {
+          "name": "Skitty",
+          "Lv": 1,
+          "img": "./poke-png-G3/049.png"
+        },
+        {
+          "name": "Delcatty",
+          "Lv": "use Moon Stone",
+          "img": "./poke-png-G3/050.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Lutador"
+        }
+      ],
+      "baseStats": {
+        "HP": 70,
+        "Atack": 65,
+        "Defense": 65,
+        "Sp.atack": 55,
+        "Sp.Def": 55,
+        "Speed": 90
+      },
+      "description": "Delcatty prefere viver uma existência irrestrita na qual pode fazer o que quiser em seu próprio ritmo. Como este Pokémon come e dorme sempre que decide, suas rotinas diárias são completamente aleatórias."
+    },
+    {
+      "name": "Sableye",
+      "number": "#0302",
+      "types": [
+        {
+          "type": "Obscuro"
+        },
+        {
+          "type": "Fantasma"
+        }
+      ],
+      "images": "./poke-png-G3/051.png",
+      "evolution": [
+        {
+          "name": "Sableye",
+          "Lv": 1,
+          "img": "./poke-png-G3/051.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 50,
+        "Atack": 75,
+        "Defense": 75,
+        "Sp.atack": 65,
+        "Sp.Def": 65,
+        "Speed": 50
+      },
+      "description": "Sableye leva vidas tranquilas nas profundezas das cavernas. Eles são temidos, no entanto, porque esses Pokémon são pensados para roubar os espíritos das pessoas quando seus olhos queimam com um brilho sinistro na escuridão."
+    },
+    {
+      "name": "Mawile",
+      "number": "#0303",
+      "types": [
+        {
+          "type": "Metal"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "images": "./poke-png-G3/052.png",
+      "evolution": [
+        {
+          "name": "Mawile",
+          "Lv": 1,
+          "img": "./poke-png-G3/052.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 50,
+        "Atack": 85,
+        "Defense": 85,
+        "Sp.atack": 55,
+        "Sp.Def": 55,
+        "Speed": 50
+      },
+      "description": "As enormes mandíbulas de Mawile são, na verdade, chifres de aço que foram transformados. Seu rosto dócil serve para embalar seu inimigo a baixar a guarda. Quando o inimigo menos espera, Mawile o pica com suas mandíbulas abertas."
+    },
+    {
+      "name": "Aron",
+      "number": "#0304",
+      "types": [
+        {
+          "type": "Metal"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "images": "./poke-png-G3/053.png",
+      "evolution": [
+        {
+          "name": "Aron",
+          "Lv": 1,
+          "img": "./poke-png-G3/053.png"
+        },
+        {
+          "name": "Lairon",
+          "Lv": 32,
+          "img": "./poke-png-G3/054.png"
+        },
+        {
+          "name": "Aggron",
+          "Lv": 42,
+          "img": "./poke-png-G3/055.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 50,
+        "Atack": 70,
+        "Defense": 100,
+        "Sp.atack": 40,
+        "Sp.Def": 40,
+        "Speed": 30
+      },
+      "description": "Este Pokémon tem um corpo de aço. Para fazer seu corpo, Aron se alimenta de minério de ferro que cava das montanhas. Ocasionalmente, causa grandes problemas comendo pontes e trilhos."
+    },
+    {
+      "name": "Lairon",
+      "number": "#0305",
+      "types": [
+        {
+          "type": "Metal"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "images": "./poke-png-G3/054.png",
+      "evolution": [
+        {
+          "name": "Aron",
+          "Lv": 1,
+          "img": "./poke-png-G3/053.png"
+        },
+        {
+          "name": "Lairon",
+          "Lv": 32,
+          "img": "./poke-png-G3/054.png"
+        },
+        {
+          "name": "Aggron",
+          "Lv": 42,
+          "img": "./poke-png-G3/055.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 90,
+        "Defense": 140,
+        "Sp.atack": 50,
+        "Sp.Def": 50,
+        "Speed": 40
+      },
+      "description": "Lairon tempera seu corpo de aço bebendo água mineral altamente nutritiva até que esteja inchado. Este Pokémon faz seu ninho perto de fontes de água deliciosa."
+    },
+    {
+      "name": "Aggron",
+      "number": "#0306",
+      "types": [
+        {
+          "type": "Metal"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "images": "./poke-png-G3/055.png",
+      "evolution": [
+        {
+          "name": "Aron",
+          "Lv": 1,
+          "img": "./poke-png-G3/053.png"
+        },
+        {
+          "name": "Lairon",
+          "Lv": 32,
+          "img": "./poke-png-G3/054.png"
+        },
+        {
+          "name": "Aggron",
+          "Lv": 42,
+          "img": "./poke-png-G3/055.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 70,
+        "Atack": 110,
+        "Defense": 180,
+        "Sp.atack": 60,
+        "Sp.Def": 60,
+        "Speed": 50
+      },
+      "description": "Aggron reivindica uma montanha inteira como seu próprio território. Bate impiedosamente em qualquer coisa que viole seu meio ambiente. Este Pokémon patrulha vigilantemente seu território em todos os momentos."
+    },
+    {
+      "name": "Meditite",
+      "number": "#0307",
+      "types": [
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Pisquico"
+        }
+      ],
+      "images": "./poke-png-G3/056.png",
+      "evolution": [
+        {
+          "name": "Meditite",
+          "Lv": 1,
+          "img": "./poke-png-G3/056.png"
+        },
+        {
+          "name": "Medicham",
+          "Lv": 37,
+          "img": "./poke-png-G3/057.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 30,
+        "Atack": 40,
+        "Defense": 55,
+        "Sp.atack": 40,
+        "Sp.Def": 55,
+        "Speed": 60
+      },
+      "description": "Meditite realiza rigoroso treinamento mental nas profundezas das montanhas. No entanto, sempre que medita, este Pokémon perde sempre a concentração e o foco. Como resultado, seu treinamento nunca termina."
+    },
+    {
+      "name": "Medicham",
+      "number": "#0308",
+      "types": [
+        {
+          "type": "Lutador"
+        },
+        {
+          "type": "Pisquico"
+        }
+      ],
+      "images": "./poke-png-G3/057.png",
+      "evolution": [
+        {
+          "name": "Meditite",
+          "Lv": 1,
+          "img": "./poke-png-G3/056.png"
+        },
+        {
+          "name": "Medicham",
+          "Lv": 37,
+          "img": "./poke-png-G3/057.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Agua"
+        },
+        {
+          "type": "Fantasma"
+        },
+        {
+          "type": "Fada"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 60,
+        "Defense": 75,
+        "Sp.atack": 60,
+        "Sp.Def": 75,
+        "Speed": 80
+      },
+      "description": "Diz-se que através da meditação, Medicham aumenta a energia dentro de seu corpo e aguça seu sexto sentido. Este Pokémon esconde a sua presença fundindo-se com campos e montanhas."
+    },
+    {
+      "name": "Electrike",
+      "number": "#0309",
+      "types": [
+        {
+          "type": "Eletrico"
+        }
+      ],
+      "images": "./poke-png-G3/058.png",
+      "evolution": [
+        {
+          "name": "Electrike",
+          "Lv": 1,
+          "img": "./poke-png-G3/058.png"
+        },
+        {
+          "name": "Manectric",
+          "Lv": 26,
+          "img": "./poke-png-G3/059.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 40,
+        "Atack": 45,
+        "Defense": 40,
+        "Sp.atack": 65,
+        "Sp.Def": 40,
+        "Speed": 65
+      },
+      "description": "Electrike armazena eletricidade em seus longos pelos do corpo. Este Pokémon estimula os músculos das pernas com cargas elétricas. Esses solavancos de potência dão às suas pernas um desempenho de aceleração explosiva."
+    },
+    {
+      "name": "Manectric",
+      "number": "#0310",
+      "types": [
+        {
+          "type": "Eletrico"
+        }
+      ],
+      "images": "./poke-png-G3/059.png",
+      "evolution": [
+        {
+          "name": "Electrike",
+          "Lv": 1,
+          "img": "./poke-png-G3/058.png"
+        },
+        {
+          "name": "Manectric",
+          "Lv": 26,
+          "img": "./poke-png-G3/059.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 70,
+        "Atack": 75,
+        "Defense": 60,
+        "Sp.atack": 105,
+        "Sp.Def": 60,
+        "Speed": 105
+      },
+      "description": "Manectric está constantemente descarregando eletricidade de sua juba. As faíscas às vezes acendem incêndios florestais. Quando entra em uma batalha, esse Pokémon cria nuvens de trovão."
+    },
+    {
+      "name": "Plusle",
+      "number": "#0311",
+      "types": [
+        {
+          "type": "Eletrico"
+        }
+      ],
+      "images": "./poke-png-G3/060.png",
+      "evolution": [
+        {
+          "name": "Plusle",
+          "Lv": 1,
+          "img": "./poke-png-G3/060.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 50,
+        "Defense": 40,
+        "Sp.atack": 85,
+        "Sp.Def": 75,
+        "Speed": 95
+      },
+      "description": "A Plusle sempre atua como uma líder de torcida para seus parceiros. Sempre que um companheiro de equipe faz um bom esforço em batalha, este Pokémon encurta seu corpo para criar os ruídos crepitantes de faíscas para mostrar sua alegria."
+    },
+    {
+      "name": "Minun",
+      "number": "#0312",
+      "types": [
+        {
+          "type": "Eletrico"
+        }
+      ],
+      "images": "./poke-png-G3/061.png",
+      "evolution": [
+        {
+          "name": "Minun",
+          "Lv": 1,
+          "img": "./poke-png-G3/061.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Terra"
+        }
+      ],
+      "baseStats": {
+        "HP": 60,
+        "Atack": 40,
+        "Defense": 50,
+        "Sp.atack": 75,
+        "Sp.Def": 85,
+        "Speed": 95
+      },
+      "description": "A Minun está mais preocupada em torcer por seus parceiros do que em sua própria segurança. Ele encurta a eletricidade em seu corpo para criar chuvas brilhantes de faíscas para torcer por seus companheiros de equipe."
+    },
+    {
+      "name": "Volbeat",
+      "number": "#0313",
+      "types": [
+        {
+          "type": "Inseto"
+        }
+      ],
+      "images": "./poke-png-G3/062.png",
+      "evolution": [
+        {
+          "name": "Volbeat",
+          "Lv": 1,
+          "img": "./poke-png-G3/062.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 65,
+        "Atack": 73,
+        "Defense": 75,
+        "Sp.atack": 47,
+        "Sp.Def": 85,
+        "Speed": 85
+      },
+      "description": "Com a chegada da noite, Volbeat emite luz de sua cauda. Ele se comunica com os outros ajustando a intensidade e o piscar de sua luz. Este Pokémon é atraído pelo doce aroma de Illumise."
+    },
+    {
+      "name": "Illumise",
+      "number": "#0314",
+      "types": [
+        {
+          "type": "Inseto"
+        }
+      ],
+      "images": "./poke-png-G3/063.png",
+      "evolution": [
+        {
+          "name": "Volbeat",
+          "Lv": 1,
+          "img": "./poke-png-G3/063.png"
+        }
+      ],
+      "superdamange": [
+        {
+          "type": "Fogo"
+        },
+        {
+          "type": "Voador"
+        },
+        {
+          "type": "Rocha"
+        }
+      ],
+      "baseStats": {
+        "HP": 65,
+        "Atack": 47,
+        "Defense": 75,
+        "Sp.atack": 73,
+        "Sp.Def": 85,
+        "Speed": 85
+      },
+      "description": "Illumise atrai um enxame de Volbeat usando uma fragrância doce. Uma vez que os Volbeat se reuniram, este Pokémon lidera o enxame iluminado desenhando desenhos geométricos na tela do céu noturno."
     }
   ]
 }
