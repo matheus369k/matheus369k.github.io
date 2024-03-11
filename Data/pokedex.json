@@ -12,6 +12,7 @@
         }
       ],
       "images": "./poke-png-G1/001.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bulbasaur",
@@ -65,6 +66,7 @@
         }
       ],
       "images": "./poke-png-G1/002.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bulbasaur",
@@ -118,6 +120,7 @@
         }
       ],
       "images": "./poke-png-G1/003.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bulbasaur",
@@ -168,6 +171,7 @@
         }
       ],
       "images": "./poke-png-G1/004.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Charmander",
@@ -215,6 +219,7 @@
         }
       ],
       "images": "./poke-png-G1/005.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Charmander",
@@ -265,6 +270,7 @@
         }
       ],
       "images": "./poke-png-G1/006.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Charmander",
@@ -312,6 +318,7 @@
         }
       ],
       "images": "./poke-png-G1/007.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Squirtle",
@@ -356,6 +363,7 @@
         }
       ],
       "images": "./poke-png-G1/008.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Squirtle",
@@ -400,6 +408,7 @@
         }
       ],
       "images": "./poke-png-G1/009.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Squirtle",
@@ -444,6 +453,7 @@
         }
       ],
       "images": "./poke-png-G1/010.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Caterpie",
@@ -491,6 +501,7 @@
         }
       ],
       "images": "./poke-png-G1/011.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Caterpie",
@@ -541,6 +552,7 @@
         }
       ],
       "images": "./poke-png-G1/012.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Caterpie",
@@ -597,6 +609,7 @@
         }
       ],
       "images": "./poke-png-G1/013.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Weedle",
@@ -650,6 +663,7 @@
         }
       ],
       "images": "./poke-png-G1/014.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Weedle",
@@ -703,6 +717,7 @@
         }
       ],
       "images": "./poke-png-G1/015.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Weedle",
@@ -756,6 +771,7 @@
         }
       ],
       "images": "./poke-png-G1/016.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pidgey",
@@ -806,6 +822,7 @@
         }
       ],
       "images": "./poke-png-G1/017.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pidgey",
@@ -856,6 +873,7 @@
         }
       ],
       "images": "./poke-png-G1/018.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pidgey",
@@ -903,6 +921,7 @@
         }
       ],
       "images": "./poke-png-G1/019.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Rattata",
@@ -939,6 +958,7 @@
         }
       ],
       "images": "./poke-png-G1/020.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Rattata",
@@ -978,6 +998,7 @@
         }
       ],
       "images": "./poke-png-G1/021.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spearow",
@@ -1023,6 +1044,7 @@
         }
       ],
       "images": "./poke-png-G1/022.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spearow",
@@ -1065,6 +1087,7 @@
         }
       ],
       "images": "./poke-png-G1/023.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ekans",
@@ -1104,6 +1127,7 @@
         }
       ],
       "images": "./poke-png-G1/024.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ekans",
@@ -1143,6 +1167,7 @@
         }
       ],
       "images": "./poke-png-G1/025.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pichu",
@@ -1184,6 +1209,7 @@
         }
       ],
       "images": "./poke-png-G1/026.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pichu",
@@ -1225,6 +1251,7 @@
         }
       ],
       "images": "./poke-png-G1/027.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sandshrew",
@@ -1267,6 +1294,7 @@
         }
       ],
       "images": "./poke-png-G1/028.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sandshrew",
@@ -1309,6 +1337,7 @@
         }
       ],
       "images": "./poke-png-G1/029.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1353,6 +1382,7 @@
         }
       ],
       "images": "./poke-png-G1/030.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1400,6 +1430,7 @@
         }
       ],
       "images": "./poke-png-G1/031.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1450,6 +1481,7 @@
         }
       ],
       "images": "./poke-png-G1/032.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1494,6 +1526,7 @@
         }
       ],
       "images": "./poke-png-G1/033.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1541,6 +1574,7 @@
         }
       ],
       "images": "./poke-png-G1/034.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Nidoran♀",
@@ -1591,6 +1625,7 @@
         }
       ],
       "images": "./poke-png-G1/035.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cleffa",
@@ -1635,6 +1670,7 @@
         }
       ],
       "images": "./poke-png-G1/036.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cleffa",
@@ -1679,6 +1715,7 @@
         }
       ],
       "images": "./poke-png-G1/037.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Vulpix",
@@ -1721,6 +1758,7 @@
         }
       ],
       "images": "./poke-png-G1/038.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Vulpix",
@@ -1766,6 +1804,7 @@
         }
       ],
       "images": "./poke-png-G1/039.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Igglybuff",
@@ -1813,6 +1852,7 @@
         }
       ],
       "images": "./poke-png-G1/040.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Igglybuff",
@@ -1860,6 +1900,7 @@
         }
       ],
       "images": "./poke-png-G1/041.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Zubat",
@@ -1913,6 +1954,7 @@
         }
       ],
       "images": "./poke-png-G1/042.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Zubat",
@@ -1966,6 +2008,7 @@
         }
       ],
       "images": "./poke-png-G1/043.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Oddish",
@@ -1978,18 +2021,14 @@
           "img": "./poke-png-G1/044.png"
         },
         {
-          "moreOneEvolution": [
-            {
-              "name": "Vileplume",
-              "Lv": "Leaf Stone",
-              "img": "./poke-png-G1/045.png"
-            },
-            {
-              "name": "Bellossom",
-              "Lv": "Sun Stone",
-              "img": "./poke-png-G2/031.png"
-            }
-          ]
+          "name": "Vileplume",
+          "Lv": "Leaf Stone",
+          "img": "./poke-png-G1/045.png"
+        },
+        {
+          "name": "Bellossom",
+          "Lv": "Sun Stone",
+          "img": "./poke-png-G2/031.png"
         }
       ],
       "superdamange": [
@@ -2028,6 +2067,7 @@
         }
       ],
       "images": "./poke-png-G1/044.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Oddish",
@@ -2040,18 +2080,14 @@
           "img": "./poke-png-G1/044.png"
         },
         {
-          "moreOneEvolution": [
-            {
-              "name": "Vileplume",
-              "Lv": "Leaf Stone",
-              "img": "./poke-png-G1/045.png"
-            },
-            {
-              "name": "Bellossom",
-              "Lv": "Sun Stone",
-              "img": "./poke-png-G2/031.png"
-            }
-          ]
+          "name": "Vileplume",
+          "Lv": "Leaf Stone",
+          "img": "./poke-png-G1/045.png"
+        },
+        {
+          "name": "Bellossom",
+          "Lv": "Sun Stone",
+          "img": "./poke-png-G2/031.png"
         }
       ],
       "superdamange": [
@@ -2090,6 +2126,7 @@
         }
       ],
       "images": "./poke-png-G1/045.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Oddish",
@@ -2100,9 +2137,7 @@
           "name": "Gloom",
           "Lv": 21,
           "img": "./poke-png-G1/044.png"
-        },
-        {
-          "moreOneEvolution": [
+        },       
             {
               "name": "Vileplume",
               "Lv": "Leaf Stone",
@@ -2113,8 +2148,7 @@
               "Lv": "Sun Stone",
               "img": "./poke-png-G2/031.png"
             }
-          ]
-        }
+          
       ],
       "superdamange": [
         {
@@ -2152,6 +2186,7 @@
         }
       ],
       "images": "./poke-png-G1/046.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Paras",
@@ -2206,6 +2241,7 @@
         }
       ],
       "images": "./poke-png-G1/047.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Paras",
@@ -2260,6 +2296,7 @@
         }
       ],
       "images": "./poke-png-G1/048.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Venonat",
@@ -2308,6 +2345,7 @@
         }
       ],
       "images": "./poke-png-G1/049.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Venonat",
@@ -2353,6 +2391,7 @@
         }
       ],
       "images": "./poke-png-G1/050.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Diglett",
@@ -2395,6 +2434,7 @@
         }
       ],
       "images": "./poke-png-G1/051.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Diglett",
@@ -2437,6 +2477,7 @@
         }
       ],
       "images": "./poke-png-G1/052.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Meowth",
@@ -2473,6 +2514,7 @@
         }
       ],
       "images": "./poke-png-G1/053.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Meowth",
@@ -2509,6 +2551,7 @@
         }
       ],
       "images": "./poke-png-G1/054.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Psyduck",
@@ -2548,6 +2591,7 @@
         }
       ],
       "images": "./poke-png-G1/055.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Psyduck",
@@ -2587,6 +2631,7 @@
         }
       ],
       "images": "./poke-png-G1/056.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Mankey",
@@ -2597,11 +2642,6 @@
           "name": "Primeape",
           "Lv": 28,
           "img": "./poke-png-G1/057.png"
-        },
-        {
-          "name": "Annihilape",
-          "Lv": "Rage Fist 20 times",
-          "img": "./poke-png-G9/073.png"
         }
       ],
       "superdamange": [
@@ -2634,6 +2674,7 @@
         }
       ],
       "images": "./poke-png-G1/057.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Mankey",
@@ -2644,11 +2685,6 @@
           "name": "Primeape",
           "Lv": 28,
           "img": "./poke-png-G1/057.png"
-        },
-        {
-          "name": "Annihilape",
-          "Lv": "Rage Fist 20 times",
-          "img": "./poke-png-G9/073.png"
         }
       ],
       "superdamange": [
@@ -2681,6 +2717,7 @@
         }
       ],
       "images": "./poke-png-G1/058.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Growlithe",
@@ -2723,6 +2760,7 @@
         }
       ],
       "images": "./poke-png-G1/059.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Growlithe",
@@ -2765,6 +2803,7 @@
         }
       ],
       "images": "./poke-png-G1/060.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Poliwag",
@@ -2776,8 +2815,6 @@
           "Lv": 25,
           "img": "./poke-png-G1/061.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Poliwrath",
               "Lv": "Water Stone",
@@ -2788,8 +2825,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/035.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -2818,6 +2853,7 @@
         }
       ],
       "images": "./poke-png-G1/061.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Poliwag",
@@ -2829,8 +2865,6 @@
           "Lv": 25,
           "img": "./poke-png-G1/061.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Poliwrath",
               "Lv": "Water Stone",
@@ -2841,8 +2875,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/035.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -2874,6 +2906,7 @@
         }
       ],
       "images": "./poke-png-G1/062.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Poliwag",
@@ -2885,8 +2918,6 @@
           "Lv": 25,
           "img": "./poke-png-G1/061.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Poliwrath",
               "Lv": "Water Stone",
@@ -2897,8 +2928,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/035.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -2936,6 +2965,7 @@
         }
       ],
       "images": "./poke-png-G1/063.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Abra",
@@ -2983,6 +3013,7 @@
         }
       ],
       "images": "./poke-png-G1/064.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Abra",
@@ -3030,6 +3061,7 @@
         }
       ],
       "images": "./poke-png-G1/065.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Abra",
@@ -3077,6 +3109,7 @@
         }
       ],
       "images": "./poke-png-G1/066.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Machop",
@@ -3124,6 +3157,7 @@
         }
       ],
       "images": "./poke-png-G1/067.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Machop",
@@ -3171,6 +3205,7 @@
         }
       ],
       "images": "./poke-png-G1/068.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Machop",
@@ -3221,6 +3256,7 @@
         }
       ],
       "images": "./poke-png-G1/069.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bellsprout",
@@ -3274,6 +3310,7 @@
         }
       ],
       "images": "./poke-png-G1/070.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bellsprout",
@@ -3327,6 +3364,7 @@
         }
       ],
       "images": "./poke-png-G1/071.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bellsprout",
@@ -3380,6 +3418,7 @@
         }
       ],
       "images": "./poke-png-G1/072.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Tentacool",
@@ -3425,6 +3464,7 @@
         }
       ],
       "images": "./poke-png-G1/073.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Tentacool",
@@ -3470,6 +3510,7 @@
         }
       ],
       "images": "./poke-png-G1/074.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Geodude",
@@ -3529,6 +3570,7 @@
         }
       ],
       "images": "./poke-png-G1/075.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Geodude",
@@ -3588,6 +3630,7 @@
         }
       ],
       "images": "./poke-png-G1/076.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Geodude",
@@ -3644,6 +3687,7 @@
         }
       ],
       "images": "./poke-png-G1/077.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ponyta",
@@ -3686,6 +3730,7 @@
         }
       ],
       "images": "./poke-png-G1/078.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ponyta",
@@ -3731,14 +3776,13 @@
         }
       ],
       "images": "./poke-png-G1/079.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Slowpoke",
           "Lv": 1,
           "img": "./poke-png-G1/079.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Slowbro",
               "Lv": 37,
@@ -3749,8 +3793,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/048.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -3791,14 +3833,13 @@
         }
       ],
       "images": "./poke-png-G1/080.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Slowpoke",
           "Lv": 1,
           "img": "./poke-png-G1/079.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Slowbro",
               "Lv": 37,
@@ -3809,8 +3850,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/048.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -3851,6 +3890,7 @@
         }
       ],
       "images": "./poke-png-G1/081.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Magnemite",
@@ -3901,6 +3941,7 @@
         }
       ],
       "images": "./poke-png-G1/082.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Magnemite",
@@ -3951,6 +3992,7 @@
         }
       ],
       "images": "./poke-png-G1/083.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Farfetch'd",
@@ -3996,6 +4038,7 @@
         }
       ],
       "images": "./poke-png-G1/084.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Doduo",
@@ -4041,6 +4084,7 @@
         }
       ],
       "images": "./poke-png-G1/085.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Doduo",
@@ -4083,6 +4127,7 @@
         }
       ],
       "images": "./poke-png-G1/086.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Seel",
@@ -4125,6 +4170,7 @@
         }
       ],
       "images": "./poke-png-G1/087.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Seel",
@@ -4170,6 +4216,7 @@
         }
       ],
       "images": "./poke-png-G1/088.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Grimer",
@@ -4209,6 +4256,7 @@
         }
       ],
       "images": "./poke-png-G1/089.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Grimer",
@@ -4248,6 +4296,7 @@
         }
       ],
       "images": "./poke-png-G1/090.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shellder",
@@ -4290,6 +4339,7 @@
         }
       ],
       "images": "./poke-png-G1/091.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shellder",
@@ -4338,6 +4388,7 @@
         }
       ],
       "images": "./poke-png-G1/092.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Gastly",
@@ -4388,6 +4439,7 @@
         }
       ],
       "images": "./poke-png-G1/093.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Gastly",
@@ -4438,6 +4490,7 @@
         }
       ],
       "images": "./poke-png-G1/094.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Gastly",
@@ -4488,6 +4541,7 @@
         }
       ],
       "images": "./poke-png-G1/095.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Onix",
@@ -4539,6 +4593,7 @@
         }
       ],
       "images": "./poke-png-G1/096.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Drowzee",
@@ -4581,6 +4636,7 @@
         }
       ],
       "images": "./poke-png-G1/097.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Drowzee",
@@ -4623,6 +4679,7 @@
         }
       ],
       "images": "./poke-png-G1/098.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Krabby",
@@ -4662,6 +4719,7 @@
         }
       ],
       "images": "./poke-png-G1/099.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Krabby",
@@ -4701,6 +4759,7 @@
         }
       ],
       "images": "./poke-png-G1/100.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Voltorb",
@@ -4737,6 +4796,7 @@
         }
       ],
       "images": "./poke-png-G1/101.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Voltorb",
@@ -4776,6 +4836,7 @@
         }
       ],
       "images": "./poke-png-G1/102.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Exeggcute",
@@ -4833,6 +4894,7 @@
         }
       ],
       "images": "./poke-png-G1/103.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Exeggcute",
@@ -4887,6 +4949,7 @@
         }
       ],
       "images": "./poke-png-G1/104.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Cubone",
@@ -4929,6 +4992,7 @@
         }
       ],
       "images": "./poke-png-G1/105.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Cubone",
@@ -4971,14 +5035,13 @@
         }
       ],
       "images": "./poke-png-G1/106.png",
+      "evolutinLine": 13,
       "evolution": [
         {
           "name": "Tyrogue",
           "Lv": 1,
           "img": "./poke-png-G2/085.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Hitmonlee",
               "Lv": "Level 20, Attack > Defense",
@@ -4994,8 +5057,6 @@
               "Lv": "Level 20, Attack = Defense",
               "img": "./poke-png-G2/086.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -5027,14 +5088,13 @@
         }
       ],
       "images": "./poke-png-G1/107.png",
+      "evolutinLine": 13,
       "evolution": [
         {
           "name": "Tyrogue",
           "Lv": 1,
           "img": "./poke-png-G2/085.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Hitmonlee",
               "Lv": "Level 20, Attack > Defense",
@@ -5050,8 +5110,6 @@
               "Lv": "Level 20, Attack = Defense",
               "img": "./poke-png-G2/086.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -5083,6 +5141,7 @@
         }
       ],
       "images": "./poke-png-G1/108.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Lickitung",
@@ -5119,6 +5178,7 @@
         }
       ],
       "images": "./poke-png-G1/109.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Koffing",
@@ -5155,6 +5215,7 @@
         }
       ],
       "images": "./poke-png-G1/110.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Koffing",
@@ -5194,6 +5255,7 @@
         }
       ],
       "images": "./poke-png-G1/111.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Rhyhorn",
@@ -5206,7 +5268,7 @@
           "img": "./poke-png-G1/112.png"
         },
         {
-          "name": "Rhydon",
+          "name": "Rhyperior",
           "Lv": "trade holding Protector",
           "img": "./poke-png-G4/077.png"
         }
@@ -5253,6 +5315,7 @@
         }
       ],
       "images": "./poke-png-G1/112.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Rhyhorn",
@@ -5265,7 +5328,7 @@
           "img": "./poke-png-G1/112.png"
         },
         {
-          "name": "Rhydon",
+          "name": "Rhyperior",
           "Lv": "trade holding Protector",
           "img": "./poke-png-G4/077.png"
         }
@@ -5309,6 +5372,7 @@
         }
       ],
       "images": "./poke-png-G1/113.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Happiny",
@@ -5350,6 +5414,7 @@
         }
       ],
       "images": "./poke-png-G1/114.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Tangela",
@@ -5398,6 +5463,7 @@
         }
       ],
       "images": "./poke-png-G1/115.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Kangaskhan",
@@ -5429,6 +5495,7 @@
         }
       ],
       "images": "./poke-png-G1/116.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Horsea",
@@ -5473,6 +5540,7 @@
         }
       ],
       "images": "./poke-png-G1/117.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Horsea",
@@ -5517,6 +5585,7 @@
         }
       ],
       "images": "./poke-png-G1/118.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Goldeen",
@@ -5556,6 +5625,7 @@
         }
       ],
       "images": "./poke-png-G1/119.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Goldeen",
@@ -5595,6 +5665,7 @@
         }
       ],
       "images": "./poke-png-G1/120.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Staryu",
@@ -5637,6 +5708,7 @@
         }
       ],
       "images": "./poke-png-G1/121.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Staryu",
@@ -5688,6 +5760,7 @@
         }
       ],
       "images": "./poke-png-G1/122.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Mime Jr.",
@@ -5733,14 +5806,13 @@
         }
       ],
       "images": "./poke-png-G1/123.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Scyther",
           "Lv": 1,
           "img": "./poke-png-G1/123.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Scizor",
               "Lv": "trade holding Metal Coat",
@@ -5751,8 +5823,6 @@
               "Lv": "Black Augurite",
               "img": "./poke-png-G8/090.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -5793,6 +5863,7 @@
         }
       ],
       "images": "./poke-png-G1/124.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Smoochum",
@@ -5844,6 +5915,7 @@
         }
       ],
       "images": "./poke-png-G1/125.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Elekid",
@@ -5885,6 +5957,7 @@
         }
       ],
       "images": "./poke-png-G1/126.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Magby",
@@ -5932,6 +6005,7 @@
         }
       ],
       "images": "./poke-png-G1/127.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Pinsir",
@@ -5969,6 +6043,7 @@
         }
       ],
       "images": "./poke-png-G1/128.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Tauros",
@@ -6000,6 +6075,7 @@
         }
       ],
       "images": "./poke-png-G1/129.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Magikarp",
@@ -6042,6 +6118,7 @@
         }
       ],
       "images": "./poke-png-G1/130.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Magikarp",
@@ -6084,6 +6161,7 @@
         }
       ],
       "images": "./poke-png-G1/131.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Lapras",
@@ -6124,6 +6202,7 @@
         }
       ],
       "images": "./poke-png-G1/132.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Ditto",
@@ -6155,14 +6234,13 @@
         }
       ],
       "images": "./poke-png-G1/133.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -6203,8 +6281,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -6230,14 +6306,13 @@
         }
       ],
       "images": "./poke-png-G1/134.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -6278,8 +6353,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -6308,14 +6381,13 @@
         }
       ],
       "images": "./poke-png-G1/135.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -6356,8 +6428,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -6383,14 +6453,13 @@
         }
       ],
       "images": "./poke-png-G1/136.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -6431,8 +6500,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -6464,6 +6531,7 @@
         }
       ],
       "images": "./poke-png-G1/137.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Porygon",
@@ -6508,6 +6576,7 @@
         }
       ],
       "images": "./poke-png-G1/139.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Omanyte",
@@ -6556,6 +6625,7 @@
         }
       ],
       "images": "./poke-png-G1/139.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Omanyte",
@@ -6604,6 +6674,7 @@
         }
       ],
       "images": "./poke-png-G1/140.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Kabuto",
@@ -6652,6 +6723,7 @@
         }
       ],
       "images": "./poke-png-G1/141.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Kabuto",
@@ -6700,6 +6772,7 @@
         }
       ],
       "images": "./poke-png-G1/142.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Aerodactyl",
@@ -6743,6 +6816,7 @@
         }
       ],
       "images": "./poke-png-G1/143.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Munchlax",
@@ -6782,6 +6856,7 @@
         }
       ],
       "images": "./poke-png-G1/144.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Articuno",
@@ -6825,6 +6900,7 @@
         }
       ],
       "images": "./poke-png-G1/145.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Zapdos",
@@ -6862,6 +6938,7 @@
         }
       ],
       "images": "./poke-png-G1/146.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Moltres",
@@ -6899,6 +6976,7 @@
         }
       ],
       "images": "./poke-png-G1/147.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Dratini",
@@ -6946,6 +7024,7 @@
         }
       ],
       "images": "./poke-png-G1/148.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Dratini",
@@ -6996,6 +7075,7 @@
         }
       ],
       "images": "./poke-png-G1/149.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Dratini",
@@ -7046,6 +7126,7 @@
         }
       ],
       "images": "./poke-png-G1/150.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Mewtwo",
@@ -7083,6 +7164,7 @@
         }
       ],
       "images": "./poke-png-G1/151.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Mew",
@@ -7122,6 +7204,7 @@
         }
       ],
       "images": "./poke-png-G2/001.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Chikorita",
@@ -7175,6 +7258,7 @@
         }
       ],
       "images": "./poke-png-G2/002.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Chikorita",
@@ -7228,6 +7312,7 @@
         }
       ],
       "images": "./poke-png-G2/003.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Chikorita",
@@ -7281,6 +7366,7 @@
         }
       ],
       "images": "./poke-png-G2/004.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cyndaquil",
@@ -7328,6 +7414,7 @@
         }
       ],
       "images": "./poke-png-G2/005.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cyndaquil",
@@ -7375,6 +7462,7 @@
         }
       ],
       "images": "./poke-png-G2/006.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cyndaquil",
@@ -7422,6 +7510,7 @@
         }
       ],
       "images": "./poke-png-G2/007.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Totodile",
@@ -7466,6 +7555,7 @@
         }
       ],
       "images": "./poke-png-G2/008.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Totodile",
@@ -7510,6 +7600,7 @@
         }
       ],
       "images": "./poke-png-G2/009.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Totodile",
@@ -7554,6 +7645,7 @@
         }
       ],
       "images": "./poke-png-G2/010.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sentret",
@@ -7590,6 +7682,7 @@
         }
       ],
       "images": "./poke-png-G2/011.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sentret",
@@ -7629,6 +7722,7 @@
         }
       ],
       "images": "./poke-png-G2/012.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Hoothoot",
@@ -7674,6 +7768,7 @@
         }
       ],
       "images": "./poke-png-G2/013.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Hoothoot",
@@ -7719,6 +7814,7 @@
         }
       ],
       "images": "./poke-png-G2/014.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ledyba",
@@ -7770,6 +7866,7 @@
         }
       ],
       "images": "./poke-png-G2/015.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Ledyba",
@@ -7821,6 +7918,7 @@
         }
       ],
       "images": "./poke-png-G2/016.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spinarak",
@@ -7869,6 +7967,7 @@
         }
       ],
       "images": "./poke-png-G2/017.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spinarak",
@@ -7917,6 +8016,7 @@
         }
       ],
       "images": "./poke-png-G2/018.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Zubat",
@@ -7970,6 +8070,7 @@
         }
       ],
       "images": "./poke-png-G2/019.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Chinchou",
@@ -8012,6 +8113,7 @@
         }
       ],
       "images": "./poke-png-G2/020.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Chinchou",
@@ -8051,6 +8153,7 @@
         }
       ],
       "images": "./poke-png-G2/021.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Pichu",
@@ -8092,6 +8195,7 @@
         }
       ],
       "images": "./poke-png-G2/022.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Cleffa",
@@ -8139,6 +8243,7 @@
         }
       ],
       "images": "./poke-png-G2/023.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Igglybuff",
@@ -8183,6 +8288,7 @@
         }
       ],
       "images": "./poke-png-G2/024.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Togepi",
@@ -8230,6 +8336,7 @@
         }
       ],
       "images": "./poke-png-G2/025.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Togepi",
@@ -8286,6 +8393,7 @@
         }
       ],
       "images": "./poke-png-G2/026.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Natu",
@@ -8337,6 +8445,7 @@
         }
       ],
       "images": "./poke-png-G2/027.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Natu",
@@ -8385,6 +8494,7 @@
         }
       ],
       "images": "./poke-png-G2/028.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mareep",
@@ -8426,6 +8536,7 @@
         }
       ],
       "images": "./poke-png-G2/029.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mareep",
@@ -8467,6 +8578,7 @@
         }
       ],
       "images": "./poke-png-G2/030.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mareep",
@@ -8508,6 +8620,7 @@
         }
       ],
       "images": "./poke-png-G2/031.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Oddish",
@@ -8519,8 +8632,6 @@
           "Lv": 21,
           "img": "./poke-png-G1/044.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vileplume",
               "Lv": "use Leaf Stone",
@@ -8531,8 +8642,6 @@
               "Lv": "use Sun Stone",
               "img": "./poke-png-G2/031.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -8573,6 +8682,7 @@
         }
       ],
       "images": "./poke-png-G2/032.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Azurill",
@@ -8623,6 +8733,7 @@
         }
       ],
       "images": "./poke-png-G2/033.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Azurill",
@@ -8670,6 +8781,7 @@
         }
       ],
       "images": "./poke-png-G2/034.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Bonsly",
@@ -8718,6 +8830,7 @@
         }
       ],
       "images": "./poke-png-G2/035.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Poliwag",
@@ -8729,8 +8842,6 @@
           "Lv": 25,
           "img": "./poke-png-G1/061.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Poliwrath",
               "Lv": "use Water Stone",
@@ -8741,8 +8852,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/035.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -8774,6 +8883,7 @@
         }
       ],
       "images": "./poke-png-G2/036.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Hoppip",
@@ -8830,6 +8940,7 @@
         }
       ],
       "images": "./poke-png-G2/037.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Hoppip",
@@ -8886,6 +8997,7 @@
         }
       ],
       "images": "./poke-png-G2/038.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Hoppip",
@@ -8939,6 +9051,7 @@
         }
       ],
       "images": "./poke-png-G2/039.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Aipom",
@@ -8975,6 +9088,7 @@
         }
       ],
       "images": "./poke-png-G2/040.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sunkern",
@@ -9023,6 +9137,7 @@
         }
       ],
       "images": "./poke-png-G2/041.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sunkern",
@@ -9074,6 +9189,7 @@
         }
       ],
       "images": "./poke-png-G2/042.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Yanma",
@@ -9125,6 +9241,7 @@
         }
       ],
       "images": "./poke-png-G2/043.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wooper",
@@ -9164,6 +9281,7 @@
         }
       ],
       "images": "./poke-png-G2/044.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wooper",
@@ -9200,14 +9318,13 @@
         }
       ],
       "images": "./poke-png-G2/045.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -9248,8 +9365,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -9281,14 +9396,13 @@
         }
       ],
       "images": "./poke-png-G2/046.png",
+      "evolutinLine": 18,
       "evolution": [
         {
           "name": "Eevee",
           "Lv": 1,
           "img": "./poke-png-G1/133.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Vaporeon",
               "Lv": "Water Stone",
@@ -9329,8 +9443,6 @@
               "Lv": "high friendship in Gen 8+",
               "img": "./poke-png-G6/050.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -9365,6 +9477,7 @@
         }
       ],
       "images": "./poke-png-G2/047.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Murkrow",
@@ -9413,14 +9526,13 @@
         }
       ],
       "images": "./poke-png-G2/048.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Slowpoke",
           "Lv": 1,
           "img": "./poke-png-G1/079.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Slowbro",
               "Lv": 37,
@@ -9431,8 +9543,6 @@
               "Lv": "trade holding Kings Rock",
               "img": "./poke-png-G2/048.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -9470,6 +9580,7 @@
         }
       ],
       "images": "./poke-png-G2/049.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Misdreavus",
@@ -9509,6 +9620,7 @@
         }
       ],
       "images": "./poke-png-G2/050.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Unown",
@@ -9546,6 +9658,7 @@
         }
       ],
       "images": "./poke-png-G2/051.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wynaut",
@@ -9591,6 +9704,7 @@
         }
       ],
       "images": "./poke-png-G2/052.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Girafarig",
@@ -9630,6 +9744,7 @@
         }
       ],
       "images": "./poke-png-G2/053.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Pineco",
@@ -9675,6 +9790,7 @@
         }
       ],
       "images": "./poke-png-G2/054.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Pineco",
@@ -9711,6 +9827,7 @@
         }
       ],
       "images": "./poke-png-G2/055.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Dunsparce",
@@ -9750,6 +9867,7 @@
         }
       ],
       "images": "./poke-png-G2/056.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Gligar",
@@ -9792,6 +9910,7 @@
         }
       ],
       "images": "./poke-png-G2/057.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Onix",
@@ -9837,6 +9956,7 @@
         }
       ],
       "images": "./poke-png-G2/058.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Snubbull",
@@ -9876,6 +9996,7 @@
         }
       ],
       "images": "./poke-png-G2/059.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Snubbull",
@@ -9918,6 +10039,7 @@
         }
       ],
       "images": "./poke-png-G2/060.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Qwilfish",
@@ -9958,14 +10080,13 @@
         }
       ],
       "images": "./poke-png-G2/061.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Scyther",
           "Lv": 1,
           "img": "./poke-png-G1/123.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Scizor",
               "Lv": "trade holding Metal Coat",
@@ -9976,8 +10097,6 @@
               "Lv": "Black Augurite",
               "img": "./poke-png-G8/090.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -10006,6 +10125,7 @@
         }
       ],
       "images": "./poke-png-G2/062.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Shuckle",
@@ -10046,6 +10166,7 @@
         }
       ],
       "images": "./poke-png-G2/063.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Heracross",
@@ -10089,6 +10210,7 @@
         }
       ],
       "images": "./poke-png-G2/064.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Sneasel",
@@ -10140,6 +10262,7 @@
         }
       ],
       "images": "./poke-png-G2/065.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Teddiursa",
@@ -10181,6 +10304,7 @@
         }
       ],
       "images": "./poke-png-G2/066.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Teddiursa",
@@ -10222,6 +10346,7 @@
         }
       ],
       "images": "./poke-png-G2/067.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Slugma",
@@ -10267,6 +10392,7 @@
         }
       ],
       "images": "./poke-png-G2/068.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Slugma",
@@ -10315,6 +10441,7 @@
         }
       ],
       "images": "./poke-png-G2/069.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Swinub",
@@ -10371,6 +10498,7 @@
         }
       ],
       "images": "./poke-png-G2/070.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Swinub",
@@ -10427,6 +10555,7 @@
         }
       ],
       "images": "./poke-png-G2/071.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Corsola",
@@ -10467,6 +10596,7 @@
         }
       ],
       "images": "./poke-png-G2/072.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Remoraid",
@@ -10506,6 +10636,7 @@
         }
       ],
       "images": "./poke-png-G2/073.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Remoraid",
@@ -10548,6 +10679,7 @@
         }
       ],
       "images": "./poke-png-G2/074.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Delibird",
@@ -10591,6 +10723,7 @@
         }
       ],
       "images": "./poke-png-G2/075.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Mantyke",
@@ -10633,6 +10766,7 @@
         }
       ],
       "images": "./poke-png-G2/076.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Skarmory",
@@ -10670,6 +10804,7 @@
         }
       ],
       "images": "./poke-png-G2/077.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Houndour",
@@ -10718,6 +10853,7 @@
         }
       ],
       "images": "./poke-png-G2/078.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Houndour",
@@ -10766,6 +10902,7 @@
         }
       ],
       "images": "./poke-png-G2/079.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Horsea",
@@ -10810,6 +10947,7 @@
         }
       ],
       "images": "./poke-png-G2/080.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Phanpy",
@@ -10852,6 +10990,7 @@
         }
       ],
       "images": "./poke-png-G2/081.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Phanpy",
@@ -10894,6 +11033,7 @@
         }
       ],
       "images": "./poke-png-G2/082.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Porygon",
@@ -10935,6 +11075,7 @@
         }
       ],
       "images": "./poke-png-G2/083.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Stantler",
@@ -10971,6 +11112,7 @@
         }
       ],
       "images": "./poke-png-G2/084.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Smeargle",
@@ -11002,14 +11144,13 @@
         }
       ],
       "images": "./poke-png-G2/085.png",
+      "evolutinLine": 13,
       "evolution": [
         {
           "name": "Tyrogue",
           "Lv": 1,
           "img": "./poke-png-G2/085.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Hitmonlee",
               "Lv": "Level 20, Attack > Defense",
@@ -11025,8 +11166,6 @@
               "Lv": "Level 20, Attack = Defense",
               "img": "./poke-png-G2/086.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -11058,14 +11197,13 @@
         }
       ],
       "images": "./poke-png-G2/086.png",
+      "evolutinLine": 13,
       "evolution": [
         {
           "name": "Tyrogue",
           "Lv": 1,
           "img": "./poke-png-G2/085.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Hitmonlee",
               "Lv": "Level 20, Attack > Defense",
@@ -11081,8 +11219,6 @@
               "Lv": "Level 20, Attack = Defense",
               "img": "./poke-png-G2/086.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -11117,6 +11253,7 @@
         }
       ],
       "images": "./poke-png-G2/087.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Smoochum",
@@ -11168,6 +11305,7 @@
         }
       ],
       "images": "./poke-png-G2/088.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Elekid",
@@ -11209,6 +11347,7 @@
         }
       ],
       "images": "./poke-png-G2/089.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Magby",
@@ -11256,6 +11395,7 @@
         }
       ],
       "images": "./poke-png-G2/090.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Miltank",
@@ -11287,6 +11427,7 @@
         }
       ],
       "images": "./poke-png-G2/091.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Happiny",
@@ -11328,6 +11469,7 @@
         }
       ],
       "images": "./poke-png-G2/092.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Raikou",
@@ -11359,6 +11501,7 @@
         }
       ],
       "images": "./poke-png-G2/093.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Entei",
@@ -11396,6 +11539,7 @@
         }
       ],
       "images": "./poke-png-G2/094.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Suicune",
@@ -11433,6 +11577,7 @@
         }
       ],
       "images": "./poke-png-G2/095.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Larvitar",
@@ -11492,6 +11637,7 @@
         }
       ],
       "images": "./poke-png-G2/096.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Larvitar",
@@ -11551,6 +11697,7 @@
         }
       ],
       "images": "./poke-png-G2/097.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Larvitar",
@@ -11613,6 +11760,7 @@
         }
       ],
       "images": "./poke-png-G2/098.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Lugia",
@@ -11659,6 +11807,7 @@
         }
       ],
       "images": "./poke-png-G2/099.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Ho-oh",
@@ -11699,6 +11848,7 @@
         }
       ],
       "images": "./poke-png-G2/100.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Celebi",
@@ -11750,6 +11900,7 @@
         }
       ],
       "images": "./poke-png-G3/001.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Treecko",
@@ -11803,6 +11954,7 @@
         }
       ],
       "images": "./poke-png-G3/002.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Treecko",
@@ -11856,6 +12008,7 @@
         }
       ],
       "images": "./poke-png-G3/003.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Treecko",
@@ -11909,6 +12062,7 @@
         }
       ],
       "images": "./poke-png-G3/004.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Torchic",
@@ -11959,6 +12113,7 @@
         }
       ],
       "images": "./poke-png-G3/005.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Torchic",
@@ -12012,6 +12167,7 @@
         }
       ],
       "images": "./poke-png-G3/006.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Torchic",
@@ -12062,6 +12218,7 @@
         }
       ],
       "images": "./poke-png-G3/007.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mudkip",
@@ -12109,6 +12266,7 @@
         }
       ],
       "images": "./poke-png-G3/008.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mudkip",
@@ -12153,6 +12311,7 @@
         }
       ],
       "images": "./poke-png-G3/009.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Mudkip",
@@ -12194,6 +12353,7 @@
         }
       ],
       "images": "./poke-png-G3/010.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Poochyena",
@@ -12236,6 +12396,7 @@
         }
       ],
       "images": "./poke-png-G3/011.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Poochyena",
@@ -12278,6 +12439,7 @@
         }
       ],
       "images": "./poke-png-G3/012.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Zigzagoon",
@@ -12314,6 +12476,7 @@
         }
       ],
       "images": "./poke-png-G3/013.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Zigzagoon",
@@ -12350,14 +12513,13 @@
         }
       ],
       "images": "./poke-png-G3/014.png",
+      "evolutinLine": 122,
       "evolution": [
         {
           "name": "Wurmple",
           "Lv": 1,
           "img": "./poke-png-G3/014.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Silcoon",
               "Lv": "Level 7, random based on personality",
@@ -12378,8 +12540,6 @@
               "Lv": 10,
               "img": "./poke-png-G3/018.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -12411,14 +12571,13 @@
         }
       ],
       "images": "./poke-png-G3/015.png",
+      "evolutinLine": 122,
       "evolution": [
         {
           "name": "Wurmple",
           "Lv": 1,
           "img": "./poke-png-G3/014.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Silcoon",
               "Lv": "Level 7, random based on personality",
@@ -12439,8 +12598,6 @@
               "Lv": 10,
               "img": "./poke-png-G3/018.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -12475,14 +12632,13 @@
         }
       ],
       "images": "./poke-png-G3/016.png",
+      "evolutinLine": 122,
       "evolution": [
         {
           "name": "Wurmple",
           "Lv": 1,
           "img": "./poke-png-G3/014.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Silcoon",
               "Lv": "Level 7, random based on personality",
@@ -12503,8 +12659,6 @@
               "Lv": 10,
               "img": "./poke-png-G3/018.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -12542,14 +12696,13 @@
         }
       ],
       "images": "./poke-png-G3/017.png",
+      "evolutinLine": 122,
       "evolution": [
         {
           "name": "Wurmple",
           "Lv": 1,
           "img": "./poke-png-G3/014.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Silcoon",
               "Lv": "Level 7, random based on personality",
@@ -12570,8 +12723,6 @@
               "Lv": 10,
               "img": "./poke-png-G3/018.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -12606,14 +12757,13 @@
         }
       ],
       "images": "./poke-png-G3/018.png",
+      "evolutinLine": 122,
       "evolution": [
         {
           "name": "Wurmple",
           "Lv": 1,
           "img": "./poke-png-G3/014.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Silcoon",
               "Lv": "Level 7, random based on personality",
@@ -12634,8 +12784,6 @@
               "Lv": 10,
               "img": "./poke-png-G3/018.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -12673,6 +12821,7 @@
         }
       ],
       "images": "./poke-png-G3/019.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Lotad",
@@ -12723,6 +12872,7 @@
         }
       ],
       "images": "./poke-png-G3/020.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Lotad",
@@ -12773,6 +12923,7 @@
         }
       ],
       "images": "./poke-png-G3/021.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Lotad",
@@ -12820,6 +12971,7 @@
         }
       ],
       "images": "./poke-png-G3/022.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Seedot",
@@ -12873,6 +13025,7 @@
         }
       ],
       "images": "./poke-png-G3/022.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Seedot",
@@ -12929,6 +13082,7 @@
         }
       ],
       "images": "./poke-png-G3/023.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Seedot",
@@ -12991,6 +13145,7 @@
         }
       ],
       "images": "./poke-png-G3/024.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Seedot",
@@ -13053,6 +13208,7 @@
         }
       ],
       "images": "./poke-png-G3/025.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Taillow",
@@ -13098,6 +13254,7 @@
         }
       ],
       "images": "./poke-png-G3/026.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Taillow",
@@ -13143,6 +13300,7 @@
         }
       ],
       "images": "./poke-png-G3/027.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wingull",
@@ -13185,6 +13343,7 @@
         }
       ],
       "images": "./poke-png-G3/028.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wingull",
@@ -13227,6 +13386,7 @@
         }
       ],
       "images": "./poke-png-G3/029.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Ralts",
@@ -13238,8 +13398,6 @@
           "Lv": 20,
           "img": "./poke-png-G3/030.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Gardevoir",
               "Lv": 30,
@@ -13250,8 +13408,6 @@
               "Lv": "use Dawn Stone, Male",
               "img": "./poke-png-G4/088.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13286,6 +13442,7 @@
         }
       ],
       "images": "./poke-png-G3/030.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Ralts",
@@ -13297,8 +13454,6 @@
           "Lv": 20,
           "img": "./poke-png-G3/030.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Gardevoir",
               "Lv": 30,
@@ -13309,8 +13464,6 @@
               "Lv": "use Dawn Stone, Male",
               "img": "./poke-png-G4/088.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13345,6 +13498,7 @@
         }
       ],
       "images": "./poke-png-G3/031.png",
+      "evolutinLine": 112,
       "evolution": [
         {
           "name": "Ralts",
@@ -13356,8 +13510,6 @@
           "Lv": 20,
           "img": "./poke-png-G3/030.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Gardevoir",
               "Lv": 30,
@@ -13368,8 +13520,6 @@
               "Lv": "use Dawn Stone, Male",
               "img": "./poke-png-G4/088.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13404,6 +13554,7 @@
         }
       ],
       "images": "./poke-png-G3/032.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Surskit",
@@ -13449,6 +13600,7 @@
         }
       ],
       "images": "./poke-png-G3/033.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Surskit",
@@ -13497,6 +13649,7 @@
         }
       ],
       "images": "./poke-png-G3/034.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shroomish",
@@ -13548,6 +13701,7 @@
         }
       ],
       "images": "./poke-png-G3/035.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shroomish",
@@ -13599,6 +13753,7 @@
         }
       ],
       "images": "./poke-png-G3/036.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Slakoth",
@@ -13640,6 +13795,7 @@
         }
       ],
       "images": "./poke-png-G3/037.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Slakoth",
@@ -13681,6 +13837,7 @@
         }
       ],
       "images": "./poke-png-G3/038.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Slakoth",
@@ -13725,14 +13882,13 @@
         }
       ],
       "images": "./poke-png-G3/039.png",
+      "evolutinLine": 121,
       "evolution": [
         {
           "name": "Nincada",
           "Lv": 1,
           "img": "./poke-png-G3/039.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Ninjask",
               "Lv": 20,
@@ -13748,8 +13904,6 @@
               "Lv": "+",
               "img": "./poke-png-G3/042.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13787,14 +13941,13 @@
         }
       ],
       "images": "./poke-png-G3/040.png",
+      "evolutinLine": 121,
       "evolution": [
         {
           "name": "Nincada",
           "Lv": 1,
           "img": "./poke-png-G3/039.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Ninjask",
               "Lv": 20,
@@ -13810,8 +13963,6 @@
               "Lv": "+",
               "img": "./poke-png-G3/042.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13852,14 +14003,13 @@
         }
       ],
       "images": "./poke-png-G3/041.png",
+      "evolutinLine": 121,
       "evolution": [
         {
           "name": "Nincada",
           "Lv": 1,
           "img": "./poke-png-G3/039.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Ninjask",
               "Lv": 20,
@@ -13875,8 +14025,6 @@
               "Lv": "+",
               "img": "./poke-png-G3/041.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -13914,6 +14062,7 @@
         }
       ],
       "images": "./poke-png-G3/042.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Whismur",
@@ -13955,6 +14104,7 @@
         }
       ],
       "images": "./poke-png-G3/043.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Whismur",
@@ -13996,6 +14146,7 @@
         }
       ],
       "images": "./poke-png-G3/044.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Whismur",
@@ -14037,6 +14188,7 @@
         }
       ],
       "images": "./poke-png-G3/045.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Makuhita",
@@ -14079,6 +14231,7 @@
         }
       ],
       "images": "./poke-png-G3/046.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Makuhita",
@@ -14124,6 +14277,7 @@
         }
       ],
       "images": "./poke-png-G3/047.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Azurill",
@@ -14168,6 +14322,7 @@
         }
       ],
       "images": "./poke-png-G3/048.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Nosepass",
@@ -14216,6 +14371,7 @@
         }
       ],
       "images": "./poke-png-G3/049.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Skitty",
@@ -14252,6 +14408,7 @@
         }
       ],
       "images": "./poke-png-G3/050.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Skitty",
@@ -14291,6 +14448,7 @@
         }
       ],
       "images": "./poke-png-G3/051.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Sableye",
@@ -14325,6 +14483,7 @@
         }
       ],
       "images": "./poke-png-G3/052.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Mawile",
@@ -14362,6 +14521,7 @@
         }
       ],
       "images": "./poke-png-G3/053.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Aron",
@@ -14412,6 +14572,7 @@
         }
       ],
       "images": "./poke-png-G3/054.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Aron",
@@ -14462,6 +14623,7 @@
         }
       ],
       "images": "./poke-png-G3/055.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Aron",
@@ -14512,6 +14674,7 @@
         }
       ],
       "images": "./poke-png-G3/056.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Meditite",
@@ -14557,6 +14720,7 @@
         }
       ],
       "images": "./poke-png-G3/057.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Meditite",
@@ -14599,6 +14763,7 @@
         }
       ],
       "images": "./poke-png-G3/058.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Electrike",
@@ -14635,6 +14800,7 @@
         }
       ],
       "images": "./poke-png-G3/059.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Electrike",
@@ -14671,6 +14837,7 @@
         }
       ],
       "images": "./poke-png-G3/060.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Plusle",
@@ -14702,6 +14869,7 @@
         }
       ],
       "images": "./poke-png-G3/061.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Minun",
@@ -14733,6 +14901,7 @@
         }
       ],
       "images": "./poke-png-G3/062.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Volbeat",
@@ -14770,6 +14939,7 @@
         }
       ],
       "images": "./poke-png-G3/063.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Volbeat",
@@ -14810,6 +14980,7 @@
         }
       ],
       "images": "./poke-png-G3/064.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Budew",
@@ -14860,6 +15031,7 @@
         }
       ],
       "images": "./poke-png-G3/065.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Gulpin",
@@ -14899,6 +15071,7 @@
         }
       ],
       "images": "./poke-png-G3/066.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Gulpin",
@@ -14941,6 +15114,7 @@
         }
       ],
       "images": "./poke-png-G3/067.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Carvanha",
@@ -14992,6 +15166,7 @@
         }
       ],
       "images": "./poke-png-G3/067.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Carvanha",
@@ -15040,6 +15215,7 @@
         }
       ],
       "images": "./poke-png-G3/069.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wailmer",
@@ -15079,6 +15255,7 @@
         }
       ],
       "images": "./poke-png-G3/070.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wailmer",
@@ -15121,6 +15298,7 @@
         }
       ],
       "images": "./poke-png-G3/071.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Numel",
@@ -15163,6 +15341,7 @@
         }
       ],
       "images": "./poke-png-G3/072.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Numel",
@@ -15202,6 +15381,7 @@
         }
       ],
       "images": "./poke-png-G3/073.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Torkoal",
@@ -15239,6 +15419,7 @@
         }
       ],
       "images": "./poke-png-G3/074.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spoink",
@@ -15281,6 +15462,7 @@
         }
       ],
       "images": "./poke-png-G3/075.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Spoink",
@@ -15323,6 +15505,7 @@
         }
       ],
       "images": "./poke-png-G3/076.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Spinda",
@@ -15354,6 +15537,7 @@
         }
       ],
       "images": "./poke-png-G3/077.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Trapinch",
@@ -15404,6 +15588,7 @@
         }
       ],
       "images": "./poke-png-G3/078.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Trapinch",
@@ -15454,6 +15639,7 @@
         }
       ],
       "images": "./poke-png-G3/079.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Trapinch",
@@ -15501,6 +15687,7 @@
         }
       ],
       "images": "./poke-png-G3/080.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Cacnea",
@@ -15552,6 +15739,7 @@
         }
       ],
       "images": "./poke-png-G3/081.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Cacnea",
@@ -15609,6 +15797,7 @@
         }
       ],
       "images": "./poke-png-G3/082.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Swablu",
@@ -15654,6 +15843,7 @@
         }
       ],
       "images": "./poke-png-G3/083.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Swablu",
@@ -15699,6 +15889,7 @@
         }
       ],
       "images": "./poke-png-G3/084.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Zangoose",
@@ -15730,6 +15921,7 @@
         }
       ],
       "images": "./poke-png-G3/085.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Zangoose",
@@ -15767,6 +15959,7 @@
         }
       ],
       "images": "./poke-png-G3/086.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Lunatone",
@@ -15816,6 +16009,7 @@
         }
       ],
       "images": "./poke-png-G3/087.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Solrock",
@@ -15865,6 +16059,7 @@
         }
       ],
       "images": "./poke-png-G3/088.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Barboach",
@@ -15904,6 +16099,7 @@
         }
       ],
       "images": "./poke-png-G3/089.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Barboach",
@@ -15940,6 +16136,7 @@
         }
       ],
       "images": "./poke-png-G3/090.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Barboach",
@@ -15982,6 +16179,7 @@
         }
       ],
       "images": "./poke-png-G3/091.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Barboach",
@@ -16033,6 +16231,7 @@
         }
       ],
       "images": "./poke-png-G3/092.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Baltoy",
@@ -16087,6 +16286,7 @@
         }
       ],
       "images": "./poke-png-G3/093.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Baltoy",
@@ -16141,6 +16341,7 @@
         }
       ],
       "images": "./poke-png-G3/094.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Lileep",
@@ -16189,6 +16390,7 @@
         }
       ],
       "images": "./poke-png-G3/095.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Lileep",
@@ -16237,6 +16439,7 @@
         }
       ],
       "images": "./poke-png-G3/096.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Anorith",
@@ -16282,6 +16485,7 @@
         }
       ],
       "images": "./poke-png-G3/097.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Anorith",
@@ -16324,6 +16528,7 @@
         }
       ],
       "images": "./poke-png-G3/098.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Feebas",
@@ -16363,6 +16568,7 @@
         }
       ],
       "images": "./poke-png-G3/099.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Feebas",
@@ -16402,6 +16608,7 @@
         }
       ],
       "images": "./poke-png-G3/100.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Castform",
@@ -16433,6 +16640,7 @@
         }
       ],
       "images": "./poke-png-G3/101.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Kecleon",
@@ -16464,6 +16672,7 @@
         }
       ],
       "images": "./poke-png-G3/102.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shuppet",
@@ -16503,6 +16712,7 @@
         }
       ],
       "images": "./poke-png-G3/103.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Shuppet",
@@ -16542,6 +16752,7 @@
         }
       ],
       "images": "./poke-png-G3/104.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Duskull",
@@ -16586,6 +16797,7 @@
         }
       ],
       "images": "./poke-png-G3/105.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Duskull",
@@ -16633,6 +16845,7 @@
         }
       ],
       "images": "./poke-png-G3/106.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Tropius",
@@ -16676,6 +16889,7 @@
         }
       ],
       "images": "./poke-png-G3/107.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Chingling",
@@ -16718,6 +16932,7 @@
         }
       ],
       "images": "./poke-png-G3/108.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Absol",
@@ -16755,6 +16970,7 @@
         }
       ],
       "images": "./poke-png-G3/109.png",
+      "evolutinLine": 11,
       "evolution": [
         {
           "name": "Wynaut",
@@ -16797,14 +17013,13 @@
         }
       ],
       "images": "./poke-png-G3/110.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Snorunt",
           "Lv": 1,
           "img": "./poke-png-G3/110.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Glalie",
               "Lv": 42,
@@ -16815,8 +17030,6 @@
               "Lv": "use Dawn Stone, Female",
               "img": "./poke-png-G4/091.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -16851,14 +17064,13 @@
         }
       ],
       "images": "./poke-png-G3/111.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Snorunt",
           "Lv": 1,
           "img": "./poke-png-G3/110.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Glalie",
               "Lv": 42,
@@ -16869,8 +17081,6 @@
               "Lv": "use Dawn Stone, Female",
               "img": "./poke-png-G4/091.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -16908,6 +17118,7 @@
         }
       ],
       "images": "./poke-png-G3/112.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Spheal",
@@ -16961,6 +17172,7 @@
         }
       ],
       "images": "./poke-png-G3/113.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Spheal",
@@ -17014,6 +17226,7 @@
         }
       ],
       "images": "./poke-png-G3/114.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Spheal",
@@ -17064,14 +17277,13 @@
         }
       ],
       "images": "./poke-png-G3/115.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Clamperl",
           "Lv": 1,
           "img": "./poke-png-G3/115.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Huntail",
               "Lv": "trade holding Deep Sea Tooth",
@@ -17082,8 +17294,6 @@
               "Lv": "trade holding Deep Sea Scale",
               "img": "./poke-png-G3/117.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -17112,14 +17322,13 @@
         }
       ],
       "images": "./poke-png-G3/116.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Clamperl",
           "Lv": 1,
           "img": "./poke-png-G3/115.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Huntail",
               "Lv": "trade holding Deep Sea Tooth",
@@ -17130,8 +17339,6 @@
               "Lv": "trade holding Deep Sea Scale",
               "img": "./poke-png-G3/117.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -17160,14 +17367,13 @@
         }
       ],
       "images": "./poke-png-G3/117.png",
+      "evolutinLine": 12,
       "evolution": [
         {
           "name": "Clamperl",
           "Lv": 1,
           "img": "./poke-png-G3/115.png"
         },
-        {
-          "moreOneEvolution": [
             {
               "name": "Huntail",
               "Lv": "trade holding Deep Sea Tooth",
@@ -17178,8 +17384,6 @@
               "Lv": "trade holding Deep Sea Scale",
               "img": "./poke-png-G3/117.png"
             }
-          ]
-        }
       ],
       "superdamange": [
         {
@@ -17211,6 +17415,7 @@
         }
       ],
       "images": "./poke-png-G3/118.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Relicanth",
@@ -17251,6 +17456,7 @@
         }
       ],
       "images": "./poke-png-G3/119.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Luvdisc",
@@ -17285,6 +17491,7 @@
         }
       ],
       "images": "./poke-png-G3/120.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bagon",
@@ -17332,6 +17539,7 @@
         }
       ],
       "images": "./poke-png-G3/121.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bagon",
@@ -17382,6 +17590,7 @@
         }
       ],
       "images": "./poke-png-G3/122.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Bagon",
@@ -17435,6 +17644,7 @@
         }
       ],
       "images": "./poke-png-G3/123.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Beldum",
@@ -17488,6 +17698,7 @@
         }
       ],
       "images": "./poke-png-G3/124.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Beldum",
@@ -17541,6 +17752,7 @@
         }
       ],
       "images": "./poke-png-G3/125.png",
+      "evolutinLine": 111,
       "evolution": [
         {
           "name": "Beldum",
@@ -17591,6 +17803,7 @@
         }
       ],
       "images": "./poke-png-G3/126.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Regirock",
@@ -17634,6 +17847,7 @@
         }
       ],
       "images": "./poke-png-G3/127.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Regice",
@@ -17674,6 +17888,7 @@
         }
       ],
       "images": "./poke-png-G3/128.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Registeel",
@@ -17714,6 +17929,7 @@
         }
       ],
       "images": "./poke-png-G3/129.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Latias",
@@ -17763,6 +17979,7 @@
         }
       ],
       "images": "./poke-png-G3/130.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Latios",
@@ -17809,6 +18026,7 @@
         }
       ],
       "images": "./poke-png-G3/131.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Kyogre",
@@ -17843,6 +18061,7 @@
         }
       ],
       "images": "./poke-png-G3/132.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Groudon",
@@ -17883,6 +18102,7 @@
         }
       ],
       "images": "./poke-png-G3/133.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Rayquaza",
@@ -17926,6 +18146,7 @@
         }
       ],
       "images": "./poke-png-G3/134.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Jirachi",
@@ -17966,6 +18187,7 @@
         }
       ],
       "images": "./poke-png-G3/135.png",
+      "evolutinLine": 1,
       "evolution": [
         {
           "name": "Deoxys",
