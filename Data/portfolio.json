@@ -1,158 +1,151 @@
 {
-    "softskill": [
+    "hardSkill": [
         {
             "id": 1,
-            "nome":"HTML",
-            "description": "HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu conteúdo."
+            "name":"HTML",
+            "url": "./svg-hard-skill/html-5.svg"
         },
         {
             "id": 2,
-            "nome":"CSS",
-            "description": "CSS (Cascading Style Sheets) é uma linguagem de design feita para simplificar a apresentação e customização de páginas na internet."
+            "name":"CSS",
+            "url": "./svg-hard-skill/css-3.svg"
         },
         {
             "id": 3,
-            "nome":"JavaScript",
-            "description": "JavaScript tinha o propósito de oferecer aos desenvolvedores formas de tornar determinados processos de páginas web mais dinâmicos, tornando seu uso mais agradável."
+            "name":"JavaScript",
+            "url": "./svg-hard-skill/javascript.svg"
         },
         {
             "id": 4,
-            "nome":"React.js",
-            "description": "React é uma biblioteca JavaScript para criar interfaces de usuário. Ela é amplamente utilizada para construir aplicações web modernas e single-page applications (SPA)"
+            "name":"React",
+            "url": "./svg-hard-skill/react.svg"
         },
         {
             "id": 5,
-            "nome":"JQuery",
-            "description": "JQuery e uma biblioteca JavaScript criada para simplifica o uso do JavaScript, uma das três linguagens fundamentais da web, responsável por adicionar funcionalidades interativas aos sites."
+            "name":"JQuery",
+            "url": "./svg-hard-skill/jquery.svg"
         },
         {
             "id": 6,
-            "nome":"Sass",
-            "description": "Sass é uma linguagem de extensão do CSS. A ideia por trás do Sass é adicionar recursos especiais ao CSS, tornando o processo de desenvolvimento mais simples e eficiente."
+            "name":"Sass",
+            "url": "./svg-hard-skill/sass.svg"
         },
         {
             "id": 7,
-            "nome":"Git",
-            "description": "Git é um sistema de controle de revisão distribuído que oferece uma maneira eficiente de gerenciar mudanças no código ao longo do tempo."
+            "name":"Git",
+            "url": "./svg-hard-skill/git.svg"
+        },
+        {
+            "id": 8,
+            "name":"TailwindCSS",
+            "url": "./svg-hard-skill/tailwindcss.svg"
+        },
+        {
+            "id": 9,
+            "name":"TypeScript",
+            "url": "./svg-hard-skill/typescript.svg"
+        },
+        {
+            "id": 10,
+            "name":"jest",
+            "url": "./svg-hard-skill/jest.svg"
+        },
+        {
+            "id": 11,
+            "name":"Vite",
+            "url": "./svg-hard-skill/vite.svg"
+        },
+        {
+            "id": 12,
+            "name":"Webpack",
+            "url": "./svg-hard-skill/webpack.svg"
+        },
+        {
+            "id": 13,
+            "name": "Redux",
+            "url": "./svg-hard-skill/redux.svg"
         }
 
     ],
     "projects": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Pokedex",
-            "img": "project1",
-            "description": "Pokedex é um site desenvolvido com o objetivo de apresentar informações dos monstros da série Pokémon. Sua API ainda está em desenvolvimento, contudo, já conta com as duas primeiras gerações adicionadas. O site é totalmente responsivo e está constantemente sendo atualizado.",
-            "skils": {
-                "skill-1": "React.js",
-                "skill-2": "CSS"
-            },
+            "url": "./project-images/pokedex.png",
+            "description": "Pokédex é um site desenvolvido com o objetivo de apresentar informações dos monstros da série Pokémon, tendo ao todo 905 monstros registrados.",
+            "skills": [
+                { "url": "./svg-hard-skill/react.svg", "name": "react"}, 
+                { "url": "./svg-hard-skill/css-3.svg", "name": "css"}, 
+                { "url": "./svg-hard-skill/jest.svg", "name": "jest"}
+            ],
             "links": {
                 "repositorio": "https://github.com/matheus369k/pokedex",
-                "deploy": "https://matheus369k.github.io/pokedex/#"
+                "deploy": "https://matheus369k.github.io/pokedex/"
             }
         },
         {
-            "id": "2",
+            "id": 2,
+            "name": "Mercado Eletrocado",
+            "url": "./project-images/mercado-eletrocado.png",
+            "description": "Eletrocado é um site que simula uma loja online de vendas de aparelhos eletrônicos.",
+            "skills": [
+                { "url": "./svg-hard-skill/react.svg", "name": "react"}, 
+                {"url": "./svg-hard-skill/vite.svg", "name": "vite"} , 
+                { "url": "./svg-hard-skill/css-3.svg", "name": "css"}, 
+                { "url": "./svg-hard-skill/typescript.svg", "name": "typescript"}, 
+                { "url": "./svg-hard-skill/redux.svg", "name": "redux"}
+            ],
+            "links": {
+                "repositorio": "https://github.com/matheus369k/mercado-eletrocado",
+                "deploy": "https://matheus369k.github.io/mercado-eletrocado/"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Analisar numeros",
+            "url": "./project-images/analisar-numeros.png",
+            "description": "Analisar Números, assim como o nome sugere, analisa uma lista de números e retorna: quantidade, soma, menor, maior e média.",
+            "skills": [
+                {"url": "./svg-hard-skill/html-5.svg", "name": "html"}, 
+                {"url": "./svg-hard-skill/sass.svg", "name": "sass"}, 
+                {"url": "./svg-hard-skill/typescript.svg", "name": "typescript"}, 
+                {"url": "./svg-hard-skill/jest.svg", "name": "jest"}, 
+                {"url": "./svg-hard-skill/webpack.svg", "name": "webpack"}
+            ],
+            "links": {
+                "repositorio": "https://github.com/matheus369k/analisar-numeros",
+                "deploy": "https://matheus369k.github.io/analisar-numeros/"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Todo",
+            "url": "./project-images/todo.png",
+            "description": "Todo é uma página com o foco em anotar tarefas a serem feitas, atribuindo a elas estados de concluída ou não.",
+            "skills": [
+                {"url": "./svg-hard-skill/html-5.svg", "name": "html"}, 
+                {"url": "./svg-hard-skill/tailwindcss.svg", "name": "tailwindcss"}, 
+                {"url": "./svg-hard-skill/javascript.svg", "name": "javascript"}
+            ],
+            "links": {
+                "repositorio": "https://github.com/matheus369k/todo-app",
+                "deploy": "https://matheus369k.github.io/todo-app/"
+            }
+        },
+        {
+            "id": 5,
             "name": "Manage Landing Page",
-            "img": "project2",
-            "description": "Manage Landing Page é a página inicial de um gerenciador de páginas de destino. No desenvolvimento do projeto, foram adicionadas animações para tornar as trocas e carregamentos mais suaves, eventos para criar interações e adição de verificação de email.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "Sass",
-                "skill-3": "JQuery"
-            },
+            "url": "./project-images/manager-landing-page.png",
+            "description": "Manage Landing Page. Assim como o nome sugere, essa é uma página de destino, ou seja, a home.",
+            "skills": [
+                {"url": "./svg-hard-skill/html-5.svg", "name": "html"}, 
+                {"url": "./svg-hard-skill/sass.svg", "name": "sass"}, 
+                {"url": "./svg-hard-skill/javascript.svg", "name": "javascript"}, 
+                {"url": "./svg-hard-skill/jquery.svg", "name": "jquery"}
+            ],
             "links": {
                 "repositorio": "https://github.com/matheus369k/manage-landing-page-master",
                 "deploy": "https://matheus369k.github.io/manage-landing-page-master/"
-            }
-        },
-        {
-            "id": "3",
-            "name": "Product Ecommerce",
-            "img": "project3",
-            "description": "Product E-commerce é uma página de venda de um produto, tendo sua lógica desenvolvida em JavaScript puro. Adição de produtos ao carrinho e remoção do produto escolhido são feitas usando IDs únicos para identificar, e trocas de atributos src para trocar de imagens, tanto automaticamente quanto quando o usuário interage.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "CSS",
-                "skill-3": "JavaScript"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/ecommerce-product-page-main",
-                "deploy": "https://matheus369k.github.io/ecommerce-product-page-main/"
-            }
-        },
-        {
-            "id": "4",
-            "name": "Saga Transformers",
-            "img": "project4",
-            "description": "Saga Transformers é um site informativo sobre todos os filmes da franquia no momento. Foi criado e guardou suas informações em arrays, adicionadas de acordo com o filme a ser mostrado. Possui uma aba para a sinopse básica dos filmes, do elenco, e um trailer inserido. O projeto é totalmente responsivo.",
-            "skils": {
-                "skill-1": "React.js",
-                "skill-2": "CSS"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/saga-transformers-site",
-                "deploy": "https://matheus369k.github.io/saga-transformers-site/"
-            }
-        },
-        {
-            "id": "5",
-            "name": "Room Home Page",
-            "img": "project5",
-            "description": "Room Home Page é um projeto que apresenta a página principal de um site sobre interiores de cômodos. O projeto tem manipulação de atributos de tags pelo JavaScript, tanto para trocar imagens quanto para adicionar e remover classes ou IDs, sendo um projeto responsivo.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "CSS",
-                "skill-3": "JQuery"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/room-homepage-master",
-                "deploy": "https://matheus369k.github.io/room-homepage-master/"
-            }
-        },
-        {
-            "id": "6",
-            "name": "Space Tourism",
-            "img": "project6",
-            "description": "Space Tourism é um site desenvolvido com o objetivo de apresentar um guia para orientar turistas espaciais. Seu desenvolvimento foi feito em React, e seus dados foram importados de uma API JSON externa. O projeto é totalmente responsivo, permitindo o acesso às suas abas sem a necessidade de recarregar a página.",
-            "skils": {
-                "skill-1": "React.js",
-                "skill-2": "CSS"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/space-tourism-website",
-                "deploy": "https://matheus369k.github.io/space-tourism-website/#"
-            }
-        },
-        {
-            "id": "7",
-            "name": "X-Men",
-            "img": "project7",
-            "description": "X-Men é uma página que tem como objetivo mostrar informações sobre alguns dos principais mutantes da série e filmes. O projeto usa uma API JSON local que é acessada pelo Ajax no jQuery. Animações foram adicionadas tanto pelo jQuery quanto pelo CSS.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "Sass",
-                "skill-3": "JQuery"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/Projeto-XMEN",
-                "deploy": "https://matheus369k.github.io/Projeto-XMEN/"
-            }
-        },
-        {
-            "id": "8",
-            "name": "News Home Page",
-            "img": "project8",
-            "description": "News Home Page é a página principal de um site de notícias. É um projeto totalmente responsivo que utilizou Flexbox e Grid Layout para criar sua estilização. Contudo, é um projeto simples, contendo pouca lógica, tendo seu foco na estilização durante sua criação.",
-            "skils": {
-                "skill-1": "HTML5",
-                "skill-2": "CSS",
-                "skill-3": "JavaScript"
-            },
-            "links": {
-                "repositorio": "https://github.com/matheus369k/news-homepage-main",
-                "deploy": "https://matheus369k.github.io/news-homepage-main/"
             }
         }
     ]
