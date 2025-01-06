@@ -4,11 +4,11 @@
         {
           "id": 1,
           "model": "Notebook Samsung Galaxy Book 3 360",
-          "img": "images/product-1.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-1-slide-1.png",
           "slide": {
-            "slide1": "images/product-1.png",
-            "slide2": "img-slide/slide-1-produc-Id-1.png",
-            "slide3": "img-slide/slide-2-produc-Id-1.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-1-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-1-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-1-slide-3.png"
           },
           "screen": "Tela de 14 polegadas",
           "processor": "Intel Core i5-1135G7",
@@ -21,11 +21,11 @@
         {
           "id": 4,
           "model": "Lenovo V130-14IKB 81HQ",
-          "img": "images/product-4.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-4-slide-1.png",
           "slide": {
-            "slide1": "images/product-4.png",
-            "slide2": "img-slide/slide-1-produc-Id-4.png",
-            "slide3": "img-slide/slide-2-produc-Id-4.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-4-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-4-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-4-slide-3.png"
           },
           "screen": " Tela de 14 polegadas",
           "processor": "Intel Core i5-1135G7",
@@ -38,11 +38,11 @@
         {
           "id": 5,
           "model": "Notebook ACER Aspire 5 A515 15.6",
-          "img": "images/product-5.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-5-slide-1.png",
           "slide": {
-            "slide1": "images/product-5.png",
-            "slide2": "img-slide/slide-1-produc-Id-5.png",
-            "slide3": "img-slide/slide-2-produc-Id-5.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-5-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-5-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-5-slide-3.png"
           },
           "screen": "Tela de 14 polegadas",
           "processor": "Intel Core i7-1165G7",
@@ -55,11 +55,11 @@
         {
           "id": 6,
           "model": "Acer Aspire 3 A315-24P-R6SK Notebook",
-          "img": "images/product-6.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-6-slide-1.png",
           "slide": {
-            "slide1": "images/product-6.png",
-            "slide2": "img-slide/slide-1-produc-Id-6.png",
-            "slide3": "img-slide/slide-2-produc-Id-6.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-6-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-6-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-6-slide-3.png"
           },
           "screen": "Tela de 15,6 polegadas",
           "processor": "Intel Core i7-1165G7",
@@ -72,11 +72,11 @@
         {
           "id": 11,
           "model": "Asus VivoBook S501UF-EJ282T Gris",
-          "img": "images/product-11.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-11-slide-1.png",
           "slide": {
-            "slide1": "images/product-11.png",
-            "slide2": "img-slide/slide-1-produc-Id-11.png",
-            "slide3": "img-slide/slide-2-produc-Id-11.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-11-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-11-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-11-slide-3.png"
           },
           "screen": "Tela de 15,6 polegadas",
           "processor": "Intel Core i5-11300H",
@@ -91,11 +91,11 @@
         {
           "id": 2,
           "model": "2023 Latest Android 11.0 Tablet",
-          "img": "images/product-2.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-2-slide-1.png",
           "slide": {
-            "slide1": "images/product-2.png",
-            "slide2": "img-slide/slide-1-produc-Id-2.png",
-            "slide3": "img-slide/slide-2-produc-Id-2.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-2-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-2-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-2-slide-3.png"
           },
           "screen": "Tela de 11 polegadas",
           "processor": "M2",
@@ -108,11 +108,11 @@
         {
           "id": 8,
           "model": "ZONKO Tablet 10.1 Inch Android Tablet",
-          "img": "images/product-8.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-8-slide-1.png",
           "slide": {
-            "slide1": "images/product-8.png",
-            "slide2": "img-slide/slide-1-produc-Id-8.png",
-            "slide3": "img-slide/slide-2-produc-Id-8.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-8-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-8-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-8-slide-3.png"
           },
           "screen": "Tela de 12,4 polegadas",
           "processor": "Qualcomm Snapdragon 888",
@@ -125,11 +125,11 @@
         {
           "id": 9,
           "model": "Android Tablet Pritom 10 inch Android 10 Tablet",
-          "img": "images/product-9.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-9-slide-1.png",
           "slide": {
-            "slide1": "images/product-9.png",
-            "slide2": "img-slide/slide-1-produc-Id-9.png",
-            "slide3": "img-slide/slide-2-produc-Id-9.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-9-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-9-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-9-slide-3.png"
           },
           "screen": "Tela de 10,9 polegadas",
           "processor": "A15 Bionic",
@@ -142,11 +142,11 @@
         {
           "id": 10,
           "model": "G-Tab S30 10.1-Inch",
-          "img": "images/product-10.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-10-slide-1.png",
           "slide": {
-            "slide1": "images/product-10.png",
-            "slide2": "img-slide/slide-1-produc-Id-10.png",
-            "slide3": "img-slide/slide-2-produc-Id-10.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-10-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-10-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-10-slide-3.png"
           },
           "screen": "Tela de 13 polegadas",
           "processor": "Qualcomm Snapdragon 7c Gen 2",
@@ -159,11 +159,11 @@
         {
           "id": 15,
           "model": "Test Sony Xperia Tablet Z",
-          "img": "images/product-15.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-15-slide-1.png",
           "slide": {
-            "slide1": "images/product-15.png",
-            "slide2": "img-slide/slide-1-produc-Id-15.png",
-            "slide3": "img-slide/slide-2-produc-Id-15.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-15-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-15-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-15-slide-3.png"
           },
           "screen": "Tela de 13 polegadas",
           "processor": "Intel Core i7-1185G7",
@@ -178,11 +178,11 @@
         {
           "id": 3,
           "model": "Smartphone Samsung Galaxy S20",
-          "img": "images/product-3.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-3-slide-1.png",
           "slide": {
-            "slide1": "images/product-3.png",
-            "slide2": "img-slide/slide-1-produc-Id-3.png",
-            "slide3": "img-slide/slide-2-produc-Id-3.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-3-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-3-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-3-slide-3.png"
           },
           "screen": "6,8 polegadas, Dynamic AMOLED 2X, 1440 x 3200 pixels, taxa de atualização de 120 Hz",
           "processor": "Exynos 2100 (5 nm) - Internacional, Qualcomm SM8350 Snapdragon 888 5G (5 nm) - EUA",
@@ -195,11 +195,11 @@
         {
           "id": 7,
           "model": "Smartphone Motorola Moto Z Play Xt1635",
-          "img": "images/product-7.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-7-slide-1.png",
           "slide": {
-            "slide1": "images/product-7.png",
-            "slide2": "img-slide/slide-1-produc-Id-7.png",
-            "slide3": "img-slide/slide-2-produc-Id-7.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-7-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-7-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-7-slide-3.png"
           },
           "screen": "P-OLED, 6,5 polegadas, 2400×1080 pixels e 120 Hz",
           "processor": "Qualcomm Snapdragon 750G 5G (8 nm)",
@@ -212,11 +212,11 @@
         {
           "id": 12,
           "model": "Smartphone Samsung Galaxy S20 FE 6.5",
-          "img": "images/product-12.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-12-slide-1.png",
           "slide": {
-            "slide1": "images/product-12.png",
-            "slide2": "img-slide/slide-1-produc-Id-12.png",
-            "slide3": "img-slide/slide-2-produc-Id-12.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-12-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-12-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-12-slide-3.png"
           },
           "screen": "6,8 polegadas, Dynamic AMOLED 2X, 1440 x 3200 pixels, taxa de atualização de 120 Hz",
           "processor": "Octa-core, velocidade do processador de até 3,39 GHz",
@@ -229,11 +229,11 @@
         {
           "id": 13,
           "model": "Celular Iphone 11",
-          "img": "images/product-13.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-13-slide-1.png",
           "slide": {
-            "slide1": "images/product-13.png",
-            "slide2": "img-slide/slide-1-produc-Id-13.png",
-            "slide3": "img-slide/slide-2-produc-Id-13.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-13-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-13-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-13-slide-3.png"
           },
           "screen": "6,1 polegadas, Retina XDR OLED, 1170 x 2532 pixels, taxa de atualização de 60 Hz",
           "processor": "Apple A15 Bionic (5 nm)",
@@ -246,11 +246,11 @@
         {
           "id": 14,
           "model": "Smartphone Motorola One XT1941",
-          "img": "images/product-14.png",
+          "img": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-14-slide-1.png",
           "slide": {
-            "slide1": "images/product-14.png",
-            "slide2": "img-slide/slide-1-produc-Id-14.png",
-            "slide3": "img-slide/slide-2-produc-Id-14.png"
+            "slide1": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-14-slide-1.png",
+            "slide2": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-14-slide-2.png",
+            "slide3": "https://raw.githubusercontent.com/matheus369k/matheus369k.github.io/refs/heads/main/eletrocado-images/image-14-slide-3.png"
           },
           "screen": "P-OLED, 6,5 polegadas, 2400×1080 pixels e 120 Hz",
           "processor": "Qualcomm Snapdragon 750G 5G (8 nm)",
